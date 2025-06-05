@@ -1,0 +1,30 @@
+{
+  "kind": "collectionType",
+  "collectionName": "colors",
+  "info": {
+    "name": "Colors",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "primaryColor": {
+      "type": "string"
+    },
+    "primaryColorLight": {
+      "type": "string"
+    },
+    "primaryColorDark": {
+      "type": "string"
+    },
+    "secondaryColor": {
+      "type": "string"
+    },
+    "name": {
+      "type": "string"
+    }
+  }
+}

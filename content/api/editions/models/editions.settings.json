@@ -1,0 +1,46 @@
+{
+  "kind": "collectionType",
+  "collectionName": "editions",
+  "info": {
+    "name": "editions",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "col_id": {
+      "type": "integer"
+    },
+    "crowd_id": {
+      "type": "integer"
+    },
+    "editionLink": {
+      "type": "string"
+    },
+    "background": {
+      "type": "string"
+    },
+    "logo": {
+      "type": "string"
+    },
+    "timelineData": {
+      "type": "json"
+    },
+    "directories": {
+      "collection": "directories",
+      "via": "edition"
+    },
+    "editionName": {
+      "type": "string"
+    },
+    "color": {
+      "model": "colors"
+    }
+  }
+}

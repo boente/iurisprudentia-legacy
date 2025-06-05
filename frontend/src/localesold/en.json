@@ -1,0 +1,2268 @@
+{
+  "navTitles": {
+    "home": "Home",
+    "about": "About",
+    "news": "Newsletter",
+    "imprint": "Imprint",
+    "privacy": "Privacy",
+    "staticDirectory": "Directory",
+    "crowdDirectory": "Crowdsourcing",
+    "search": "Search",
+    "labor": "Laborversion"
+  },
+  "general": {
+    "page": "Page",
+    "pages": "Pages",
+    "meta": "Metadaten",
+    "noMeta": "Keine Metadaten vorhanden",
+    "noInfo": "Leider sind noch keine Informationen verfügbar.",
+    "error": "An error occured:",
+    "noDoc": "Kein Eintrag zum Dokument im statischen Verzeichnis"
+  },
+  "newsletter": {
+    "text": "Sie haben die Möglichkeit, sich für unseren Newsletter zu registrieren. Schreiben Sie einfach eine Mail mit dem Betreff \"Newsletter\" von Ihrer E-Mail-Adresse an"
+  },
+  "cookieConsent": {
+    "message": "Zur Verbesserung dieser Webseite verwenden wir sog. Cookies. Diese berichten uns anonymisiert über die Nutzung unseres Angebots. Die anonymisierten Daten werden bei uns gespeichert und nicht an Dritte weitergegeben. Wir würden uns freuen, wenn Sie dieser Nutzung zustimmen würden.",
+    "accept": "Zustimmen",
+    "decline": "Ablehnen",
+    "more": "Weitere Informationen"
+  },
+  "viewer": {
+    "toolbar": {
+      "textOverlay": "Überlagernd",
+      "textAside": "Nebeneinander",
+      "decrease": "Verkleinern",
+      "increase": "Vergrössern",
+      "display": "Ansicht einstellen",
+      "showTextVisibility": "Text anzeigen"
+    },
+    "navigationPager": {
+      "prevPage": "Zur vorherigen Seite gehen",
+      "changePage": "Gewünschte Seitenummer eingeben",
+      "pageNum": "Gesamtseitenzahl",
+      "nextPage": "Zur nächsten Seite gehen"
+    },
+    "content": {
+      "info": "Transkription grds. nicht korrigiert. Bitte mit Original abgleichen.",
+      "title": "Maschinelle Transkription",
+      "noText": "Kein text gefunden."
+    }
+  },
+  "timeline": {
+    "bgb": {
+      "name": "Bürgerliches Gesetzbuch",
+      "duration": "1.1.1900",
+      "description": "Das Bürgerliche Gesetzbuch (BGB), in Kraft getreten am 1.1.1900, ist noch heute die zentrale Kodifikation des Privatrechts der Bundesrepublik Deutschland."
+    },
+    "bluntschli": {
+      "name": "Johann Caspar Bluntschli",
+      "duration": "1808-1881",
+      "description": "Johann Caspar Bluntschli (* 7. März 1808, Zürich; † 21. Oktober 1881, Karlsruhe) war ein Schweizer Rechtswissenschaftler und Politiker."
+    },
+    "cpo": {
+      "name": "CPO",
+      "duration": "1866",
+      "description": "Der Entwurf für eine allgemeine Civilproceßordnung für die deutschen Bundesstaaten wurde 1866 publiziert."
+    },
+    "dresdener": {
+      "name": "Dresdener Entwurf",
+      "duration": "1866",
+      "description": "Der sog. Dresdener Entwurf wurde 1866 publiziert und war der ''Entwurf eines allgemeinen deutschen Gesetzes über Schuldverhältnisse''."
+    },
+    "huber": {
+      "name": "Eugen Huber",
+      "duration": "1849-1923",
+      "description": "Eugen Huber (* 13. Juli 1849, Oberstammheim, Kanton Zürich; † 23. April 1923, Bern) war ein Schweizer Rechtswissenschaftler und Politiker. Bekannt ist Eugen Huber vor allem als Verfasser des Schweizerischen Zivilgesetzbuches."
+    },
+    "hgb": {
+      "name": "Handelsgesetzbuch",
+      "duration": "1861",
+      "description": "Das Allgemeine Deutsche Handelsgesetzbuch, beschlossen am 31. Mai 1861, ist Vorgängergesetz des heutigen deutschen Handelsgesetzbuches."
+    },
+    "jhering": {
+      "name": "Rudolf von Jhering",
+      "duration": "1818-1892",
+      "description": "Rudolf von Jhering (* 22. August 1818, Aurich; † 17. September 1892, Göttingen) war ein deutscher Rechtswissenschaftler und von besonderem Einfluss auf das deutsche Privatrecht."
+    },
+    "rjg": {
+      "name": "Reichsjustizgesetze",
+      "duration": "1.10.1879",
+      "description": "Mit Reichsjustizgesetze werden jene Gesetze bezeichnet, die im Deutschen Reich am 1. Oktober 1879 in Kraft traten. Umfasst wurden das Gerichtsverfassungsgesetz, die Zivilprozessordnung, die Strafprozessordnung und die Konkursordnung mit den zugehörigen Einführungsgesetzen."
+    },
+    "savigny": {
+      "name": "Friedrich Carl von Savigny",
+      "duration": "1779-1861",
+      "description": "Friedrich Carl von Savigny (* 21. Februar 1779, Frankfurt am Main; † 25. Oktober 1861, Berlin) war ein deutscher Rechtswissenschaftler. Savigny gilt als Begründer der Historischen Rechtsschule."
+    },
+    "or": {
+      "name": "Schweizerisches Obligationenrecht",
+      "duration": "1.1.1883",
+      "description": "Das Schweizerische Obligationenrecht ist der fünfte Teil des Schweizerischen Zivilgesetzbuches (ZGB)."
+    },
+    "zgb": {
+      "name": "Schweizerisches Zivilgesetzbuch",
+      "duration": "1.1.1912",
+      "description": "Das Schweizerische Zivilgesetzbuch ist die zentrale Kodifikation des schweizerischen Privatrechts."
+    },
+    "vonglueck": {
+      "name": "Christian Friedrich von Glück",
+      "duration": "1755-1831",
+      "description": "Christian Friedrich Glück, ab 1827 von Glück, (* 1. Juli 1755 in Halle (Saale); † 20. Januar 1831 in Erlangen) war ein deutscher Rechtswissenschaftler. Er gilt als bedeutender Vertreter des Usus modernus pandectarum."
+    },
+    "windscheid": {
+      "name": "Bernhard Windscheid",
+      "duration": "1817-1892",
+      "description": "Bernhard Joseph Hubert Windscheid (* 26. Juni 1817, Düsseldorf; † 26. Oktober 1892, Leipzig) war ein deutscher Rechtswissenschaftler mit erheblichen Einfluss auf die deutsche Zivilrechtswissenschaft."
+    }
+  },
+  "home": {
+    "iurisprudentia": [
+      [
+        "The ''iurisprudentia'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from legislation, jurisprudence and legal science. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected."
+      ]
+    ],
+    "vonglueck": [
+      [
+        "The ''EditionVonGlück'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Christian Friedrich von Glück. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "vonglueck",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "vonglueck"
+          }
+        },
+        " are possible. "
+      ]
+    ],
+    "savigny": [
+      [
+        "The ''EditionSavigny'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Friedrich Carl von Savigny. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "savigny",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "savigny"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "bgb": [
+      [
+        "The ''EditionBürgerlichesGesetzbuch'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Bürgerliches Gesetzbuch''. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "bgb",
+            "type": "static"
+          }
+        },
+        " . In thes transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "bgb"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "bluntschli": [
+      [
+        "The ''EditionBluntschli'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Johann Caspar Bluntschli. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "bluntschli",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "bluntschli"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "cpo": [
+      [
+        "The ''EditionCPO'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Civilprozeßordnung''. An automatic transcription will be displayed next to the digital copy.."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "cpo",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "cpo"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "dresdener": [
+      [
+        "The ''EditionDresdenerEntwurf'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Dresdener Entwurf''. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "dresdener",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documetnts ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "dresdener"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "huber": [
+      [
+        "The ''EditionEugenHuber'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Eugen Huber. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "huber",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "huber"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "hgb": [
+      [
+        "The ''EditionHGB'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Allgemeines Deutsches Handelsgesetzbuch''. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "hgb",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "hgb"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "jhering": [
+      [
+        "The ''EditionJhering'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Rudolf von Jhering. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "jhering",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "jhering"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "mommsen": [
+      [
+        "The ''EditionTheodorMommsen'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Theodor Mommsen. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "mommsen",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "mommsen"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "rjg": [
+      [
+        "The ''EditionReichsjustizgesetze'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Reichsjustizgesetze''. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "rjg",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "rjg"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "or": [
+      [
+        "The ''EditionObligationenrecht'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Schweizerisches Obligationenrecht''. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "or",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "or"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "zgb": [
+      [
+        "The ''EditionZivilgesetzbuch'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents about the ''Schweizerisches Zivilgesetzbuch''. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "zgb",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "zgb"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "unger": [
+      [
+        "The ''EditionJosephUnger'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Joseph Unger. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "unger",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "unger"
+          }
+        },
+        " are possible."
+      ]
+    ],
+    "windscheid": [
+      [
+        "The ''EditionWindscheid'' project wants to display the various opportunities offered by the digitalization of historic documents and automatic text recognition for legal research purposes. The main focus of this project is the collection of digitalized documents from and about Bernhard Windscheid. An automatic transcription will be displayed next to the digital copy."
+      ],
+      [
+        "This page is still under construction. The quality of the automatic transcriptions and their text recognition varies greatly from text-type to text-type. The automatic transcriptions aren't manually edited or corrected. Already available digital scans are mentioned in an early provisional ",
+        {
+          "text": "directory",
+          "componentName": "Directory",
+          "params": {
+            "edition": "windscheid",
+            "type": "static"
+          }
+        },
+        " . In these transcribed documents ",
+        {
+          "text": "full-text searches",
+          "componentName": "Search",
+          "params": {
+            "edition": "windscheid"
+          }
+        },
+        " are possible."
+      ]
+    ]
+  },
+  "search": {
+    "general": {
+      "expert": "Expert Search",
+      "options": "Suchoptionen",
+      "placeholder": "Suchbegriff hier eingeben",
+      "placeholderDoc": "Im Dokument suchen ...",
+      "facet": "Titel",
+      "noResults": "Keine Ergebnisse für",
+      "resultNoTitle": "Titel noch unbekannt",
+      "faultTolerance": "Fehlertoleranz für unscharfe Suche",
+      "faultTooltip": "Liefert auch Ergebnisse, die nicht exakt den Suchbegriffen entsprechen, wie z.B. Tippfehler",
+      "docs": "Dokumente",
+      "docsTooltip": "Schränkt die Suche auf die gewählten Dokumente ein",
+      "docsEds": "Editionen & Dokumente",
+      "docsEdsTooltip": "Schränkt die Suche auf die gewählten Editionen und Dokumente ein",
+      "docsEdsAll": "In allen Editionen und Dokumenten suchen",
+      "treeselectNoChildren": "Diese Edition hat keine wählbaren Dokumente",
+      "treeselectDocsPlaceholder": "Dokumente in der",
+      "treeselectAllPlaceholder": "Editionen und Dokumente in iurisprudentia suchen"
+    },
+    "iurisprudentia": [
+      [
+        "The search only includes documents that have already been automatically transcribed. Incorrectly transcribed words are only found in the actually recognised sequence of characters."
+      ]
+    ]
+  },
+  "laborVersion": {
+    "iurisprudentia": [
+      {
+        "title": "",
+        "text": [
+          [
+            "This page is a pilot version. It is published at a very early stage of development. Nevertheless, we still hope it provides an added value at this stage already."
+          ],
+          [
+            "We deliberately publish this project not ”ready for market”. The aim is to thereby evade the fate of many edition projects which, despite high costs, a lot of work and heart and soul, never see the light of day."
+          ],
+          [
+            "We are aware that there are still many mistakes and errors on this site. We are already working on some of them, others however, still require your notice and advice, which we would be very happy to receive at ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " . Although the platform is continuously developed, we are grateful for any suggestions for improvement and further ideas!"
+          ]
+        ]
+      }
+    ]
+  },
+  "about": {
+    "iurisprudentia": [
+      {
+        "title": "",
+        "text": [
+          [
+            "''iurisprudentia'' ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Ziel des Projekts ist es, den über Jahrhunderte gewachsenen Textkorpus „Recht“, zusammengesetzt aus Rechtsetzungswerken, Rechtsprechung sowie Arbeiten der Rechtswissenschaft, digital zugänglich(er) zu machen und aufzuarbeiten. Der Schwerpunkt des Projekts liegt zunächst auf historischen Materialien des deutschen, österreichischen und schweizerischen Rechts. Nach erfolgreicher Pilotphase sollen in Zusammenarbeit mit ",
+            {
+              "text": "Prof. Dr. Jakob Fortunat Stagl ",
+              "link": "https://www.uchile.cl/portafolio-academico/impresion.jsf?username=jakob.stagl"
+            },
+            "jedoch auch andere Rechtskreise erschlossen und internationale Partnerschaften angestrebt werden."
+          ],
+          [
+            "Ein Grossteil der vom Projekt ins Auge gefassten Dokumente findet sich verteilt in Archiven und Bibliotheken und ist häufig nur vor Ort, teils unter besonderen Bedingungen und jeweils gebunden an bestimmte Öffnungszeiten, zugänglich. Selbst soweit von solchen Dokumenten bereits einzelne Digitalisate erstellt wurden, sind diese wiederum auf unterschiedlichen, meist nicht auf die Jurisprudenz zugeschnittenen Plattformen verteilt, ebenfalls mit eigenen Zugangsregeln oder mit jeweils unterschiedlichen technischen Umgebungen. Eine Durchsuchbarkeit der Dokumente im Volltext ist nur selten, eine Durchsuchbarkeit bzw.Transkription auch handschriftlicher Texte nur im Einzelfall gegeben."
+          ],
+          [
+            "Im Rahmen des Projekts „iurisprudentia“ sollen daher Rechtstexte digitalisiert und bereits frei verfügbare Digitalisate an einem Ort zusammengeführt werden. Die Dokumente werden im Volltext erkannt bzw. Handschriften, mit unterschiedlicher, teilweise überraschend hoher Genauigkeit, automatisch transkribiert."
+          ],
+          [
+            "Über ''iurisprudentia'' werden die Digitalisate und das so gewonnene Textkorpus vom heimischen Schreibtisch aus für Rechtswissenschaftler*innen und Historiker*innen „auf einen Klick“ frei verfügbar und in seiner Gesamtheit durchsuch-, auswert- und bearbeitbar sein. Zugleich gewinnt auch die(Computer-)Linguistik einen neuen Forschungsgegenstand, sind doch heutige Rechtstexte häufig hinter Bezahlschranken verborgen und auch der historische Textkorpus „Recht“ noch nie in diesem Umfang zugänglich."
+          ],
+          [
+            "Zurzeit sind auf ''iurisprudentia'' nur Beispieleditionen verfügbar. Inhaltlich sind diese noch unvollständig und sollen vor allem die Idee der Plattform und ihre technischen Möglichkeiten verdeutlichen. Zurzeit wird für eine Vielzahl der Editionen noch nach einer wissenschaftlichen Betreuung gesucht. Darüber hinaus ist ''iurisprudentia'' beliebig und mit nur geringem Aufwand durch weitere Editionen erweiterbar. Auch insoweit sind wir für Vorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sehr dankbar."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Editionsherausgeber*innen selbst angefertigt, teils stammen sie aus unterschiedlichen, in den Metadaten der einzelnen Dokumente nachgewiesenen, Bibliotheken und Archiven. Ohne die Digitalisate dieser Plattformen und Institutionen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die inhaltiche Erschliessung der Dokumente im vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herrn Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "bgb": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionBürgerlichesGesetzbuch ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionBürgerlichesGesetzbuch soll in Zukunft Materialien zur Entstehungsgeschichte des Bürgerlichen Gesetzbuchs an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionBürgerlichesGesetzbuch nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionBürgerlichesGesetzbuch bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionBürgerlichesGesetzbuch bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+              "link": "https://staatsbibliothek-berlin.de/"
+            },
+            " und dem dort angesiedelten ",
+            {
+              "text": "Fachinformationsdienst für internationale und interdisziplinäre Rechtsforschung/<intR>²",
+              "link": "https://vifa-recht.de/"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "bluntschli": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionBluntschli ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Grosszügig unterstützt werden wir von der ",
+            {
+              "text": "Zentralbibliothek Zürich",
+              "link": "https://www.zb.uzh.ch/de/"
+            },
+            "."
+          ],
+          [
+            "Die EditionBluntschli soll in Zukunft zum Werk und Leben Johann Caspar Bluntschlis an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen. Zurzeit ist die EditionBluntschli nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zu Bluntschli zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionBluntschli bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionBluntschli bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie von der ",
+            {
+              "text": "Zentralbibliothek Zürich",
+              "link": "https://www.zb.uzh.ch/de/"
+            },
+            ", teils aus den ",
+            {
+              "text": "Sheridan Libraries der Johns Hopkins University",
+              "link": "https://www.library.jhu.edu/"
+            },
+            " und weiteren Archiven und Bibliotheken. Ganz besonders konnten wir auch von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            " profitieren. Ohne diese Plattformen und Institutionen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "cpo": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionCPO ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionCPO soll in Zukunft Materialien Entwurf für eine allgemeine Civilproceßordnung für die deutschen Bundesstaaten an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionCPO nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionCPO bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionCPO bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "dresdener": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionDresdenerEntwurf ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionDresdenerEntwurf soll in Zukunft Materialien zum Dresdener Entwurf an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionDresdenerEntwurf nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionDresdenerEntwurf bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionDresdenerEntwurf bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "huber": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Das Projekt EditionEugenHuber ist ein Gemeinschaftsprojekt der Lehrstühle von ",
+            {
+              "text": "Prof. Dr. Sibylle Hofer",
+              "link": "https://www.rhist.unibe.ch/index_ger.html"
+            },
+            ", Lehrstuhl für Rechtsgeschichte und Privatrecht, Universität Bern, und ",
+            {
+              "text": "Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ", Lehrstuhl für Privatrecht mit Schwerpunkt ZGB, Universität Zürich."
+          ],
+          [
+            "Das Projekt soll Materialien zum Werk und Leben Eugen Hubers an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen. Umfasst sind dabei insbesondere auch Dokumente zur Entstehungsgeschichte des Schweizerischen Zivilgesetzbuchs, die bis jetzt noch keinen Eingang in die wissenschaftliche Diskussion gefunden haben."
+          ],
+          [
+            "Aufgrund der nur maschinellen und nicht von Hand nachbearbeiteten Transkriptionen, versteht sich die EditionEugenHuber bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder schwer lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie von der ",
+            {
+              "text": "Plattform e-rara",
+              "link": "https://www.e-rara.ch/"
+            },
+            ". teils aus weiteren Archiven und Bibliotheken. Ganz besonders konnten wir von der Digitalisierungsoffensive des ",
+            {
+              "text": "Schweizerischen Bundesarchivs",
+              "link": "https://www.bar.admin.ch/bar/de/home.html"
+            },
+            " profitieren. Ohne diese Plattformen und Institutionen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Manuskripte Eugen Hubers im vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Besonderen Dank schulden wir schliesslich auch Herrn ",
+            {
+              "text": "David Pfammatter",
+              "link": "https://archeos.ch/mitglied/david-pfammatter/"
+            },
+            ", der die Transkripte zum Training des Erkennungsmodells für die Handschrift Hubers erstellt hat, sowie den Herren Dr. Emanuel Schädler und Camille Savary, die diese Daten für die weitere Veröffentlichung aufgearbeitet haben."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "hgb": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionHGB ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionHGB soll in Zukunft Materialien zum Allgemeinen Deutschen Handelsgesetzbuch an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionHGB nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionHGB bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionHGB bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "jhering": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Das Projekt EditionJhering ist ein Gemeinschaftsprojekt von ",
+            {
+              "text": "Prof. Dr. Christoph-Eric Mecke, z.Z Humboldt-Universität zu Berlin",
+              "link": "https://www.rewi.hu-berlin.de/de/lf/ls/ths/cem"
+            },
+            ", Lehrstuhl für Rechtsgeschichte und Privatrecht, Universität Bern, und ",
+            {
+              "text": "Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ", Lehrstuhl für Privatrecht mit Schwerpunkt ZGB, Universität Zürich."
+          ],
+          [
+            "Das Projekt befindet sich noch im Entwicklungsstadium und soll in Zukunft Materialien zum Werk und Leben Rudolf von Jherings an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung weltweit zugänglich(er) machen."
+          ],
+          [
+            "Ziel des Projekts ist eine Verbesserung der vollkommen unbefriedigenden Editionslage der in Bibliotheken und Archiven erhaltenen Handschriften Jherings, deren Bandbreite von kleinen Notizen bis hin zu druckreifen Ausarbeitungen reicht. Allein im wissenschaftlichen Nachlass Jherings, der in der ",
+            {
+              "text": "Niedersächsischen Staats- und Universitätsbibliothek Göttingen",
+              "link": "http://hans.sub.uni-goettingen.de/nachlaesse/Jhering.pdf"
+            },
+            " aufbewahrt wird, befinden sich fast 20.000 beschriebenen Blattseiten von Jherings Hand, die die Forschung im 20. Jahrhundert – von wenigen Ausnahmen abgesehen – praktisch nicht zu Gesicht bekommen, geschweige auf ihren wissenschaftlichen Gehalt hin auswerten konnte. Eine der wenigen Ausnahmen war im Jahre 1998 die von Prof. Dr. Dr. h.c. Okko Behrends besorgte Transkription, Herausgabe und Kommentierung der für das Wissenschafts- und Rechtsverständnis Jherings so wichtigen Wiener Antrittsvorlesung vom 16. Oktober 1868 zum Thema «Ist die Jurisprudenz eine Wissenschaft?». Allein die beiden Jahresdaten 1868 und 1998, die die Dauer des Dornröschenschlafs dieses nach genau 130 Jahren glücklich, aber viel zu spät gehobenen Schatzes aus dem Göttinger wissenschaftlichen Nachlass markieren, belegen das ganze Dilemma der Handschriftenedition im Allgemeinen."
+          ],
+          [
+            "Maßgebliche Gründe für dieses Dilemma liegen einerseits in der erschwerten Zugänglichkeit zu den handschriftlichen Originalen zu deren bibliothekarischen Schutz, andererseits aber auch in den gerade im Falle Jherings häufig besonders schwer lesbaren Handschriften, über die schon Victor Ehrenberg, immerhin Jherings Schwiegersohn, Fachkollege und Herausgeber posthum erschienener Schriften Jherings geklagt hat (vgl. C.-E. Mecke, Rudolf von Jhering. Anonym publizierte Frühschriften und unveröffentlichte Handschriften aus seinem Nachlaß, Göttingen 2010, S. 150 Fn. 425). Die Folge war und ist, dass Jherings Handschriften bis heute nur ganz sporadisch zur wissenschaftlichen Auswertung herangezogen wurden. Hergebrachte Transkriptionen sind nicht nur ungeheuer zeitaufwändig, sondern auch allenfalls punktuell finanzierbar – zumal in Zeiten des Drittmittelwesens."
+          ],
+          [
+            "Das erstgenannte Manko lässt sich im Informationszeitalter des 21. Jahrhunderts vergleichsweise einfach beheben. Die Interessen der Forschung an weltweiter und ständiger Zugänglichkeit der Handschriften und die tendenziell gegenläufigen konservatorischen Interessen an möglichst wenigen physischen Zugriffen auf die Originale lassen sich durch die Anfertigung von Digitalisaten und deren Zugänglichmachung im World Wide Web auf fast schon einfache Weise zum Austrag bringen. Daher bildet auch die erste Säule des Projekts EditionJhering die Anfertigung und Sammlung von Digitalisaten seiner (Hand-)Schriften, die auf der Plattform nach und nach zentral und weltweit greifbar sein sollen."
+          ],
+          [
+            "Bei dem Versuch einer Behebung des zweitgenannten Mankos der stark erschwerten inhaltlichen Erschließbarkeit der Handschriften aufgrund fehlender Transkriptionen und Handschriften - Editionen geht das vorliegende Projekt den eher unkonventionellen Weg eines ständigen «work in progress», ebenfalls unter Einsatz der Informationstechnologie. Nicht die annähernd fehlerfreie endgültige Transkription von menschlicher Hand steht am Anfang, sondern die noch – zu Beginn sogar stark – fehlerhaltige vorläufige Transkription durch die Maschine. Die Maschine kann und soll den Menschen nicht ersetzen, aber sie soll – mit durch händische Korrekturen zunehmend optimierten Erkennungsmodellen – den ersten Schritt auf dem Weg zur weltweit zugänglichen Erschließung der Schriften tun. Ein Grossteil der vorhandenen Dokumente wurde daher ausschließlich maschinell transkribiert."
+          ],
+          [
+            "Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionJhering bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung.Ziel ist es, möglichst niederschwellig den Zugang zu bisher teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            "profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "rjg": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionReichsjustizgesetze ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionReichsjustizgesetze soll in Zukunft Materialien zu den Reichsjustizgesetzen an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionReichsjustizgesetze nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionReichsjustizgesetze bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionReichsjustizgesetze bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "savigny": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionSavigny ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionSavigny soll in Zukunft zum Werk und Leben Friedrich Carl von Savignys an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionSavigny nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zu von Savigny zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionSavigny bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionSavigny bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie von der ",
+            {
+              "text": "Universitätsbibliothek Marburg",
+              "link": "http://savigny.ub.uni-marburg.de/"
+            },
+            " und weiteren Archiven und Bibliotheken. Ohne diese Plattformen und Institutionen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Stellvertretend für viele sei hier Herr Dr. Bernd Reifenberg von der Universitätsbibliothek Marburg genannt. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "or": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionObligationenrecht ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionObligationenrecht soll in Zukunft Materialien zum Schweizerischen Obligationenrecht an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionObligationenrecht nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionObligationenrecht bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionObligationenrecht bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von der Digitalisierungsoffensive des ",
+            {
+              "text": "Schweizerischen Bundesarchivs",
+              "link": "https://www.bar.admin.ch/bar/de/home.html"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "zgb": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionZivilgesetzbuch ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionZivilgesetzbuch soll in Zukunft Materialien zum Schweizerischen Zivilgesetzbuch an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionZivilgesetzbuch nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionZivilgesetzbuch bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionZivilgesetzbuch bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von der Digitalisierungsoffensive des ",
+            {
+              "text": "Schweizerischen Bundesarchivs",
+              "link": "https://www.bar.admin.ch/bar/de/home.html"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "vonglueck": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionVonGlück ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionVonGlück soll in Zukunft zum Werk und Leben Christian Friedrich von Glücks an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionVonGlück nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zu von Glück zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionVonGlück bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionVonGlück bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ],
+    "windscheid": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Die EditionWindscheid ist ein Projekt des ",
+            {
+              "text": "Lehrstuhls für Privatrecht mit Schwerpunkt ZGB, Universität Zürich, Prof. Dr. Walter Boente",
+              "link": "https://www.ius.uzh.ch/de/staff/professorships/alphabetical/boente.html"
+            },
+            ". Die EditionWindscheid soll in Zukunft zum Werk und Leben Bernhard Windscheids an einem Ort zusammenführen und so der breiten Öffentlichkeit und Forschung zugänglich(er) machen."
+          ],
+          [
+            "Zurzeit ist die EditionWindscheid nur als Rumpfedition verfügbar. Bis eine wissenschaftliche Betreuung für die Edition gefunden ist, werden nur einzelne Dokumente zu Bernhard Windscheid zur Verfügung gestellt werden können. Wir hoffen dennoch, dass die EditionWindscheid bereits in ihrem aktuellen Zuschnitt von einem gewissen Mehrwert ist."
+          ],
+          [
+            "Ein Grossteil der vorhandenen Dokumente wurde maschinell transkribiert. Aufgrund dieser maschinellen und nicht von Hand nachbearbeiteten Transkriptionen versteht sich die EditionWindscheid bloss als Ausgangspunkt und Steinbruch für die weitere wissenschaftliche Forschung. Ziel ist es, möglichst niederschwellig den Zugang zu teils nur schwer zugänglichen oder lesbaren Dokumenten zu ermöglichen, um so den Boden für hieran anknüpfende wissenschaftliche Projekte zu bereiten."
+          ],
+          [
+            "Unser besonderer gilt Herrn Dr. Friedrich Klein für Rat und Unterstützung - und für seine herausragende Arbeit ",
+            {
+              "text": "Klein, Friedrich, Berhard Windscheid, 26.6.1817 - 26.10.1892, Leben und Werk, Berlin 2014",
+              "link": "https://elibrary.duncker-humblot.com/publikation/b/id/35133/"
+            },
+            "."
+          ],
+          [
+            "Massgeblich unterstützt wurde das Projekt weiter durch ",
+            {
+              "text": "Prof. Dr. Tobias Hodel",
+              "link": "https://www.dh.unibe.ch/ueber_uns/personen/prof_dr_hodel_tobias/index_ger.html"
+            },
+            ", Digital Humanities, Walter Benjamin Kolleg, Universität Bern, ",
+            {
+              "text": "Mag. iur. Mag. phil. Bernhard Dengg",
+              "link": "https://www.unibe.ch/universitaet/dienstleistungen/universitaetsbibliothek/ueber_uns/ansprechpersonen/personen/dengg_bernhard/index_ger.html"
+            },
+            ", Leiter Bereich Recht und Wirtschaft, Universitätsbibliothek Bern, und ",
+            {
+              "text": "Dr. Andrea Malits",
+              "link": "https://www.hbz.uzh.ch/de/ueber-uns/ansprechpersonen/hbz_abteilungsleitungen/hbz_abteilung_data_services_und_open_access.html"
+            },
+            ", Leitung Data Services und Open Access, Hochschulbibliothek Zürich. Ihnen sind wir zu grossem Dank verpflichtet."
+          ],
+          [
+            "Die Digitalisate wurden teils von den beteiligten Lehrstühlen selbst angefertigt, teils stammen sie aus Archiven und Bibliotheken. Ganz besonders konnten wir von dem digitalen Angebot der ",
+            {
+              "text": "Bayerischen Staatsbibliothek",
+              "link": "https://www.bsb-muenchen.de/"
+            },
+            " profitieren. Ohne diese Institutionen und Plattformen sowie die breite Unterstützung von Archivar*innen und Bibliothekar*innen sind Projekte wie das vorliegende nicht möglich. Herzlichen Dank!"
+          ],
+          [
+            "Voraussetzung für Start, Gelingen und Fortführung dieses Projekts ist das Programm ",
+            {
+              "text": "Transkribus",
+              "link": "https://readcoop.eu/"
+            },
+            ", das die maschinelle Erschliessung der Dokumente vorliegenden Umfang erst möglich gemacht hat. Stellvertretend für das ganz Transkribus-Team gilt unser herzlicher Dank Günter Mühlberger, Andreas Stauder und Berthold Ulreich."
+          ],
+          [
+            "Die grafische Gestaltung dieser Seite ist wiederum Herrn Berthold Ulreich sowie den Herren Raphael Schoen und Dominik Huber von der ",
+            {
+              "text": "Abteilung Scientific Visualisation and Visual Communication (SIVIC)",
+              "link": "https://www.zi.uzh.ch/de/staff/media/visual-design.html"
+            },
+            " der Universität Zürich zu verdanken."
+          ],
+          [
+            "Die Programmierung dieser Seite baut auf der ",
+            {
+              "text": "Read&Search-Plattform von Transkribus",
+              "link": "https://readcoop.eu/readsearch/"
+            },
+            " auf. Dass die Oberfläche von Grund auf den Zwecken unseres Projekts angepasst werden konnte, verdanken wir Mag. iur. Marwan Ezzat (Lead programmer) sowie der grosszügigen Unterstützung durch die ",
+            {
+              "text": "Abteilung IT-Projekte an der Rechtswissenschaftlichen Fakultät der Universität Zürich",
+              "link": "https://rwi.app/welcome/"
+            },
+            ". Stellvertretend für das ganze Team gilt hier unser Dank ",
+            {
+              "text": "Herrn Silas Weber, MSc, Leiter IT-Projekte RWF",
+              "link": "https://rwi.app/welcome/team"
+            },
+            "."
+          ],
+          [
+            "Für Verbesserungsvorschläge an ",
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            },
+            " sind wir dankbar."
+          ]
+        ]
+      }
+    ]
+  },
+  "privacy": {
+    "iurisprudentia": [
+      {
+        "title": "",
+        "text": [
+          [
+            "Wir freuen uns über Ihren Besuch auf Seiten von «iurisprudentia». Datenschutz ist für uns ein wichtiges Anliegen. Im Folgenden möchten wir Sie kurz darüber unterrichten, welche Daten wir im Rahmen der geltenden datenschutzrechtlichen Bestimmungen von Besuchern und Nutzern der Plattform zu welchem Zweck erheben, weiter bearbeiten und bekannt geben, und welche Massnahmen getroffen worden sind, um für die Sicherheit dieser Daten zu sorgen. Dabei unterliegt unsere Angebot dem schweizerischen Datenschutzrecht sowie im Einzelfall anwendbarem ausländischem Datenschutzrecht, insbesondere der Datenschutz-Grundverordnung (DSGVO) der Europäischen Union (EU)."
+          ]
+        ]
+      },
+      {
+        "title": "I. Gegenstand des Datenschutzes",
+        "text": [
+          [
+            "Diese Datenschutzerklärung gilt für die Verarbeitung von personenbezogenen Daten im Zusammenhang mit unserem Angebot. Datenschutz dient dem Schutz der Persönlichkeitsrechte. Er verpflichtet die Datenbearbeiter zu rechtmässigem Handeln und verleiht den betroffenen Personen durchsetzbare Rechte im Hinblick auf die Bearbeitung bzw. Verarbeitung ihrer Personendaten bzw. personenbezogenen Daten."
+          ],
+          [
+            "- Personendaten sind nach § 3 Gesetz über die Information und den Datenschutz des Kantons Zürich (IDG ZH) alle Informationen, die sich auf eine bestimmte oder bestimmbare Person beziehen. Hierunter fallen z.B. Angaben wie Name, Anschrift, Telefonnummer, E-Mail- oder IP-Adresse."
+          ],
+          [
+            "- Gemäss Art. 4 Ziff. 1 DSGVO sind „personenbezogene Daten“ alle Informationen, die sich auf eine identifizierte oder identifizierbare natürliche Person (im Folgenden „betroffene Person“) beziehen; als identifizierbar wird eine natürliche Person angesehen, die direkt oder indirekt, insbesondere mittels Zuordnung zu einer Kennung wie einem Namen, zu einer Kennnummer, zu Standortdaten, zu einer Online-Kennung oder zu einem oder mehreren besonderen Merkmalen, die Ausdruck der physischen, physiologischen, genetischen, psychischen, wirtschaftlichen, kulturellen oder sozialen Identität dieser natürlichen Person sind, identifiziert werden kann."
+          ],
+          [
+            "- Gemäss Art. 4 Ziff. 2 DSGVO meint „Verarbeitung“ jeden mit oder ohne Hilfe automatisierter Verfahren ausgeführten Vorgang oder jede solche Vorgangsreihe im Zusammenhang mit personenbezogenen Daten wie das Erheben, das Erfassen, die Organisation, das Ordnen, die Speicherung, die Anpassung oder Veränderung, das Auslesen, das Abfragen, die Verwendung, die Offenlegung durch Übermittlung, Verbreitung oder eine andere Form der Bereitstellung, den Abgleich oder die Verknüpfung, die Einschränkung, das Löschen oder die Vernichtung."
+          ]
+        ]
+      },
+      {
+        "title": "II. Datenerhebung, -bearbeitung, -speicherung",
+        "text": [
+          [
+            "Bei jedem Anfordern resp. Aufrufen einer iurisprudentia-Webseite werden folgende Zugriffsdaten erhoben und in einer Webserver-Logdatei auf unseren Servern gespeichert:"
+          ],
+          [
+            "(1) die IP-Adresse des anfordernden Rechners (z.B. 123.456.97.36);"
+          ],
+          [
+            "(2) die Seite/Adresse (URL), von der aus unsere Webseite angefordert wurde;"
+          ],
+          [
+            "(3) der Pfad und der Name unserer angeforderten Webseite;"
+          ],
+          [
+            "(4) das Datum und die Uhrzeit der Anforderung (z.B. [12/Apr/2016:00:00:01+0200]);"
+          ],
+          [
+            "(5) die übertragene Datenmenge;"
+          ],
+          [
+            "(6) der Zugriffsstatus;"
+          ],
+          [
+            "(7) die Zugriffsart;"
+          ],
+          [
+            "(8) die Beschreibung des verwendeten Webbrowsertyps bzw. des verwendeten Betriebssystems;"
+          ],
+          [
+            "(9) die Session-ID;"
+          ],
+          [
+            "(10) Seriennummer des anfordernden Rechners."
+          ],
+          [
+            "Die Bearbeitung dieser Daten erfolgt zu folgenden Zwecken:"
+          ],
+          [
+            "(1) Sicherstellung der Netzinfrastruktur und der technischen Administration;"
+          ],
+          [
+            "(2) Optimierung der Nutzung bestimmter Web-Angebote;"
+          ],
+          [
+            "(3) Identifikation und Nachverfolgung unzulässiger Zugriffsversuche."
+          ],
+          [
+            "Die Webserver-Logdateien werden ab Beendigung des Zugriffs für einen Zeitraum von 6 Monaten gespeichert. Danach werden die Webserver-Logdateien automatisch gelöscht, soweit nicht ein erkannter Angriff auf unsere Netzinfrastruktur zu einer zivil- oder strafrechtlichen Verfolgung des Angreifers führt und damit eine weitere Speicherung erforderlich macht."
+          ]
+        ]
+      },
+      {
+        "title": "III. Einwilligung in (weitergehende) Datennutzung",
+        "text": [
+          [
+            "Ihre Personendaten bearbeiten wir nach den Vorgaben des schweizerischen Datenschutzrechts, insbesondere nach dem Bundesgesetz über den Datenschutz (DSG) und der Verordnung zum Bundesgesetz über den Datenschutz (VDSG)."
+          ],
+          [
+            "Soweit die Datenschutz-Grundverordnung (DSGVO) Anwendung findet, verarbeiten wir Ihre personenbezogenen Daten nur, wenn mindestens eine der nachstehenden Bedingungen erfüllt ist:"
+          ],
+          [
+            "(1) Sie haben ihre Einwilligung zu der Verarbeitung der sie betreffenden personenbezogenen Daten für einen oder mehrere bestimmte Zwecke gegeben (Art. 6 Abs. 1 lit.a DSGVO). Dabei haben Sie das Recht, ihre Einwilligung jederzeit zu widerrufen, ohne dass damit jedoch die Rechtmäßigkeit der aufgrund Ihrer Einwilligung bis zum Widerruf erfolgten Verarbeitung berührt wird (Art. 13 Abs. 2 lit.c)."
+          ],
+          [
+            "(2) Die Verarbeitung ist für die Erfüllung eines Vertrags, dessen Vertragspartei die betroffene Person ist, oder zur Durchführung vorvertraglicher Maßnahmen erforderlich, die auf Anfrage der betroffenen Person erfolgen (Art. 6 Abs. 1 lit.b DSGVO)."
+          ],
+          [
+            "(3) Die Verarbeitung ist zur Erfüllung einer rechtlichen Verpflichtung erforderlich, der wir unterliegen (Art. 6 Abs. 1 lit.c DSGVO)."
+          ],
+          [
+            "(4) Die Verarbeitung ist erforderlich, um lebenswichtige Interessen der betroffenen Person oder einer anderen natürlichen Person zu schützen (Art. 6 Abs. 1 lit.c DSGVO)."
+          ],
+          [
+            "(5) Die Verarbeitung ist für die Wahrnehmung einer Aufgabe erforderlich, die im öffentlichen Interesse liegt oder in Ausübung öffentlicher Gewalt erfolgt, die uns übertragen wurde (Art. 6 Abs. 1 lit.d DSGVO)."
+          ],
+          [
+            "(6) Die Verarbeitung ist zur Wahrung unserer berechtigten Interessen oder eines Dritten erforderlich, sofern nicht die Interessen oder Grundrechte und Grundfreiheiten der betroffenen Person, die den Schutz personenbezogener Daten erfordern, überwiegen, insbesondere dann, wenn es sich bei der betroffenen Person um ein Kind handelt (Art. 6 Abs. 1 lit.e DSGVO)."
+          ],
+          [
+            "Die Nutzung bestimmter Angebote auf den iurisprudentia-Webseiten (z.B. Newsletter, Kontaktformulare, Webanwendungen) kann eine weitergehende Erhebung, Bearbeitung und längerfristige Speicherung von Personendaten wie z.B. Name, Anschrift oder E-Mail-Adresse erfordern. Mit Eingabe und Übersendung dieser Daten willigen Sie in deren Bearbeitung ein."
+          ]
+        ]
+      },
+      {
+        "title": "IV. Bekanntgabe von Personendaten",
+        "text": [
+          [
+            "Personendaten werden ausschliesslich dann an Dritte (z.B. an andere Behörden) bekannt gegeben, soweit dies im Rahmen zwingender Rechtsvorschriften (z.B. behördlichen Aufforderungen, Gerichtsbeschlüssen) oder zum Zweck der Rechts - oder Strafverfolgung(z.B. im Fall von Angriffen auf unsere Netzinfrastruktur) erforderlich ist. Eine Bekanntgabe an Dritte zu anderen Zwecken findet nicht statt."
+          ]
+        ]
+      },
+      {
+        "title": "V. Verwendung von Matomo (Webseiten-Analysetool)",
+        "text": [
+          [
+            "Um die Inhaltsstrukturen und Navigationsmechanismen der Webseiten besser an die Bedürfnisse der Nutzer anpassen zu können, werden die Seitenaufrufe und die angeklickten Elemente innerhalb der Seiten protokolliert und analysiert. Dazu wird die Software Matomo verwendet. Matomo setzt sog. «Cookies» ein (zum Einsatz und Unterbinden des Einsatzes solcher Cookies siehe unten Punkt VI.). Die IP-Adressen werden bei diesem Vorgang umgehend anonymisiert. Daher ist es nicht möglich, die Auswertungsergebnisse einer bestimmten IP-Adresse zuzuordnen oder eine personenbezogene Verhaltensüberwachung durchzuführen. Die durch die Cookies erzeugten Nutzungsinformationen einschliesslich ihrer gekürzten IP-Adresse werden nicht an Dritte weitergeleitet, sondern auf unseren Servern zum Zweck der Nutzungsanalyse und der Webseitenoptimierung gespeichert. Matomo läuft ausschliesslich auf unseren Servern, eine Speicherung der Daten findet nur auf diesen statt."
+          ],
+          [
+            "Die Einstellungen zu Matomo können Sie auch nachträglich noch ",
+            {
+              "text": "hier anpassen.",
+              "componentName": "Cookies",
+              "params": {
+                "edition": "iurisprudentia"
+              }
+            }
+          ],
+          [
+            "Werden Seiten bzw. Unterseiten der iurisprudentia-Webseite aufgerufen, so werden folgende Daten anonymisiert gespeichert:"
+          ],
+          [
+            "(1) Zwei Bytes der IP-Adresse des aufrufenden Systems (Ihr System); eine eindeutige Zuordnung zum aufrufenden Rechner ist auf diese Weise nicht mehr möglich."
+          ],
+          [
+            "(2) Die aufgerufene Internetseite."
+          ],
+          [
+            "(3) Die Internetseite, von der Sie auf die aufgerufene Internetseite gelangt sind (Referer)."
+          ],
+          [
+            "(4) Die Unterseiten, die von der aufgerufenen Internetseite aufgerufen werden."
+          ],
+          [
+            "(5) Die Verweildauer auf der Internetseite."
+          ],
+          [
+            "(6) Die Häufigkeit des Aufrufs der Internetseite."
+          ],
+          [
+            "(7) Informationen über Betriebssystem, Browsertyp, Bildschirmauflösung."
+          ]
+        ]
+      },
+      {
+        "title": "VI. Cookies",
+        "text": [
+          [
+            "Beim Aufruf einzelner iurisprudentia-Webseiten können sogenannte temporäre Cookies eingesetzt werden. Hierbei handelt es sich um kleine Dateien, die von der iurisprudentia-Website, die Sie besuchen, auf Ihrem Rechner zu dem Zweck gespeichert werden, um eine optimale Nutzung der Webseiten zu ermöglichen. Diese temporären Cookies werden mit dem Schliessen des Webbrowsers automatisch gelöscht.Sie können den Einsatz solcher Cookies grundsätzlich unterbinden, indem Sie entsprechende Einstellungen in dem von Ihnen verwendeten Webbrowser vornehmen. Wir weisen allerdings darauf hin, dass das Ablehnen, Sperren oder Deaktivieren von Cookies zu Einschränkungen der Funktion abgerufener iurisprudentia-Webseiten führen kann."
+          ]
+        ]
+      },
+      {
+        "title": "VII. Querverweise (Links) zu Webseiten anderer Anbieter",
+        "text": [
+          [
+            "Die vorliegende Datenschutzerklärung gilt nur für iurisprudentia-Webseiten. Soweit über Links der Zugang zu Inhalten anderer Anbieter vermittelt wird, möchten wir Sie bitten, deren Datenschutzerklärungen zu beachten. Wir sind weder für den Inhalt noch die Datenschutzpraxis dieser anderen Anbieter verantwortlich."
+          ]
+        ]
+      },
+      {
+        "title": "VIII. Keine Verwendung von Social Media Plugins",
+        "text": [
+          [
+            "Auf den iurisprudentia-Webseiten werden keine Zusatzprogramme in Form von sogenannten «Social Media Plugins» verwendet, welche IP-Adressen direkt an die Anbieter sozialer Netzwerke übermitteln."
+          ]
+        ]
+      },
+      {
+        "title": "IX. Sicherheit",
+        "text": [
+          [
+            "Wir setzen technische und organisatorische Sicherheitsmassnahmen ein, damit die Daten, die wir über die iurisprudentia-Webseiten erheben und weiter bearbeiten,"
+          ],
+          [
+            "(1) vertraulich bleiben und vor zufälligen oder unrechtmässigen Zugriffen, Veränderungen oder Offenlegungen sowie vor Verlusten und Zerstörung geschützt werden; und"
+          ],
+          [
+            "(2) ein Zugriff auf die Daten ausschliesslich nach dem Grundsatz der Erforderlichkeit denjenigen Personen erteilt wird, die aufgrund ihrer Funktion und Aufgabe auf die Personendaten zugreifen müssen."
+          ],
+          [
+            "Die zu treffenden Massnahmen richten sich nach der Art der Information, nach Art und Zweck der Verwendung und nach dem jeweiligen Stand der Technik."
+          ]
+        ]
+      },
+      {
+        "title": "X. Gültigkeit",
+        "text": [
+          [
+            "Wir behalten uns vor, die Datenschutzerklärung jederzeit mit Wirkung für die Zukunft zu ändern, sollte die Implementierung neuer Technologien oder die Gesetzeslage eine solche Anpassung erforderlich machen. Wir empfehlen Ihnen daher, die Datenschutzerklärung regelmässig zu überprüfen."
+          ]
+        ]
+      },
+      {
+        "title": "XI. Ihre Rechte",
+        "text": [
+          [
+            "Als betroffene Person, deren Personendaten wir bearbeiten, stehen ihnen die Rechte gemäss schweizerischen Datenschutzrecht zu, insbesondere das Recht auf Auskunft, auf Berichtigung, auf Löschung oder Sperrung ihrer bearbeiteten Personendaten."
+          ],
+          [
+            "Als betroffene Person, deren Personendaten wir bearbeiten, steht Ihnen ein Beschwerderecht bei der zuständigen Aufsichtsbehörde zu, sprich beim Eidgenössischen Datenschutz-und Öffentlichkeitsbeauftragten (EDÖB):"
+          ],
+          [
+            "Eidgenössischer Datenschutz- und Öffentlichkeitsbeauftragter"
+          ],
+          [
+            "Feldeggweg 1"
+          ],
+          [
+            "CH-3003 Bern."
+          ],
+          [
+            "Soweit die Datenschutz-Grundverordnung (DSGVO) Anwendung findet, stehen Ihnen des Weiteren folgende Rechte zu:"
+          ],
+          [
+            "- Nach Art. 15 Abs. 1 DSGVO haben sie das Recht, von uns eine Bestätigung darüber zu verlangen, ob Sie betreffende personenbezogene Daten verarbeitet werden; ist dies der Fall, so haben Sie ein Recht auf Auskunft über diese personenbezogenen Daten und auf folgende Informationen: (a) die Verarbeitungszwecke; (b) die Kategorien personenbezogener Daten, die verarbeitet werden; (c) die Empfänger oder Kategorien von Empfängern, gegenüber denen die personenbezogenen Daten offengelegt worden sind oder noch offengelegt werden, insbesondere bei Empfängern in Drittländern oder bei internationalen Organisationen; (d) falls möglich die geplante Dauer, für die die personenbezogenen Daten gespeichert werden, oder, falls dies nicht möglich ist, die Kriterien für die Festlegung dieser Dauer; (e) das Bestehen eines Rechts auf Berichtigung oder Löschung der Sie betreffenden personenbezogenen Daten oder auf Einschränkung der Verarbeitung durch den Verantwortlichen oder eines Widerspruchsrechts gegen diese Verarbeitung; (f) das Bestehen eines Beschwerderechts bei einer Aufsichtsbehörde."
+          ],
+          [
+            "- Sie haben nach Art. 16 DSGVO das Recht, von uns unverzüglich die Berichtigung sie betreffender unrichtiger personenbezogener Daten zu verlangen.Unter Berücksichtigung der Zwecke der Verarbeitung haben Sie das Recht, die Vervollständigung unvollständiger personenbezogener Daten — auch mittels einer ergänzenden Erklärung — zu verlangen."
+          ],
+          [
+            "- Sie haben nach Art. 17 Abs. 1 DSGVO und unter Ausnahme der von Art. 17 Abs. 3 DSGVO bestimmten Fälle das Recht, von uns zu verlangen, dass sie betreffende personenbezogene Daten unverzüglich gelöscht werden, und wir sind verpflichtet, personenbezogene Daten unverzüglich zu löschen, sofern einer der folgenden Gründe zutrifft: (a) Die personenbezogenen Daten sind für die Zwecke, für die sie erhoben oder auf sonstige Weise verarbeitet wurden, nicht mehr notwendig. (b) Sie widerrufen ihre Einwilligung, auf die sich die Verarbeitung gem.Art. 6 Abs. 1 lit. a DSGVO stützte, und es fehlt an einer anderweitigen Rechtsgrundlage für die Verarbeitung. (c) Sie legen gem.Art. 21 Abs. 1 DSGVO Widerspruch gegen die Verarbeitung ein und es liegen keine vorrangigen berechtigten Gründe für die Verarbeitung vor, oder sie legen gem.Art. 21 Abs. 2 Widerspruch gegen die Verarbeitung ein. (d) Die personenbezogenen Daten wurden unrechtmäßig verarbeitet. (e) Die Löschung der personenbezogenen Daten ist zur Erfüllung einer rechtlichen Verpflichtung nach dem Unionsrecht oder dem Recht der Mitgliedstaaten erforderlich, dem wir unterliegen. (f) Die personenbezogenen Daten wurden in Bezug auf angebotene Dienste der Informationsgesellschaft gem. Art. 8 Abs. 1 DSGVO erhoben."
+          ],
+          [
+            "- Nach Art. 18 DSGVO haben Sie ferner das Recht, von uns die Einschränkung der Verarbeitung zu verlangen, wenn eine der folgenden Voraussetzungen gegeben ist: (a) die Richtigkeit der personenbezogenen Daten von Ihnen bestritten wird, und zwar für eine Dauer, die es dem Verantwortlichen ermöglicht, die Richtigkeit der personenbezogenen Daten zu überprüfen, (b) die Verarbeitung unrechtmäßig ist und die Sie die Löschung der personenbezogenen Daten ablehnen und stattdessen die Einschränkung der Nutzung der personenbezogenen Daten verlangen; (c) wir die personenbezogenen Daten für die Zwecke der Verarbeitung nicht länger benötigen, Sie sie jedoch zur Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen benötigen, oder(d) Sie Widerspruch gegen die Verarbeitung gemäß Art. 21 Abs. 1 DSGVO eingelegt haben, solange noch nicht feststeht, ob unsere berechtigten Gründe gegenüber Ihren überwiegen."
+          ],
+          [
+            "- Weiter haben Sie nach Art. 20 Abs. 1 DSGVO das Recht, die sie betreffenden personenbezogenen Daten, die sie uns bereitgestellt haben, in einem strukturierten, gängigen und maschinenlesbaren Format zu erhalten, und das Recht, diese Daten einem anderen Verantwortlichen ohne Behinderung durch uns zu übermitteln, sofern(a) die Verarbeitung auf einer Einwilligung gemäß Art. 6 Abs. 1 lit. a oder auf einem Vertrag gemäß Art. 6 Abs. 1 lit. b beruht und(b) die Verarbeitung mithilfe automatisierter Verfahren erfolgt.Bei der Ausübung Ihres Rechts auf Datenübertragbarkeit haben Sie das Recht, zu erwirken, dass die personenbezogenen Daten direkt von uns einem anderen Verantwortlichen übermittelt werden, soweit dies technisch machbar ist."
+          ],
+          [
+            "- Sie haben nach Art. 21 Abs. 1 DSGVO das Recht, aus Gründen, die sich aus ihrer besonderen Situation ergeben, jederzeit gegen die Verarbeitung sie betreffender personenbezogener Daten, die aufgrund von Art. 6 Abs. 1 lit. e oder f erfolgt, Widerspruch einzulegen; dies gilt auch für ein auf diese Bestimmungen gestütztes Profiling.Wir verarbeiten in diesem Fall die personenbezogenen Daten nicht mehr, es sei denn, wir können zwingende schutzwürdige Gründe für die Verarbeitung nachweisen, die Ihre Interessen, Rechte und Freiheiten überwiegen, oder die Verarbeitung dient der Geltendmachung, Ausübung oder Verteidigung von Rechtsansprüchen."
+          ]
+        ]
+      },
+      {
+        "title": "XII. Verantwortliche Stelle (und Datenschutz-Vertreter)",
+        "text": [
+          [
+            "Sollten Sie eine Auskunft zu den über Sie erhobenen und weiter bearbeiteten Personendaten oder eine Berichtigung, Vernichtung oder Sperrung dieser Daten wünschen oder weitergehende Fragen zu deren Verwendung haben, wenden Sie sich bitte an die bei uns verantwortliche Stelle für die Bearbeitung der Personendaten:"
+          ],
+          [
+            "Universität Zürich"
+          ],
+          [
+            "Lehrstuhl für Privatrecht, Schwerpunkt ZGB"
+          ],
+          [
+            "Prof. Dr. iur. Walter Boente"
+          ],
+          [
+            "Rämistrasse 74/39"
+          ],
+          [
+            "8001 Zürich"
+          ],
+          [
+            "Schweiz"
+          ],
+          [
+            {
+              "text": "www.rwi.uzh.ch/boente",
+              "link": "https://www.rwi.uzh.ch/boente/"
+            }
+          ],
+          [
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            }
+          ],
+          [
+            "Da wir nicht in der Europäischen Union niedergelassen sind, haben wir als unseren (Datenschutz-)Vertreter in der Europäischen Union benannt:"
+          ],
+          [
+            "Walter Boente"
+          ],
+          [
+            "Wilhelmstraße 12"
+          ],
+          [
+            "49076 Osnabrück"
+          ],
+          [
+            "Deutschland"
+          ],
+          [
+            {
+              "text": "iurisprudentia@rwi.uzh.ch",
+              "link": "mailto:iurisprudentia@rwi.uzh.ch"
+            }
+          ]
+        ]
+      }
+    ]
+  },
+  "directoryText": {
+    "iurisprudentia": [
+      {
+        "title": "",
+        "type": "static",
+        "text": [
+          "For the addition and correction of bibliographical information as well as the provision of further digital copies, please send your suggestions to ",
+          {
+            "text": "iurisprudentia@rwi.uzh.ch",
+            "link": "mailto:iurisprudentia@rwi.uzh.ch"
+          },
+          "."
+        ]
+      },
+      {
+        "title": "",
+        "type": "crowd",
+        "text": [
+          "The documents available on the platform are automatically transcribed. We would be pleased if you would contribute to improving the automatic transcription and manually correct texts that are or were of interest to you. At the same time, you will contribute to the continuous improvement of our automatic recognition models. Simply select one of the digital copies below. You will be redirected to an external Transcribus page where you can log in anonymously (username: editioniurisprudentia@outlook.com; password: edition). If you already have a Transcribus account, you would first have to register directly to the ''IurisprudentiaCrowd'' via the ",
+          {
+            "text": "Transkribus Crowd-Plattform",
+            "link": "https://app.transkribus.org/"
+          },
+          "."
+        ]
+      }
+    ]
+  },
+  "contact": {
+    "iurisprudentia": [
+      {
+        "title": "University of Zurich",
+        "text": [
+          "Prof. Dr. iur. Walter Boente",
+          "Chair for Private Law",
+          "CH-8001 Zurich",
+          {
+            "text": "www.rwi.uzh.ch/boente",
+            "link": "https://www.rwi.uzh.ch/boente/"
+          },
+          {
+            "text": "iurisprudentia@rwi.uzh.ch",
+            "link": "mailto:iurisprudentia@rwi.uzh.ch"
+          }
+        ]
+      }
+    ],
+    "huber": [
+      {
+        "title": "University of Zurich",
+        "text": [
+          "Prof. Dr. iur. Walter Boente",
+          "Chair for Private Law",
+          "CH-8001 Zurich",
+          {
+            "text": "www.rwi.uzh.ch/boente",
+            "link": "https://www.rwi.uzh.ch/boente/"
+          },
+          {
+            "text": "iurisprudentia@rwi.uzh.ch",
+            "link": "mailto:iurisprudentia@rwi.uzh.ch"
+          }
+        ]
+      },
+      {
+        "title": "University of Bern",
+        "text": [
+          "Prof. Dr. Sibylle Hofer",
+          "Institute for the History of Law",
+          "Schanzeneckstrasse 1",
+          "PO Box",
+          "CH-3012 Bern",
+          {
+            "text": "www.unibe.ch",
+            "link": "www.unibe.ch/impressum/index_ger.html"
+          }
+        ]
+      }
+    ]
+  }
+}

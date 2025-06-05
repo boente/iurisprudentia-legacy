@@ -1,0 +1,54 @@
+/* eslint-disable max-len */
+// Theodor Mommsen
+const link = 'mommsen';
+const mommsen = {
+  name: 'Theodor Mommsen',
+  col_id: 67297,
+  crowd_id: 69009,
+  editionName: 'EditionTheodorMommsen',
+  editionLink: link,
+  background: 'mommsen.png',
+  logo: 'mommsen.png',
+  portrait: 'mommsen.svg',
+  timelineThumbnail: 'mommsen.png',
+  colors: {
+    primaryColor: '184, 153, 90',
+    primaryColorLight: '200, 176, 128',
+    primaryColorDark: '10, 10, 10',
+    secondaryColor: '208, 188, 147',
+  },
+  footerLogos: [
+    {
+      link: 'https://www.uzh.ch/',
+      src: 'logo-uzh.svg',
+      alt: 'Universität Zürich',
+    },
+    {
+      link: 'https://www.unibe.ch/',
+      src: 'logo-unibe.svg',
+      alt: 'Universität Bern',
+    },
+    {
+      link: 'https://www.readcoop.eu/',
+      src: 'logo-readcoop.svg',
+      alt: 'Read COOP',
+    },
+  ],
+  staticDirectory: [
+    {
+      index: 'Manuskripte',
+      documents: [
+
+      ],
+    },
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+
+      ],
+    },
+  ],
+  crowdDirectory: [],
+};
+
+export default mommsen;

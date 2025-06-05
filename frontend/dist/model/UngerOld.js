@@ -1,0 +1,118 @@
+/* eslint-disable max-len */
+// Joseph Unger
+const link = 'unger';
+const unger = {
+  name: 'Joseph Unger',
+  col_id: 70009,
+  crowd_id: 69009,
+  editionName: 'EditionUnger',
+  editionLink: link,
+  background: 'unger.png',
+  logo: 'unger.png',
+  portrait: 'unger.svg',
+  timelineThumbnail: 'unger.png',
+  colors: {
+    primaryColor: '184, 153, 90',
+    primaryColorLight: '200, 176, 128',
+    primaryColorDark: '10, 10, 10',
+    secondaryColor: '208, 188, 147',
+  },
+  footerLogos: [
+    {
+      link: 'https://www.uzh.ch/',
+      src: 'logo-uzh.svg',
+      alt: 'Universität Zürich',
+    },
+    {
+      link: 'https://readcoop.eu/readsearch/',
+      src: 'logo-readcoop.svg',
+      alt: 'Read COOP',
+    },
+  ],
+  staticDirectory: [
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+        {
+          title: 'Unger, Joseph, System des österreichischen allgemeinen Privatrechts; Erster Band, 1. Auflage, Leipzig 1856',
+          docId: 1476346,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'J.austr. 57 xm-1',
+            Link: 'https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10543400-8',
+          },
+        },
+        {
+          title: 'Unger, Joseph, System des österreichischen allgemeinen Privatrechts; Zweiter Band, 1. Auflage, Leipzig 1859',
+          docId: 1476347,
+          metadata: {
+            Entstehungsjahr: '1859',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'J.austr. 57 xm-2',
+            Link: 'https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10543401-4',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Briefe von Joseph Unger',
+      documents: [
+        {
+          title: 'Unger, Joseph, Briefe an Eugen Huber, 1894',
+          docId: 1304289,
+          metadata: {
+            Entstehungsjahr: '1894',
+            Institution: 'Schweizerisches Bundesarchiv',
+            Signatur: 'J1.109-01#1000/1276#513-2*',
+            Link: 'https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758676',
+          },
+        },
+      ],
+    },
+  ],
+  crowdDirectory: [
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+        {
+          title: 'Unger, Joseph, System des österreichischen allgemeinen Privatrechts; Erster Band, 1. Auflage, Leipzig 1856',
+          docId: 1476346,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'J.austr. 57 xm-1',
+            Link: 'https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10543400-8',
+          },
+        },
+        {
+          title: 'Unger, Joseph, System des österreichischen allgemeinen Privatrechts; Zweiter Band, 1. Auflage, Leipzig 1859',
+          docId: 1476347,
+          metadata: {
+            Entstehungsjahr: '1859',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'J.austr. 57 xm-2',
+            Link: 'https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10543401-4',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Briefe von Joseph Unger',
+      documents: [
+        {
+          title: 'Unger, Joseph, Briefe an Eugen Huber, 1894',
+          docId: 1304289,
+          metadata: {
+            Entstehungsjahr: '1894',
+            Institution: 'Schweizerisches Bundesarchiv',
+            Signatur: 'J1.109-01#1000/1276#513-2*',
+            Link: 'https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758676',
+          },
+        },
+      ],
+    },
+  ],
+};
+
+export default unger;

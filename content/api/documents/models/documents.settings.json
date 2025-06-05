@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "documents",
+  "info": {
+    "name": "Documents",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "title": {
+      "type": "string"
+    },
+    "doc_id": {
+      "type": "integer"
+    },
+    "indices": {
+      "collection": "indexes",
+      "via": "documents"
+    },
+    "metadata": {
+      "type": "json"
+    }
+  }
+}

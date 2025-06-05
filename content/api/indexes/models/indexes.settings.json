@@ -1,0 +1,28 @@
+{
+  "kind": "collectionType",
+  "collectionName": "indexes",
+  "info": {
+    "name": "Indices",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "name": {
+      "type": "string"
+    },
+    "documents": {
+      "via": "indices",
+      "collection": "documents",
+      "dominant": true
+    },
+    "directories": {
+      "via": "indices",
+      "collection": "directories",
+      "dominant": true
+    }
+  }
+}

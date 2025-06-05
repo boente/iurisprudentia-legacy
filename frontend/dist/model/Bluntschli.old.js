@@ -1,0 +1,2143 @@
+/* eslint-disable max-len */
+// Johann Caspar Bluntschli
+const link = 'bluntschli';
+const bluntschli = {
+  name: 'Johann Caspar Bluntschli',
+  col_id: 72827,
+  crowd_id: 69009,
+  editionName: 'EditionJohannCasparBluntschli',
+  editionLink: link,
+  background: 'bluntschli.png',
+  logo: 'bluntschli.png',
+  portrait: 'bluntschli.svg',
+  timelineThumbnail: 'bluntschli.png',
+  colors: {
+    primaryColor: '184, 153, 90',
+    primaryColorLight: '200, 176, 128',
+    primaryColorDark: '10, 10, 10',
+    secondaryColor: '208, 188, 147',
+  },
+  footerLogos: [
+    {
+      link: 'https://www.uzh.ch/',
+      src: 'logo-uzh.svg',
+      alt: 'Universität Zürich',
+    },
+    {
+      link: 'https://www.zb.uzh.ch/',
+      src: 'zb.svg',
+      alt: 'Zentralbibliothek Zürich',
+    },
+    {
+      link: 'https://readcoop.eu/readsearch/',
+      src: 'logo-readcoop.svg',
+      alt: 'Read COOP',
+    },
+  ],
+  staticDirectory: [
+    {
+      index: 'Vorlesungsmanuskripte',
+      documents: [
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Zum ersten Mal Sommersemester 1838, in München zuerst 1849',
+          docId: 498820,
+          metadata: {
+            Entstehungsjahr: '1838-1852',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '10 [aspace.19766.box.10] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19803',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Römisches Recht',
+          docId: 498819,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '11 [aspace.19766.box.11] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19845',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Familienrecht',
+          docId: 498818,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '11 [aspace.19766.box.11] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19834',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Manuskripte',
+      documents: [
+        {
+          title: 'Bluntschli, Johann Caspar, Zum Rechtsbegriff',
+          docId: 498805,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '9 [aspace.19969.box.9] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19982',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Zur Lehre von der juristischen Person',
+          docId: 498804,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '9 [aspace.19969.box.9] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19986',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Briefe von Johann Caspar Bluntschli (nach Empfängern)',
+      documents: [
+      {
+          title: 'Bluntschli, Johann Caspar, an Escher von der Linth, Arnold, Brief aus Zürich, 10.12.1866',
+          docId: 460385,
+          metadata: {
+            Entstehungsjahr: '10.12.1866',
+            Institution: 'ETH-Bibliothek Zürich',
+            Signatur: 'Hs 4:127',
+            Link: 'https://doi.org/10.7891/e-manuscripta-5732',
+          },
+        },
+      ],
+    },
+
+    {
+      index: 'Briefe an Johann Caspar Bluntschli (nach Absendern)',
+      documents: [
+      {
+          title: 'Savigny, Friedrich Carl von',
+          docId: 726927,
+          metadata: {
+            Entstehungsjahr: '1828-1842',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 14.736',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Niebuhr, Barthold Georg',
+          docId: 727011,
+          metadata: {
+            Entstehungsjahr: '1830',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 14.630',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Ranke, Leopold von',
+          docId: 754817,
+          metadata: {
+            Entstehungsjahr: '1832-1833',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 12.680',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Grimm, Jacob',
+          docId: 726203,
+          metadata: {
+            Entstehungsjahr: '1838-1841',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 5.305',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Unger, Joseph',
+          docId: 756085,
+          metadata: {
+            Entstehungsjahr: '1853-1861',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 17.885',
+            Link: '',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+        {
+          title: 'Bluntschli, Johann Caspar, Die Bedeutung und die Fortschritte des modernen Völkerrechts, Berlin 1866',
+          docId: 440697,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Var. 366 am-1/24',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135708-2',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Gründung der Amerikanischen Union von 1787, Berlin 1868',
+          docId: 440696,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Var. 366 am-49/72',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135757-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Der Kampf der liberalen und der katholischen Partei in Belgien, eine Warnung für Deutschland, Briefe eines Belgiers an einen Süddeutschen, Zürich 1857',
+          docId: 440695,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Belg. 151 n',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10273867-8',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Ueberblick über die Geschichte des constitutionell-monarchischen Vereins für Freiheit und Gesetzmäßigkeit in München, München 1852',
+          docId: 440694,
+          metadata: {
+            Entstehungsjahr: '1852',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Bavar. 2623 ag',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10379435-4',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das Papstthum vor der Napoleonischen und Deutschen Politik, Berlin 1860',
+          docId: 440693,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Eur. 293 d-96',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10405649-8',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Alt-Asiatische Gottes- und Weltideen in ihren Wirkungen auf das Gemeinleben der Menschen, Fünf öffentliche Vorträge, Nördlingen 1866',
+          docId: 440692,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.g.hum. 17 fc',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434697-4',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des Allgemeinen Statsrechts und der Politik, Seit dem sechzehnten Jahrhundert bis zur Gegenwart, in: Historische Commission bei der Königl. Academie der Wissenschaften (Hrsg.), Geschichte der Wissenschaften in Deutsch1land, Neuere Zeit, Erster Band, Geschichte des Allgemeinen Statsrechts und der Politk, München 1864',
+          docId: 440691,
+          metadata: {
+            Entstehungsjahr: '1864',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.lit.u. 110-1',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10447575-2',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Rede über die Waadtländische Reklamation und die Waadtländischen Verhältnisse gehalten im Großen Rathe zu Zürich den 25. März 1846, Zürich 1846',
+          docId: 440690,
+          metadata: {
+            Entstehungsjahr: '1846',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.ref. 328 p-17',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10450581-6',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Zur Geschichte der reformirten Kirchen-Verfassung, Tübingen 1842',
+          docId: 440689,
+          metadata: {
+            Entstehungsjahr: '1842',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.ref. 405,39',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10450913-7',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stadt und Landschaft Zürich, Erster Theil, Die Zeit des Mittelalters, Zürich 1838',
+          docId: 440688,
+          metadata: {
+            Entstehungsjahr: '1838',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 182',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453132-9',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Kommunisten in der Schweiz nach den bei Weitling vorgefundenen Papieren, Wörtlicher Abdruck des Kommissionalberichtes an die H. Regierung des Standes Zürich, Zürich 1843',
+          docId: 440687,
+          metadata: {
+            Entstehungsjahr: '1843',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 182 h',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453133-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stand und Landschaft Zürich, Erster Theil, Zweite Auflage, Zürich 1856',
+          docId: 440686,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 183-1/2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453134-0',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stand und Landschaft Zürich, Zweiter Theil, Zweite Auflage, Zürich 1856',
+          docId: 440685,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 183-1/2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453135-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die drei Länder Uri, Schwyz und Unterwalden und ihre ersten ewigen Bünde, Zürich 1846',
+          docId: 440684,
+          metadata: {
+            Entstehungsjahr: '1846',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 184',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453136-1',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des schweizerischen Bundesrechtes von den ersten ewigen Bünden bis auf die GEgenwart, Erster Band, Geschichtliche Darstellung, Zürich 1849',
+          docId: 440683,
+          metadata: {
+            Entstehungsjahr: '1849',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 185-1',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453137-6',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des schweizerischen Bundesrechtes von den ersten ewigen Bünden bis auf die Gegenwart, Zweiter Band, Urkundenbuch, Zürich 1852',
+          docId: 440682,
+          metadata: {
+            Entstehungsjahr: '1852',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 185-2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453138-1',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte der Republik Zürich, Erster Band, Zürich 1847',
+          docId: 440680,
+          metadata: {
+            Entstehungsjahr: '1847',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 187-1',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453141-9',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte der Republik Zürich, Zweiter Band, Zürich 1847',
+          docId: 440679,
+          metadata: {
+            Entstehungsjahr: '1847',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 187-2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453142-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/J. J. Hottinger, Geschichte der Republik Zürich von Dr. Bluntschli, Dritter Band, 2. Aulage, Zürich 1856',
+          docId: 440678,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 187-3',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453143-0',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Der Sieg des Radikalismus über die katholische Schweiz und die Kirche im Allgemeinen, Vom Standpunkte des Rechtes und der Politik, Schaffhausen 1850',
+          docId: 440677,
+          metadata: {
+            Entstehungsjahr: '1850',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 920 k',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453144-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des Jesuitenkampfes in der schweiz, Von einem Zürcher, Zürich 1845',
+          docId: 440676,
+          metadata: {
+            Entstehungsjahr: '1845',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stadt und Landschaft Zürich, Zweiter Theil, Die neuere Zeit, Zürich 1839',
+          docId: 440675,
+          metadata: {
+            Entstehungsjahr: '1839',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '###',
+            Link: '###',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Meinungsäußerung eines Publicisten über die neueren Concordate, Nördlingen 1860',
+          docId: 440674,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10543683-6',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Erster Band, München 1853',
+          docId: 440673,
+          metadata: {
+            Entstehungsjahr: '1853',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '###',
+            Link: '###',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Zweiter Band, München 1854',
+          docId: 440672,
+          metadata: {
+            Entstehungsjahr: '1854',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '###,###hierweiter',
+            Link: '###',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Zweite Auflage, München 1860',
+          docId: 440671,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Dahn, Felix, Deutsches Privatrecht, Dritte durch Aufnahme des Handels- und Wechselrechts erweiterte Auflage, München 1864',
+          docId: 440670,
+          metadata: {
+            Entstehungsjahr: '1864',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar (Hrsg.), Blätter für politische Kritik, Erstes Heft, München',
+          docId: 440669,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Neugestaltung von Deutschland und die Schweiz, Zürich 1867',
+          docId: 440668,
+          metadata: {
+            Entstehungsjahr: '1867',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Pözl, J., Die Competenzfrage in dem Gräflich Bentinck'schen Successionsstreite, Ein rechtliches Gutachten im Einverständnisse mit Dr. J. C. Bluntschli erstattet, München 1853",
+          docId: 440667,
+          metadata: {
+            Entstehungsjahr: '1853',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Bemerkungen über die neuesten Vorschläge zur deutschen Verfassung, Eine Stimme aus Bayern, München 1848',
+          docId: 440666,
+          metadata: {
+            Entstehungsjahr: '1848',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Ueber die Bildung der ersten Kammern und die Adelsreform in Deutschland, Ein Vortrag von Dr. Bluntschli, Professor, gehalten in dem constitutionell-monarchischen Verein für Freiheit und Gesetzmäßigkeit für München den 5. Juli 1850 und auf Veranlassung des Verein veröffentlicht, München 1850',
+          docId: 440665,
+          metadata: {
+            Entstehungsjahr: '1850',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Fünf Artikel: Zur Ueberlegung in der deutschen Frage, München 1849',
+          docId: 440664,
+          metadata: {
+            Entstehungsjahr: '1849',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar (Hrsg.), Blätter für politische Kritik, Zweites Heft, München',
+          docId: 440663,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Erster Band, Personen- und Familienrecht, Zürich 1854',
+          docId: 440662,
+          metadata: {
+            Entstehungsjahr: '1854',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Zweiter Band, Sachenrecht, Zürich 1854',
+          docId: 440661,
+          metadata: {
+            Entstehungsjahr: '1854',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Dritter Band, Forderungen und Schulden, Zürich 1855',
+          docId: 440660,
+          metadata: {
+            Entstehungsjahr: '1855',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Vierter Band, Erbrecht, Zürich 1856',
+          docId: 440659,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Entwicklung der Erbfolge gegen den letzten Willen nach Römischem Recht mit besonderer Rücksicht auf die Novelle 115, Umarbeitung einer von der Berliner Juristenfacultät gekrönten Preisschrift, Bonn 1829',
+          docId: 440658,
+          metadata: {
+            Entstehungsjahr: '1829',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Kriegsrecht der civilisirten Staten als Rechtsbuch dargestellt, Nördlingen 1866',
+          docId: 440657,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Sachregister und Inhaltsverzeichniß, Zürich 1856',
+          docId: 440656,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des Allgemeinen Statsrechts und der Politik, Seit dem sechzehnten Jahrhundert bis zur Gegenwart, in: Historische Commission bei der Königl. Academie der Wissenschaften (Hrsg.), Geschichte der Wissenschaften in Deutschland, Neuere Zeit, Erster Band, Geschichte des Allgemeinen Statsrechts und der Politik, Zweite Auflage, München 1867',
+          docId: 440655,
+          metadata: {
+            Entstehungsjahr: '1867',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Erster Band, Stuttgart, Leipzig 1857',
+          docId: 440654,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Zweiter Band, Stuttgart, Leipzig 1857',
+          docId: 440653,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Dritter Band, Stuttgart, Leipzig 1858',
+          docId: 440652,
+          metadata: {
+            Entstehungsjahr: '1858',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Vierter Band, Stuttgart, Leipzig 1859',
+          docId: 440651,
+          metadata: {
+            Entstehungsjahr: '1859',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Fünfter Band, Stuttgart, Leipzig 1860',
+          docId: 440650,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Sechster Band, Stuttgart, Leipzig 1861',
+          docId: 440649,
+          metadata: {
+            Entstehungsjahr: '1861',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die neueren Rechtsschulen der deutschen Juristen, Zürich, Frauenfeld 1841',
+          docId: 440648,
+          metadata: {
+            Entstehungsjahr: '1841',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Neueren Rechtsschulen der deutschen Juristen, Zweite, mit Reformvorschlägen erweiterte Auflage, Zürich 1862',
+          docId: 440647,
+          metadata: {
+            Entstehungsjahr: '1862',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Psychologische Studien über Staat und Kirche, Zürich, Frauenfeld, 1844',
+          docId: 440646,
+          metadata: {
+            Entstehungsjahr: '1844',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, Erster Band, Zweite Auflage, München 1857',
+          docId: 440645,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, Zweiter Band, Zweite Auflage, München 1857',
+          docId: 440644,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Erster Band, Dritte umgearbeitete Auflage, München 1863',
+          docId: 440643,
+          metadata: {
+            Entstehungsjahr: '1863',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Zweiter Band, Dritte umgearbeitete Auflage, München 1863',
+          docId: 440642,
+          metadata: {
+            Entstehungsjahr: '1863',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Erster Band, Vierte Auflage, München 1868',
+          docId: 440641,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Zweiter Band, Vierte Auflage, München 1868',
+          docId: 440640,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das Vok und der Souverän im Allgemeinen betrachtet und mit besonderer Rücksicht auf die Schweizerischen Verhältnisses, Für Gebildete, Zürich 1831',
+          docId: 440639,
+          metadata: {
+            Entstehungsjahr: '1855',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Über den Unterschied der mittelalterlichen und der modernen Staatsidee, Ein wissenschaftlicher Vortrag gehalten zu München am 5. Februar 1855, München 1855',
+          docId: 440638,
+          metadata: {
+            Entstehungsjahr: '1845',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Sendschreiben an Herrn Eduard Sulzer von Winterthur',
+          docId: 440637,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar, Bluntschli's psychologische Studien über Staat und Kirche, Aus den in Tübigen erscheinenden Jahrbüchern der Gegenwart (Juniheft) von einem liberalen Vereine zum Besten der unklücklichen Unterwalliser, Neumünster bei Zürich 1844",
+          docId: 440636,
+          metadata: {
+            Entstehungsjahr: '1844',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, geschichtlich begründet, München 1852',
+          docId: 440635,
+          metadata: {
+            Entstehungsjahr: '1852',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Völkerrecht in dem Kriege 1870, Rede zum Geburtsfeste des höchstseligen Grossherzogs Karl Friedrich von Baden zur akademischen Preisvertheilung am 22. November 1870, Heidelberg 1870',
+          docId: 440634,
+          metadata: {
+            Entstehungsjahr: '1870',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Freiheit und Kirchenregiment, Meinungsstreit zwischen Freiherrn W. E. von Ketteler, Bischof von Mainz, und Geheimrath J. C. Bluntschli, Professor der Staatswissenschaft in Heidelberg, Heidelberg 1871',
+          docId: 440633,
+          metadata: {
+            Entstehungsjahr: '1871',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Völkerrecht der civilisirten Staten als Rechtsbuch dargestellt, Zweite mit Rücksicht auf die Ereignisse von 1868 bis 1872 ergänzte Auflage, Nördlingen 1872',
+          docId: 440632,
+          metadata: {
+            Entstehungsjahr: '1845',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die nationale Staatenbildung und der moderne deutsche Staat, Ein öffentlicher Vortrag, Berlin 1870',
+          docId: 440631,
+          metadata: {
+            Entstehungsjahr: '1870',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Rom und die Deutschen, Berlin 1872',
+          docId: 440630,
+          metadata: {
+            Entstehungsjahr: '1872',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Lehre vom modernen Stat, Erster Theil, Allgemeine Statslehre, Stuttgart 1875',
+          docId: 440628,
+          metadata: {
+            Entstehungsjahr: '1875',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Lehre vom modernen Stat, Zweiter Theil, Allgemeine Statsrecht, Stuttgart 1876',
+          docId: 440627,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Lehre vom modernen Stat, Dritter Theil, Politik, Stuttgart 1876',
+          docId: 440626,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Gesammelte kleine Schriften von J. C. Bluntschli, Erster Band, Aufsätze über Recht und Stat, Nördlingen 1879',
+          docId: 440625,
+          metadata: {
+            Entstehungsjahr: '1879',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Gesammelte kleine Schriften von J. C. Bluntschli, Zweiter Band, Aufsätze über Politik und Völkerrecht, Nördlingen 1881',
+          docId: 440624,
+          metadata: {
+            Entstehungsjahr: '1881',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte der Neueren Statswissenschaft, Allgemeines Statsrecht und Politik, Seit dem 16. Jahrhundert bis zur Gegenwart, Dritte Auflage, München, Leipzig 1881',
+          docId: 440623,
+          metadata: {
+            Entstehungsjahr: '1881',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar,Geschichte der Neueren Statswissenschaft, Allgemeines Statsrecht und Politik, Seit dem 16. Jahrhundert bis zur Gegenwart, Dritte Auflage, München, Leipzig 1881',
+          docId: 440622,
+          metadata: {
+            Entstehungsjahr: '1881',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Neugestaltung von Deutschland und die Schweiz, Zürich 1866',
+          docId: 440621,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsche Statslehre für Gebildete, Nördlingen 1874',
+          docId: 440620,
+          metadata: {
+            Entstehungsjahr: '1874',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Kriegsrecht der civilisirten Staaten, Zweite Auflage, Nördlingen 1874',
+          docId: 440619,
+          metadata: {
+            Entstehungsjahr: '1874',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Charakter und Geist der politschen Parteien, Nördlingen 1869',
+          docId: 440618,
+          metadata: {
+            Entstehungsjahr: '1869',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, geschichtlich begründet, München 1851',
+          docId: 440617,
+          metadata: {
+            Entstehungsjahr: '1851',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsche Naturalisation einer separirten Französin und Wirkungen der Naturalisation, Beleuchtung einer Frage des internationalen Rechts bei Gelegenheit des Streites zwischen dem Prinzen von Bauffremont und der Fürstin Bibesco, Heidelberg 1876',
+          docId: 440616,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die rechtliche Unverantwortlichkeit und Verantwortlichkeit des römischen Papstes, Eine Völker- und statsrechtliche Studie, Beigabe: Das italienische Garantiengesetz, Nördlingen 1876',
+          docId: 440615,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Völkerrecht der civilisirten Staten als Rechtsbuch, Nördlingen 1868',
+          docId: 440614,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Ueber die Eintheilung der Facultäten, Rede zum Geburtsfeste des höchstseligen Grossherzogs Karl Friedrich von Baden und zur akademischen Preisvertheilung am 22. November 1877, Beilage: Das dreizehnte Organisationsedict Karl Friedrichs, Heidelberg 1877',
+          docId: 440613,
+          metadata: {
+            Entstehungsjahr: '1877',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Freimaurergespräche I. über Gott und Natur, II. über Unsterblichkeit, Ein Vermächtniss an die Brüder, Heidelberg, Zürich 1878',
+          docId: 440612,
+          metadata: {
+            Entstehungsjahr: '1878',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das Beuterecht im Krieg und das Seebeuterecht insbesondere, Eine völkerrechtliche Untersuchung, Nördlingen 1878',
+          docId: 440611,
+          metadata: {
+            Entstehungsjahr: '1878',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Der Staat Rumänien und das Rechtsverhältniss der Juden in Rumänien, Ein Rechtsgutachten, Berlin 1879',
+          docId: 440698,
+          metadata: {
+            Entstehungsjahr: '1879',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Erster Band, Zürich 1869",
+          docId: 449525,
+          metadata: {
+            Entstehungsjahr: '1869',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Zweiter Band, Zürich 1871",
+          docId: 449524,
+          metadata: {
+            Entstehungsjahr: '1871',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Dritter Band, Zürich 1872",
+          docId: 449523,
+          metadata: {
+            Entstehungsjahr: '1872',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Nachträge zu Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Leipzig und Stuttgart 1875",
+          docId: 449522,
+          metadata: {
+            Entstehungsjahr: '1875',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Freiheit und Kirchenregiment, Meinungsstreit zwischen Freiherrn W. E. von Ketteler, Bischof von Mainz, und Geheimrath J. C. Bluntschli, Professor der Staatswissenschaft in Heidelberg, Heidelberg 1871',
+          docId: 449521,
+          metadata: {
+            Entstehungsjahr: '1871',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+      ],
+    },
+  ],
+  crowdDirectory: [
+    {
+      index: 'Vorlesungsmanuskripte',
+      documents: [
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Zum ersten Mal Sommersemester 1838, in München zuerst 1849',
+          docId: 498820,
+          metadata: {
+            Entstehungsjahr: '1838-1852',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '10 [aspace.19766.box.10] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19803',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Römisches Recht',
+          docId: 498819,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '11 [aspace.19766.box.11] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19845',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Familienrecht',
+          docId: 498818,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '11 [aspace.19766.box.11] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19834',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Manuskripte',
+      documents: [
+        {
+          title: 'Bluntschli, Johann Caspar, Zum Rechtsbegriff',
+          docId: 498805,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '9 [aspace.19969.box.9] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19982',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Zur Lehre von der juristischen Person',
+          docId: 498804,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'John Hopkins Libraries',
+            Signatur: '9 [aspace.19969.box.9] (Mixed Materials). Johann Casper Bluntschli collection, MS-0140. Special Collections',
+            Link: 'https://aspace.library.jhu.edu/repositories/3/archival_objects/19986',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Briefe von Johann Caspar Bluntschli (nach Empfängern)',
+      documents: [
+      {
+          title: 'Bluntschli, Johann Caspar, an Escher von der Linth, Arnold, Brief aus Zürich, 10.12.1866',
+          docId: 460385,
+          metadata: {
+            Entstehungsjahr: '10.12.1866',
+            Institution: 'ETH-Bibliothek Zürich',
+            Signatur: 'Hs 4:127',
+            Link: 'https://doi.org/10.7891/e-manuscripta-5732',
+          },
+        },
+      ],
+    },
+
+    {
+      index: 'Briefe an Johann Caspar Bluntschli (nach Absendern)',
+      documents: [
+      {
+          title: 'Savigny, Friedrich Carl von',
+          docId: 726927,
+          metadata: {
+            Entstehungsjahr: '1828-1842',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 14.736',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Niebuhr, Barthold Georg',
+          docId: 727011,
+          metadata: {
+            Entstehungsjahr: '1830',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 14.630',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Ranke, Leopold von',
+          docId: 754817,
+          metadata: {
+            Entstehungsjahr: '1832-1833',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 12.680',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Grimm, Jacob',
+          docId: 726203,
+          metadata: {
+            Entstehungsjahr: '1838-1841',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 5.305',
+            "Transkription auf Grundlage von": 'Oechsli, Wilhelm, Briefwechsel Johann Kaspar Bluntschlis mit Savigny, Niebuhr, Leopold Ranke, Jakob Grimm und Ferdinand Meyer, Frauenfeld 1915',
+            Link: '',
+          },
+        },
+        {
+          title: 'Unger, Joseph',
+          docId: 756085,
+          metadata: {
+            Entstehungsjahr: '1853-1861',
+            Institution: 'Zentralbibliothek Zürich',
+            Signatur: 'FA Bluntschli 17.885',
+            Link: '',
+          },
+        },
+      ],
+    },
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+        {
+          title: 'Bluntschli, Johann Caspar, Die Bedeutung und die Fortschritte des modernen Völkerrechts, Berlin 1866',
+          docId: 440697,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Var. 366 am-1/24',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135708-2',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Gründung der Amerikanischen Union von 1787, Berlin 1868',
+          docId: 440696,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Var. 366 am-49/72',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10135757-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Der Kampf der liberalen und der katholischen Partei in Belgien, eine Warnung für Deutschland, Briefe eines Belgiers an einen Süddeutschen, Zürich 1857',
+          docId: 440695,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Belg. 151 n',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10273867-8',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Ueberblick über die Geschichte des constitutionell-monarchischen Vereins für Freiheit und Gesetzmäßigkeit in München, München 1852',
+          docId: 440694,
+          metadata: {
+            Entstehungsjahr: '1852',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Bavar. 2623 ag',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10379435-4',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das Papstthum vor der Napoleonischen und Deutschen Politik, Berlin 1860',
+          docId: 440693,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Eur. 293 d-96',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10405649-8',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Alt-Asiatische Gottes- und Weltideen in ihren Wirkungen auf das Gemeinleben der Menschen, Fünf öffentliche Vorträge, Nördlingen 1866',
+          docId: 440692,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.g.hum. 17 fc',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10434697-4',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des Allgemeinen Statsrechts und der Politik, Seit dem sechzehnten Jahrhundert bis zur Gegenwart, in: Historische Commission bei der Königl. Academie der Wissenschaften (Hrsg.), Geschichte der Wissenschaften in Deutsch1land, Neuere Zeit, Erster Band, Geschichte des Allgemeinen Statsrechts und der Politk, München 1864',
+          docId: 440691,
+          metadata: {
+            Entstehungsjahr: '1864',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.lit.u. 110-1',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10447575-2',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Rede über die Waadtländische Reklamation und die Waadtländischen Verhältnisse gehalten im Großen Rathe zu Zürich den 25. März 1846, Zürich 1846',
+          docId: 440690,
+          metadata: {
+            Entstehungsjahr: '1846',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.ref. 328 p-17',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10450581-6',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Zur Geschichte der reformirten Kirchen-Verfassung, Tübingen 1842',
+          docId: 440689,
+          metadata: {
+            Entstehungsjahr: '1842',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'H.ref. 405,39',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10450913-7',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stadt und Landschaft Zürich, Erster Theil, Die Zeit des Mittelalters, Zürich 1838',
+          docId: 440688,
+          metadata: {
+            Entstehungsjahr: '1838',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 182',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453132-9',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Kommunisten in der Schweiz nach den bei Weitling vorgefundenen Papieren, Wörtlicher Abdruck des Kommissionalberichtes an die H. Regierung des Standes Zürich, Zürich 1843',
+          docId: 440687,
+          metadata: {
+            Entstehungsjahr: '1843',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 182 h',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453133-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stand und Landschaft Zürich, Erster Theil, Zweite Auflage, Zürich 1856',
+          docId: 440686,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 183-1/2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453134-0',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stand und Landschaft Zürich, Zweiter Theil, Zweite Auflage, Zürich 1856',
+          docId: 440685,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 183-1/2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453135-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die drei Länder Uri, Schwyz und Unterwalden und ihre ersten ewigen Bünde, Zürich 1846',
+          docId: 440684,
+          metadata: {
+            Entstehungsjahr: '1846',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 184',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453136-1',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des schweizerischen Bundesrechtes von den ersten ewigen Bünden bis auf die GEgenwart, Erster Band, Geschichtliche Darstellung, Zürich 1849',
+          docId: 440683,
+          metadata: {
+            Entstehungsjahr: '1849',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 185-1',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453137-6',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des schweizerischen Bundesrechtes von den ersten ewigen Bünden bis auf die Gegenwart, Zweiter Band, Urkundenbuch, Zürich 1852',
+          docId: 440682,
+          metadata: {
+            Entstehungsjahr: '1852',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 185-2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453138-1',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte der Republik Zürich, Erster Band, Zürich 1847',
+          docId: 440680,
+          metadata: {
+            Entstehungsjahr: '1847',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 187-1',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453141-9',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte der Republik Zürich, Zweiter Band, Zürich 1847',
+          docId: 440679,
+          metadata: {
+            Entstehungsjahr: '1847',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 187-2',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453142-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/J. J. Hottinger, Geschichte der Republik Zürich von Dr. Bluntschli, Dritter Band, 2. Aulage, Zürich 1856',
+          docId: 440678,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 187-3',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453143-0',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Der Sieg des Radikalismus über die katholische Schweiz und die Kirche im Allgemeinen, Vom Standpunkte des Rechtes und der Politik, Schaffhausen 1850',
+          docId: 440677,
+          metadata: {
+            Entstehungsjahr: '1850',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 920 k',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453144-5',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des Jesuitenkampfes in der schweiz, Von einem Zürcher, Zürich 1845',
+          docId: 440676,
+          metadata: {
+            Entstehungsjahr: '1845',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Staats- und Rechtsgeschichte der Stadt und Landschaft Zürich, Zweiter Theil, Die neuere Zeit, Zürich 1839',
+          docId: 440675,
+          metadata: {
+            Entstehungsjahr: '1839',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '###',
+            Link: '###',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Meinungsäußerung eines Publicisten über die neueren Concordate, Nördlingen 1860',
+          docId: 440674,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10543683-6',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Erster Band, München 1853',
+          docId: 440673,
+          metadata: {
+            Entstehungsjahr: '1853',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '###',
+            Link: '###',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Zweiter Band, München 1854',
+          docId: 440672,
+          metadata: {
+            Entstehungsjahr: '1854',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: '###,###hierweiter',
+            Link: '###',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsches Privatrecht, Zweite Auflage, München 1860',
+          docId: 440671,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Dahn, Felix, Deutsches Privatrecht, Dritte durch Aufnahme des Handels- und Wechselrechts erweiterte Auflage, München 1864',
+          docId: 440670,
+          metadata: {
+            Entstehungsjahr: '1864',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar (Hrsg.), Blätter für politische Kritik, Erstes Heft, München',
+          docId: 440669,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Neugestaltung von Deutschland und die Schweiz, Zürich 1867',
+          docId: 440668,
+          metadata: {
+            Entstehungsjahr: '1867',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Pözl, J., Die Competenzfrage in dem Gräflich Bentinck'schen Successionsstreite, Ein rechtliches Gutachten im Einverständnisse mit Dr. J. C. Bluntschli erstattet, München 1853",
+          docId: 440667,
+          metadata: {
+            Entstehungsjahr: '1853',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Bemerkungen über die neuesten Vorschläge zur deutschen Verfassung, Eine Stimme aus Bayern, München 1848',
+          docId: 440666,
+          metadata: {
+            Entstehungsjahr: '1848',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Ueber die Bildung der ersten Kammern und die Adelsreform in Deutschland, Ein Vortrag von Dr. Bluntschli, Professor, gehalten in dem constitutionell-monarchischen Verein für Freiheit und Gesetzmäßigkeit für München den 5. Juli 1850 und auf Veranlassung des Verein veröffentlicht, München 1850',
+          docId: 440665,
+          metadata: {
+            Entstehungsjahr: '1850',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Fünf Artikel: Zur Ueberlegung in der deutschen Frage, München 1849',
+          docId: 440664,
+          metadata: {
+            Entstehungsjahr: '1849',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar (Hrsg.), Blätter für politische Kritik, Zweites Heft, München',
+          docId: 440663,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Erster Band, Personen- und Familienrecht, Zürich 1854',
+          docId: 440662,
+          metadata: {
+            Entstehungsjahr: '1854',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Zweiter Band, Sachenrecht, Zürich 1854',
+          docId: 440661,
+          metadata: {
+            Entstehungsjahr: '1854',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Dritter Band, Forderungen und Schulden, Zürich 1855',
+          docId: 440660,
+          metadata: {
+            Entstehungsjahr: '1855',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Vierter Band, Erbrecht, Zürich 1856',
+          docId: 440659,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Entwicklung der Erbfolge gegen den letzten Willen nach Römischem Recht mit besonderer Rücksicht auf die Novelle 115, Umarbeitung einer von der Berliner Juristenfacultät gekrönten Preisschrift, Bonn 1829',
+          docId: 440658,
+          metadata: {
+            Entstehungsjahr: '1829',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Kriegsrecht der civilisirten Staten als Rechtsbuch dargestellt, Nördlingen 1866',
+          docId: 440657,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Privatrechtliches Gesetzbuch für den Kanton Zürich, Mit Erläuterungen, Sachregister und Inhaltsverzeichniß, Zürich 1856',
+          docId: 440656,
+          metadata: {
+            Entstehungsjahr: '1856',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte des Allgemeinen Statsrechts und der Politik, Seit dem sechzehnten Jahrhundert bis zur Gegenwart, in: Historische Commission bei der Königl. Academie der Wissenschaften (Hrsg.), Geschichte der Wissenschaften in Deutschland, Neuere Zeit, Erster Band, Geschichte des Allgemeinen Statsrechts und der Politik, Zweite Auflage, München 1867',
+          docId: 440655,
+          metadata: {
+            Entstehungsjahr: '1867',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Erster Band, Stuttgart, Leipzig 1857',
+          docId: 440654,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Zweiter Band, Stuttgart, Leipzig 1857',
+          docId: 440653,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Dritter Band, Stuttgart, Leipzig 1858',
+          docId: 440652,
+          metadata: {
+            Entstehungsjahr: '1858',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Vierter Band, Stuttgart, Leipzig 1859',
+          docId: 440651,
+          metadata: {
+            Entstehungsjahr: '1859',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Fünfter Band, Stuttgart, Leipzig 1860',
+          docId: 440650,
+          metadata: {
+            Entstehungsjahr: '1860',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar/Brater, K. (Hrsg.), Deutsches Staats-Wörterbuch, Sechster Band, Stuttgart, Leipzig 1861',
+          docId: 440649,
+          metadata: {
+            Entstehungsjahr: '1861',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die neueren Rechtsschulen der deutschen Juristen, Zürich, Frauenfeld 1841',
+          docId: 440648,
+          metadata: {
+            Entstehungsjahr: '1841',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Neueren Rechtsschulen der deutschen Juristen, Zweite, mit Reformvorschlägen erweiterte Auflage, Zürich 1862',
+          docId: 440647,
+          metadata: {
+            Entstehungsjahr: '1862',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Psychologische Studien über Staat und Kirche, Zürich, Frauenfeld, 1844',
+          docId: 440646,
+          metadata: {
+            Entstehungsjahr: '1844',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, Erster Band, Zweite Auflage, München 1857',
+          docId: 440645,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, Zweiter Band, Zweite Auflage, München 1857',
+          docId: 440644,
+          metadata: {
+            Entstehungsjahr: '1857',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Erster Band, Dritte umgearbeitete Auflage, München 1863',
+          docId: 440643,
+          metadata: {
+            Entstehungsjahr: '1863',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Zweiter Band, Dritte umgearbeitete Auflage, München 1863',
+          docId: 440642,
+          metadata: {
+            Entstehungsjahr: '1863',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Erster Band, Vierte Auflage, München 1868',
+          docId: 440641,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Statsrecht, Zweiter Band, Vierte Auflage, München 1868',
+          docId: 440640,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das Vok und der Souverän im Allgemeinen betrachtet und mit besonderer Rücksicht auf die Schweizerischen Verhältnisses, Für Gebildete, Zürich 1831',
+          docId: 440639,
+          metadata: {
+            Entstehungsjahr: '1855',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Über den Unterschied der mittelalterlichen und der modernen Staatsidee, Ein wissenschaftlicher Vortrag gehalten zu München am 5. Februar 1855, München 1855',
+          docId: 440638,
+          metadata: {
+            Entstehungsjahr: '1845',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Sendschreiben an Herrn Eduard Sulzer von Winterthur',
+          docId: 440637,
+          metadata: {
+            Entstehungsjahr: '',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar, Bluntschli's psychologische Studien über Staat und Kirche, Aus den in Tübigen erscheinenden Jahrbüchern der Gegenwart (Juniheft) von einem liberalen Vereine zum Besten der unklücklichen Unterwalliser, Neumünster bei Zürich 1844",
+          docId: 440636,
+          metadata: {
+            Entstehungsjahr: '1844',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, geschichtlich begründet, München 1852',
+          docId: 440635,
+          metadata: {
+            Entstehungsjahr: '1852',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Völkerrecht in dem Kriege 1870, Rede zum Geburtsfeste des höchstseligen Grossherzogs Karl Friedrich von Baden zur akademischen Preisvertheilung am 22. November 1870, Heidelberg 1870',
+          docId: 440634,
+          metadata: {
+            Entstehungsjahr: '1870',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Freiheit und Kirchenregiment, Meinungsstreit zwischen Freiherrn W. E. von Ketteler, Bischof von Mainz, und Geheimrath J. C. Bluntschli, Professor der Staatswissenschaft in Heidelberg, Heidelberg 1871',
+          docId: 440633,
+          metadata: {
+            Entstehungsjahr: '1871',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Völkerrecht der civilisirten Staten als Rechtsbuch dargestellt, Zweite mit Rücksicht auf die Ereignisse von 1868 bis 1872 ergänzte Auflage, Nördlingen 1872',
+          docId: 440632,
+          metadata: {
+            Entstehungsjahr: '1845',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die nationale Staatenbildung und der moderne deutsche Staat, Ein öffentlicher Vortrag, Berlin 1870',
+          docId: 440631,
+          metadata: {
+            Entstehungsjahr: '1870',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Rom und die Deutschen, Berlin 1872',
+          docId: 440630,
+          metadata: {
+            Entstehungsjahr: '1872',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Lehre vom modernen Stat, Erster Theil, Allgemeine Statslehre, Stuttgart 1875',
+          docId: 440628,
+          metadata: {
+            Entstehungsjahr: '1875',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Lehre vom modernen Stat, Zweiter Theil, Allgemeine Statsrecht, Stuttgart 1876',
+          docId: 440627,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Lehre vom modernen Stat, Dritter Theil, Politik, Stuttgart 1876',
+          docId: 440626,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Gesammelte kleine Schriften von J. C. Bluntschli, Erster Band, Aufsätze über Recht und Stat, Nördlingen 1879',
+          docId: 440625,
+          metadata: {
+            Entstehungsjahr: '1879',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Gesammelte kleine Schriften von J. C. Bluntschli, Zweiter Band, Aufsätze über Politik und Völkerrecht, Nördlingen 1881',
+          docId: 440624,
+          metadata: {
+            Entstehungsjahr: '1881',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Geschichte der Neueren Statswissenschaft, Allgemeines Statsrecht und Politik, Seit dem 16. Jahrhundert bis zur Gegenwart, Dritte Auflage, München, Leipzig 1881',
+          docId: 440623,
+          metadata: {
+            Entstehungsjahr: '1881',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar,Geschichte der Neueren Statswissenschaft, Allgemeines Statsrecht und Politik, Seit dem 16. Jahrhundert bis zur Gegenwart, Dritte Auflage, München, Leipzig 1881',
+          docId: 440622,
+          metadata: {
+            Entstehungsjahr: '1881',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die Neugestaltung von Deutschland und die Schweiz, Zürich 1866',
+          docId: 440621,
+          metadata: {
+            Entstehungsjahr: '1866',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsche Statslehre für Gebildete, Nördlingen 1874',
+          docId: 440620,
+          metadata: {
+            Entstehungsjahr: '1874',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Kriegsrecht der civilisirten Staaten, Zweite Auflage, Nördlingen 1874',
+          docId: 440619,
+          metadata: {
+            Entstehungsjahr: '1874',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Charakter und Geist der politschen Parteien, Nördlingen 1869',
+          docId: 440618,
+          metadata: {
+            Entstehungsjahr: '1869',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Allgemeines Staatsrecht, geschichtlich begründet, München 1851',
+          docId: 440617,
+          metadata: {
+            Entstehungsjahr: '1851',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Deutsche Naturalisation einer separirten Französin und Wirkungen der Naturalisation, Beleuchtung einer Frage des internationalen Rechts bei Gelegenheit des Streites zwischen dem Prinzen von Bauffremont und der Fürstin Bibesco, Heidelberg 1876',
+          docId: 440616,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Die rechtliche Unverantwortlichkeit und Verantwortlichkeit des römischen Papstes, Eine Völker- und statsrechtliche Studie, Beigabe: Das italienische Garantiengesetz, Nördlingen 1876',
+          docId: 440615,
+          metadata: {
+            Entstehungsjahr: '1876',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das moderne Völkerrecht der civilisirten Staten als Rechtsbuch, Nördlingen 1868',
+          docId: 440614,
+          metadata: {
+            Entstehungsjahr: '1868',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Ueber die Eintheilung der Facultäten, Rede zum Geburtsfeste des höchstseligen Grossherzogs Karl Friedrich von Baden und zur akademischen Preisvertheilung am 22. November 1877, Beilage: Das dreizehnte Organisationsedict Karl Friedrichs, Heidelberg 1877',
+          docId: 440613,
+          metadata: {
+            Entstehungsjahr: '1877',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Freimaurergespräche I. über Gott und Natur, II. über Unsterblichkeit, Ein Vermächtniss an die Brüder, Heidelberg, Zürich 1878',
+          docId: 440612,
+          metadata: {
+            Entstehungsjahr: '1878',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Das Beuterecht im Krieg und das Seebeuterecht insbesondere, Eine völkerrechtliche Untersuchung, Nördlingen 1878',
+          docId: 440611,
+          metadata: {
+            Entstehungsjahr: '1878',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Der Staat Rumänien und das Rechtsverhältniss der Juden in Rumänien, Ein Rechtsgutachten, Berlin 1879',
+          docId: 440698,
+          metadata: {
+            Entstehungsjahr: '1879',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Erster Band, Zürich 1869",
+          docId: 449525,
+          metadata: {
+            Entstehungsjahr: '1869',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Zweiter Band, Zürich 1871",
+          docId: 449524,
+          metadata: {
+            Entstehungsjahr: '1871',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Dritter Band, Zürich 1872",
+          docId: 449523,
+          metadata: {
+            Entstehungsjahr: '1872',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: "Bluntschli, Johann Caspar/Löning (Hrsg.), Nachträge zu Bluntschli's Staatswörterbuch in drei Bänden auf Grundlage des deutschen Staatswörterbuchs von Bluntschli und Grater in elf Bänden, in Verbindung mit anderen Gelehrten, Leipzig und Stuttgart 1875",
+          docId: 449522,
+          metadata: {
+            Entstehungsjahr: '1875',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+        {
+          title: 'Bluntschli, Johann Caspar, Freiheit und Kirchenregiment, Meinungsstreit zwischen Freiherrn W. E. von Ketteler, Bischof von Mainz, und Geheimrath J. C. Bluntschli, Professor der Staatswissenschaft in Heidelberg, Heidelberg 1871',
+          docId: 449521,
+          metadata: {
+            Entstehungsjahr: '1871',
+            Institution: 'Bayerische Staatsbibliothek München',
+            Signatur: 'Helv. 326',
+            Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453494-3',
+          },
+        },
+      ],
+    },
+  ],
+};
+
+export default bluntschli;

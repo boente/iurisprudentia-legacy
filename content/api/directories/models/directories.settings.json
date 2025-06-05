@@ -1,0 +1,29 @@
+{
+  "kind": "collectionType",
+  "collectionName": "directories",
+  "info": {
+    "name": "Directories",
+    "description": ""
+  },
+  "options": {
+    "increments": true,
+    "timestamps": true,
+    "draftAndPublish": true
+  },
+  "attributes": {
+    "static": {
+      "type": "boolean"
+    },
+    "edition": {
+      "via": "directories",
+      "model": "editions"
+    },
+    "name": {
+      "type": "string"
+    },
+    "indices": {
+      "collection": "indexes",
+      "via": "directories"
+    }
+  }
+}
