@@ -16,8 +16,8 @@
     "buefy": "0.8.11",
     "core-js": "^2.6.5",
     "lodash": "^4.17.20",
-    "node-sass": "^4.13.1",
     "openseadragon": "^2.4.1",
+    "sass": "^1.0.0",
     "sass-loader": "^8.0.2",
     "splitpanes": "^2.2.1",
     "svg-overlay": "https://github.com/openseadragon/svg-overlay.git",
@@ -40,7 +40,7 @@
     "eslint": "^7.2.0",
     "eslint-config-airbnb-base": "^14.2.0",
     "eslint-plugin-import": "^2.21.2",
-    "eslint-plugin-vue": "^6.2.2",
-    "vue-template-compiler": "^2.6.10"
+    "eslint-plugin-vue": "^7.0.0",
+    "vue-template-compiler": "^2.7.14"
   }
 }
