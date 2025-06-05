@@ -1,0 +1,102 @@
+{
+  "name": "Bürgerliches Gesetzbuch für das Königreich Sachsen",
+  "col_id": 97791,
+  "crowd_id": 69009,
+  "editionName": "EditionSächsischesBGB",
+  "editionLink": "saechsbgb",
+  "background": "saechsbgb.png",
+  "logo": "saechsbgb.png",
+  "timelineThumbnail": "saechsbgb.png",
+  "colors": {
+    "primaryColor": "184, 153, 90",
+    "primaryColorLight": "200, 176, 128",
+    "primaryColorDark": "10, 10, 10",
+    "secondaryColor": "208, 188, 147"
+  },
+  "footerLogos": [
+    {
+      "link": "https://www.uzh.ch/",
+      "src": "logo-uzh.svg",
+      "alt": "Universität Zürich"
+    },
+    {
+      "link": "https://readcoop.eu/readsearch/",
+      "src": "logo-readcoop.svg",
+      "alt": "Read COOP"
+    }
+  ],
+  "staticDirectory": [
+    {
+      "index": "Materialien in Form vollständiger Quellen",
+      "documents": [
+        {
+          "title": "Maschinell erkannt mit untrainiertem, alllgemeinen Erkennungsmodell",
+          "docId": 656222,
+          "metadata": {
+            "Entstehungsjahr": "1750",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "2 J.germ. 88-1/2",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10490420-2"
+          }
+        },
+        {
+          "title": "Automatische Zuordnung der händischen Transkriptionen mit aufgelösten Worttrennungen (schneller Weg)",
+          "docId": 661796,
+          "metadata": {
+            "Entstehungsjahr": "1751",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "2 J.germ. 88-1/2",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10490421-7"
+          }
+        },
+        {
+          "title": "Automatische Zuordnung der händischen Transkriptionen mit von Hand wieder eingefügten Worttrennungen, nur auf Seite 1-3 (langsamer Weg; ca. 0-3 Minuten pro Seite)",
+          "docId": 661839,
+          "metadata": {
+            "Entstehungsjahr": "1751",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "2 J.germ. 88-1/2",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10490421-7"
+          }
+        }
+      ]
+    }
+  ],
+  "crowdDirectory": [
+    {
+      "index": "Materialien in Form vollständiger Quellen",
+      "documents": [
+        {
+          "title": "Maschinell erkannt mit untrainiertem, alllgemeinen Erkennungsmodell",
+          "docId": 656222,
+          "metadata": {
+            "Entstehungsjahr": "1750",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "2 J.germ. 88-1/2",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10490420-2"
+          }
+        },
+        {
+          "title": "Automatische Zuordnung der händischen Transkriptionen mit aufgelösten Zeilenumbrüchen (schneller Weg)",
+          "docId": 661796,
+          "metadata": {
+            "Entstehungsjahr": "1751",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "2 J.germ. 88-1/2",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10490421-7"
+          }
+        },
+        {
+          "title": "Automatische Zuordnung der händischen Transkriptionen mit von Hand wieder eingefügten Worttrennungen, nur auf Seite 1-3 (langsamer Weg; ca. 0-3 Minuten pro Seite)",
+          "docId": 661839,
+          "metadata": {
+            "Entstehungsjahr": "1751",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "2 J.germ. 88-1/2",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10490421-7"
+          }
+        }
+      ]
+    }
+  ]
+}

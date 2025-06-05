@@ -1,0 +1,143 @@
+{
+  "name": "Andreas von Tuhr",
+  "col_id": 72859,
+  "crowd_id": 69009,
+  "editionName": "EditionVonTuhr",
+  "editionLink": "vontuhr",
+  "logo": "vontuhr.png",
+  "portrait": "vontuhr.svg",
+  "background": "vontuhr.png",
+  "timelineThumbnail": "vontuhr.png",
+  "colors": {
+    "primaryColor": "184, 153, 90",
+    "primaryColorLight": "200, 176, 128",
+    "primaryColorDark": "10, 10, 10",
+    "secondaryColor": "208, 188, 147"
+  },
+  "footerLogos": [
+    {
+      "link": "https://www.uzh.ch/",
+      "src": "logo-uzh.svg",
+      "alt": "Universität Zürich"
+    },
+    {
+      "link": "https://readcoop.eu/readsearch/",
+      "src": "logo-readcoop.svg",
+      "alt": "Read COOP"
+    }
+  ],
+  "staticDirectory": [
+    {
+      "index": "Veröffentlichungen",
+      "documents": [
+        {
+          "title": "Tuhr, Andreas von, Der Allgemeine Teil des Deutschen Bürgerlichen Rechts, Erster Band, Allgemeine Lehren und Personenrecht, in: Binding, Karl (Hrsg.), Systematisches Handbuch der Deutschen Rechtswissenschaft, Zehnte Abteilung, Das Deutsche Bürgerliche Recht, Leipzig 1910",
+          "docId": 440701,
+          "metadata": {
+            "Entstehungsjahr": "1910",
+            "Institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+            "Signatur": "Gl 8000-10,1,1",
+            "Link": "http://resolver.staatsbibliothek-berlin.de/SBB0001941600000000"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Der Allgemeine Teil des Deutschen Bürgerlichen Rechts, Band II. Erste Hälfte, in: Binding, Karl (Hrsg.), Systematisches Handbuch der Deutschen Rechtswissenschaft, Zehnte Abteilung, Das Deutsche Bürgerliche Recht, Leipzig 1910",
+          "docId": 440700,
+          "metadata": {
+            "Entstehungsjahr": "1914",
+            "Institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+            "Signatur": "353712-10,1,2,1",
+            "Link": "http://resolver.staatsbibliothek-berlin.de/SBB0001941600000000"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Der Allgemeine Teil des Deutschen Bürgerlichen Rechts, Band II. Zweite Hälfte, in: Binding, Karl (Hrsg.), Systematisches Handbuch der Deutschen Rechtswissenschaft, Zehnte Abteilung, Das Deutsche Bürgerliche Recht, Leipzig 1910",
+          "docId": 440699,
+          "metadata": {
+            "Entstehungsjahr": "1918",
+            "Institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+            "Signatur": "Gl 8000-10,1,2,2<a>",
+            "Link": "http://resolver.staatsbibliothek-berlin.de/SBB0001941600000000"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Allgemeiner Teil des schweizerischen Obligationenrechts, Erster Halbband, Wesen und Inhalt der Obligation, Entstehung aus Vertrag, unerlaubter Handlung und ungerechtfertigter Bereicherung, Tübingen 1924",
+          "docId": 643010,
+          "metadata": {
+            "Entstehungsjahr": "1924",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "Pol 73:13:1",
+            "Link": "Eigendigitalisat"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Allgemeiner Teil des schweizerischen Obligationenrechts, Zweiter Halbband, Erfüllung, Folgen der Nichterfüllung, Erlöschen, Besondere Verhältnisse, Mehrheit von Gläubigern und Schuldnern, Uebertragung, Tübingen 1925",
+          "docId": 643009,
+          "metadata": {
+            "Entstehungsjahr": "1925",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "Pol 73:13:2",
+            "Link": "Eigendigitalisat"
+          }
+        }
+      ]
+    }
+  ],
+  "crowdDirectory": [
+    {
+      "index": "Veröffentlichungen",
+      "documents": [
+        {
+          "title": "Tuhr, Andreas von, Der Allgemeine Teil des Deutschen Bürgerlichen Rechts, Erster Band, Allgemeine Lehren und Personenrecht, in: Binding, Karl (Hrsg.), Systematisches Handbuch der Deutschen Rechtswissenschaft, Zehnte Abteilung, Das Deutsche Bürgerliche Recht, Leipzig 1910",
+          "docId": 440701,
+          "metadata": {
+            "Entstehungsjahr": "1910",
+            "Institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+            "Signatur": "Gl 8000-10,1,1",
+            "Link": "http://resolver.staatsbibliothek-berlin.de/SBB0001941600000000"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Der Allgemeine Teil des Deutschen Bürgerlichen Rechts, Band II. Erste Hälfte, in: Binding, Karl (Hrsg.), Systematisches Handbuch der Deutschen Rechtswissenschaft, Zehnte Abteilung, Das Deutsche Bürgerliche Recht, Leipzig 1910",
+          "docId": 440700,
+          "metadata": {
+            "Entstehungsjahr": "1914",
+            "Institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+            "Signatur": "353712-10,1,2,1",
+            "Link": "http://resolver.staatsbibliothek-berlin.de/SBB0001941600000000"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Der Allgemeine Teil des Deutschen Bürgerlichen Rechts, Band II. Zweite Hälfte, in: Binding, Karl (Hrsg.), Systematisches Handbuch der Deutschen Rechtswissenschaft, Zehnte Abteilung, Das Deutsche Bürgerliche Recht, Leipzig 1910",
+          "docId": 440699,
+          "metadata": {
+            "Entstehungsjahr": "1918",
+            "Institution": "Staatsbibliothek zu Berlin - Preußischer Kulturbesitz",
+            "Signatur": "Gl 8000-10,1,2,2<a>",
+            "Link": "http://resolver.staatsbibliothek-berlin.de/SBB0001941600000000"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Allgemeiner Teil des schweizerischen Obligationenrechts, Erster Halbband, Wesen und Inhalt der Obligation, Entstehung aus Vertrag, unerlaubter Handlung und ungerechtfertigter Bereicherung, Tübingen 1924",
+          "docId": 643010,
+          "metadata": {
+            "Entstehungsjahr": "1924",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "Pol 73:13:1",
+            "Link": "Eigendigitalisat"
+          }
+        },
+        {
+          "title": "Tuhr, Andreas von, Allgemeiner Teil des schweizerischen Obligationenrechts, Zweiter Halbband, Erfüllung, Folgen der Nichterfüllung, Erlöschen, Besondere Verhältnisse, Mehrheit von Gläubigern und Schuldnern, Uebertragung, Tübingen 1925",
+          "docId": 643009,
+          "metadata": {
+            "Entstehungsjahr": "1925",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "Pol 73:13:2",
+            "Link": "Eigendigitalisat"
+          }
+        }
+      ]
+    }
+  ]
+}

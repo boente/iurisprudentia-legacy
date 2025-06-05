@@ -1,0 +1,3240 @@
+{
+  "name": "Eugen Huber",
+  "col_id": 64367,
+  "crowd_id": 69009,
+  "editionName": "EditionEugenHuber",
+  "editionLink": "huber",
+  "background": "eugenHuber.png",
+  "logo": "eugenHuber.png",
+  "portrait": "eugenHuber.svg",
+  "timelineThumbnail": "eugenHuber.png",
+  "colors": {
+    "primaryColor": "184, 153, 90",
+    "primaryColorLight": "200, 176, 128",
+    "primaryColorDark": "10, 10, 10",
+    "secondaryColor": "208, 188, 147"
+  },
+  "footerLogos": [
+    {
+      "link": "https://www.uzh.ch/",
+      "src": "logo-uzh.svg",
+      "alt": "Universität Zürich"
+    },
+    {
+      "link": "https://www.unibe.ch/",
+      "src": "logo-unibe.svg",
+      "alt": "Universität Bern"
+    },
+    {
+      "link": "https://readcoop.eu/readsearch/",
+      "src": "logo-readcoop.svg",
+      "alt": "Read COOP"
+    }
+  ],
+  "staticDirectory": [
+    {
+      "index": "Tagebuch in Briefform, 28.4.1910-3.12.1917",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Tagebuch in Briefform, 1910",
+          "docId": 508510,
+          "metadata": {
+            "Entstehungsjahr": "1892",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#3*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757548",
+            "Veröffentlichte Transkriptionen": "Hofer, Sibylle (Hrsg.), Eugen Huber, Briefe an die tote Frau, Band 1: 1910, Briefe 1-219, Bern 2018, http://dx.doi.org/10.21260/EHB.1910"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Tagebuch in Briefform, 1911",
+          "docId": 508509,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1895",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#3*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757548",
+            "Veröffentlichte Transkriptionen": "Hofer, Sibylle (Hrsg.), Eugen Huber, Briefe an die tote Frau, Band 2: 1911, Briefe 1-302, Bern 2018, http://dx.doi.org/10.21260/EHB.1911"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Tagebuch in Briefform, 1912",
+          "docId": 508502,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1897",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#3*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757548",
+            "Veröffentlichte Transkriptionen": "Hofer, Sibylle (Hrsg.), Eugen Huber, Briefe an die tote Frau, Band 3: 1912, Briefe 1-255, Bern 2020, http://dx.doi.org/10.21260/EHB.1912"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Ehrung und Würdigung",
+      "documents": [
+        {
+          "title": "Gratulationen zum Werk System und Geschichte des Schweiz. Privatrechts, 1893; Volksabstimmung über Rechtseinheit, 1898; Annahme des ZGB durch die eidg. Räte, 1907; Ablauf der Referendumsfrist für das ZGB, 1908",
+          "docId": 568808,
+          "metadata": {
+            "Entstehungsjahr": "1893-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#57*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757602"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Nachlass",
+      "documents": [
+        {
+          "title": "Testamente",
+          "docId": 469607,
+          "metadata": {
+            "Entstehungsjahr": "1902-1917",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#58*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757603"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Werke, Juristische Arbeiten, Publikationen, Vorträge, Reden usw.",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Deutsches Privatrecht, Leipzig (Ms)",
+          "docId": 499290,
+          "metadata": {
+            "Entstehungszeitraum": "1896",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#95*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757640"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Recht und Freiheit (Abhandlung, Vortrag; Ms und englische Übersetzung)",
+          "docId": 505024,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#106*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757651"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Das schweiz. ZGB und die Presse. Vortrag von E. Huber in der Jahresversammlung des schweiz. Pressevereins vom 9.7.1905 in Vevey (Ms und Zeitungsbericht nach stenographischer Aufnahme)",
+          "docId": 550621,
+          "metadata": {
+            "Entstehungszeitraum": "1905",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#112*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757657"
+          }
+        },
+        {
+          "title": "Huber, Eugen, The external history of Swiss Law (chapter for the Continental Legal History Series, Boston) mit deutscher Übersetzung. Briefe von J.H. Wigmore, Little Brown & Co., Boston (Ms)",
+          "docId": 568816,
+          "metadata": {
+            "Entstehungszeitraum": "1911-1912",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#117*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757662"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Versuch einer Zusammenstellung des ganzen internationalen Privatrechts (Abzug mit Korrektur Huber)",
+          "docId": 496767,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#139*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757684"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Deutsche Staats- und Rechtsgeschichte (unvollendet; Ms)",
+          "docId": 505023,
+          "metadata": {
+            "Entstehungszeitraum": "1874-1875",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#143*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757688"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Geschichte der schweiz. Rechtsquellen, 1873/1874; 1893/1894; Schweiz. Rechtsquellen, 1881/1882",
+          "docId": 568815,
+          "metadata": {
+            "Entstehungszeitraum": "1873-1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#152*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757697"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gesetzgebungspolitik, vor 1911-1913 (u.a. Ms für die Edition eines Buches über Gesetzgebungspolitik)",
+          "docId": 498899,
+          "metadata": {
+            "Entstehungszeitraum": "1911-1913",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#156*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757701"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Praktikum in Bern (ZGB und OR)",
+          "docId": 556851,
+          "metadata": {
+            "Entstehungszeitraum": "1910-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#162*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757707"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Einleitung über das Studium des schweiz. Staatsrecht (Ms)",
+          "docId": 568814,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1837",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#163*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757708"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. Bundesstaatsrecht (Ms)",
+          "docId": 568807,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#166*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757711"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Die Schweizerischen Erbrechte in ihrer Entwicklung seit der Ablösung des alten Bundes vom deutschen Reich, Inaugural-Dissertation zur Erlangung der juristischen Doctorwürde der hohen staatswissenschaftlichen Facultät der Universität Zürich, Zürich 1872",
+          "docId": 545473,
+          "metadata": {
+            "Entstehungszeitraum": "1872",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "J.rel. 1270",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11009113-3"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Erster Band, Basel 1886",
+          "docId": 386784,
+          "metadata": {
+            "Entstehungszeitraum": "1886",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Zweiter Band, Basel 1888",
+          "docId": 386785,
+          "metadata": {
+            "Entstehungsjahr": "1888",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Dritter Band, Basel 1889",
+          "docId": 386782,
+          "metadata": {
+            "Entstehungsjahr": "1889",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Vierter Band, Basel 1893",
+          "docId": 386781,
+          "metadata": {
+            "Entstehungsjahr": "1893",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Zwölf Urkunden zur Geschichte des Schweizerischen Privatrechts, 1893",
+          "docId": 386772,
+          "metadata": {
+            "Entstehungsjahr": "1893",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 6.220/35",
+            "Link": "https://doi.org/10.3931/e-rara-80005"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Recht und Rechtsverwirklichung, Probleme der Gesetzgebung und der Rechtsphilosophie, Basel 1921",
+          "docId": 386779,
+          "metadata": {
+            "Entstehungszeitraum": "1921",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB Dubl. M/1760",
+            "Link": "https://doi.org/10.3931/e-rara-79919"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Betrachtungen über die Vereinheitlichung des Schweizerischen Erbrechts, Basel 1895",
+          "docId": 386775,
+          "metadata": {
+            "Entstehungsjahr": "1895",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 6.250/14",
+            "Link": "https://doi.org/10.3931/e-rara-79525"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Betrachtungen über die Vereinheitlichung und Reform des Schweizerischen Grundpfandrechtes, Basel 1898",
+          "docId": 386774,
+          "metadata": {
+            "Entstehungsjahr": "1895",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.340/1",
+            "Link": "https://doi.org/10.3931/e-rara-79343"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Die Eigentümerdienstbarkeit, Ein Beitrag zu ihrer Rechtfertigung, Festschrift des Gemeinen Justizrat Hernn Professor Dr. Hermann Fitting zur Feier des fünfzigjährigen Doktorjubiläums am 27. Oktober 1902 dargebracht von der juristischen Fakultät der Universität Bern, 1902",
+          "docId": 386773,
+          "metadata": {
+            "Entstehungsjahr": "1902",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.340/4",
+            "Link": "https://doi.org/10.3931/e-rara-79480"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Die Bedeutung der Gewere im deutschen Sachenrecht, Festschrift im Namen und Auftrag der Universität Bern, 1894",
+          "docId": 386777,
+          "metadata": {
+            "Entstehungsjahr": "1894",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 6.435/86",
+            "Link": "https://doi.org/10.3931/e-rara-79524"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Bewährte Lehre, 1925",
+          "docId": 386778,
+          "metadata": {
+            "Entstehungsjahr": "1925",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 4.250/82",
+            "Link": "https://doi.org/10.3931/e-rara-79920"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Über die Art und Weise des Vorgehens bei der Ausarbeitung des Entwurfes eines einheitlichen schweizerischen Civilgesetzbuches, 1893",
+          "docId": 386780,
+          "metadata": {
+            "Entstehungsjahr": "1893",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/1",
+            "Link": "https://doi.org/10.3931/e-rara-80004"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Vorlesungen und zugehörige Materialien",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Praktikum in Basel",
+          "docId": 517470,
+          "metadata": {
+            "Entstehungszeitraum": "1882-1883",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#146*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757691"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Teile einer Vorlesung über das schweiz. ZGB (Ms)",
+          "docId": 363756,
+          "metadata": {
+            "Entstehungszeitraum": "1881",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#147*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757692"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Geschichte des schweiz. Familien- und Erbrechts",
+          "docId": 449458,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1888",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#148*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757693"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Über das Schweiz. OR (Ms)",
+          "docId": 363727,
+          "metadata": {
+            "Entstehungszeitraum": "1885-1888",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#149*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757694"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. OR (Ms)",
+          "docId": 466838,
+          "metadata": {
+            "Entstehungszeitraum": "1897-1898",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#154*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757699"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. Rechtsgeschichte (Ms in Maschinenschrift mit Korrekturen für die Edition eines Buches über die Schweiz. Rechtsgeschichte)",
+          "docId": 449459,
+          "metadata": {
+            "Entstehungszeitraum": "1911",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#155*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757700"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. Rechtsgeschichte (Ms, Materialien zu Vorlesungen)",
+          "docId": 496759,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1919",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#157*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757702"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Rechtsphiliosophie (Ms mit Korrekturen für die Edition eines Buches über Rechtsphiliosophie)",
+          "docId": 452193,
+          "metadata": {
+            "Entstehungszeitraum": "1910-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#159*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757704"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Über das Schweiz. Privatrecht (ZGB alle Teile), gehalten in Bern",
+          "docId": 437186,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#161*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757706"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Geschichte der Rechtsphilosophie (Ms)",
+          "docId": 524784,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#164*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757709"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Bundesgerichtliche Entscheidungen (Ms)",
+          "docId": 449479,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#165*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757710"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gutachten",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 1 [unvollständig]",
+          "docId": 438177,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 2 [unvollständig]",
+          "docId": 438176,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 3 [unvollständig]",
+          "docId": 438175,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 4 [unvollständig]",
+          "docId": 438174,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 5 [unvollständig]",
+          "docId": 438173,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 6 [unvollständig]",
+          "docId": 438172,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 7 [unvollständig]",
+          "docId": 438171,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 8 [unvollständig]",
+          "docId": 438170,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 9 [unvollständig]",
+          "docId": 438169,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 10 [unvollständig]",
+          "docId": 438168,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 11 [unvollständig]",
+          "docId": 438167,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 12 [unvollständig]",
+          "docId": 438166,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 13 [unvollständig]",
+          "docId": 438165,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Materialien für Kommentare, ZGB",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Einleitung",
+          "docId": 386771,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#172*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/6000753"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Personenrecht, Teil 1",
+          "docId": 386766,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#173*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757718"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Personenrecht, Teil 2",
+          "docId": 386768,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#173*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757718"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Familienrecht, Teil 1",
+          "docId": 386770,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#174*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757719"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Familienrecht, Teil 2",
+          "docId": 386769,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#174*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757719"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Erbrecht",
+          "docId": 363751,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#175*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757720"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Sachenrecht, Teil 1",
+          "docId": 508504,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#176*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757721"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Sachenrecht, Teil 2",
+          "docId": 508508,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#176*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757721"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Einleitung, Personen- und Familienrecht, Art. 1 - 456",
+          "docId": 373281,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#177*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757722"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Erbrecht, Sachenrecht I (bis Art. 781)",
+          "docId": 477676,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#178*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757723"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Sachenrecht II (bis Art. 782-977) und Schlusstitel Art. 59",
+          "docId": 392810,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#179*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757724"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, Verschiedene Teile von ZGB und OR",
+          "docId": 386765,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#180*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757725"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, Fichen mit den Artikeln ZGB/OR mit Zitaten der Bundesgerichtsentscheide und der parallelen Paragraphen des BGB, CPO, CC, Teil 1",
+          "docId": 470107,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#181*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757726"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, Fichen mit den Artikeln ZGB/OR mit Zitaten der Bundesgerichtsentscheide und der parallelen Paragraphen des BGB, CPO, CC, Teil 2",
+          "docId": 470106,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#181*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757726"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Materialien für Kommentare, OR",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Allgemeiner Teil, Teil 1",
+          "docId": 508507,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#182*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757727"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Allgemeiner Teil, Teil 2",
+          "docId": 508506,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#182*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757727"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Besonderer Teil, Teil 1",
+          "docId": 451331,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#183*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757728"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Besonderer Teil, Teil 2",
+          "docId": 451330,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#183*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757728"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Besonderer Teil, Teil 3",
+          "docId": 451332,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#183*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757728"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, OR (Art. 14-899) und Schlusstitel (Art. 1-61)",
+          "docId": 363744,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#184*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757729"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gesetzgebung, Zivilgesetzbuch, Erarbeitung",
+      "documents": [
+        {
+          "title": "Zivilgesetzbuch, Erarbeitung, Personenrecht, Art. 13-96",
+          "docId": 477675,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#227*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757773"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gesetzgebung, Obligationenrecht, Erarbeitung",
+      "documents": [
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Abzüge und Korrekturen",
+          "docId": 482319,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#283*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757829"
+          }
+        },
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Beratung der Ergänzungsbestimmungen zum ZGB",
+          "docId": 482069,
+          "metadata": {
+            "Entstehungszeitraum": "1906-1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#284*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757830"
+          }
+        },
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Materialien für die Beratungen der Expertenkommission",
+          "docId": 505025,
+          "metadata": {
+            "Entstehungszeitraum": "1908-1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#285*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757831"
+          }
+        },
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Beratungen und Protokolle der Expertenkommission",
+          "docId": 517519,
+          "metadata": {
+            "Entstehungszeitraum": "1908-1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#286*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757832"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gesetzgebung, Obligationenrecht, Anträge, Bemerkungen, Berichte, Gutachten usw.",
+      "documents": [
+        {
+          "title": "Oser, Bemerkungen zum Entwurf des revidierten Schweizerischen OR",
+          "docId": 508097,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#307*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757853"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Inventar zur Dokumentation über die Erarbeitung des Schweiz. Zivilgesetzbuches 1885-1907",
+      "documents": [
+        {
+          "title": "Vorarbeiten, Akten zum Memorial Huber, 1893-1896, Programm über das Vorgehen bei der Ausarbeitung des Entwurfes eines einheitlichen schweiz. ZGB",
+          "docId": 363741,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1896",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#398*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757944"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Ausarbeitung der drei Teilentwürfe, 1893-1898, Das Erbrecht, Auszüge aus den Gutachten; Manuskript (H) Prof. Hubers des 2. Teilentwurfs; Materialien zu den Erläuterungen; Manuskript (H) der Erläuterungen; Druckabzüge mit Korrekturen (u.a. Beratungen in Rigi, September 1894), Teil 1",
+          "docId": 363732,
+          "metadata": {
+            "Entstehungszeitraum": "1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#402*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757948"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Ausarbeitung der drei Teilentwürfe, 1893-1898, Das Erbrecht, Auszüge aus den Gutachten; Manuskript (H) Prof. Hubers des 2. Teilentwurfs; Materialien zu den Erläuterungen; Manuskript (H) der Erläuterungen; Druckabzüge mit Korrekturen (u.a. Beratungen in Rigi, September 1894), Teil 2",
+          "docId": 363738,
+          "metadata": {
+            "Entstehungszeitraum": "1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#402*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757948"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Ausarbeitung der drei Teilentwürfe, 1893-1898, Das Erbrecht, Auszüge aus den Gutachten; Manuskript (H) Prof. Hubers des 2. Teilentwurfs; Materialien zu den Erläuterungen; Manuskript (H) der Erläuterungen; Druckabzüge mit Korrekturen (u.a. Beratungen in Rigi, September 1894), Teil 3",
+          "docId": 363733,
+          "metadata": {
+            "Entstehungszeitraum": "1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#402*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757948"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Einführung der Rechtseinheit, Broschüren, Aufsätze, Reden sowie amtliche Akten zur Propaganda der Rechtseinheit, 1896-1898",
+          "docId": 363740,
+          "metadata": {
+            "Entstehungszeitraum": "1896-1898",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#407*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757953"
+          }
+        },
+        {
+          "title": "Die Ausarbeitung der Departementalentwürfe, Das Erbrecht, Vorentwurf mit Bemerkungen und Korrekturen für die Beratungen vom April 1900. Endgültige Fassung (Schweiz. Zivilgesetzbuch. Dritter Teil. Das Erbrecht. Vorlage für die kleinere Departementalkommission. April 1900)",
+          "docId": 363737,
+          "metadata": {
+            "Entstehungszeitraum": "1900",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#426*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757972"
+          }
+        },
+        {
+          "title": "Druck- und Korrekturabzüge des gesamten Vorentwurfes vom 15.11.1900, Manuskript Prof. Hubers und Druckabzüge (mit Korrekturen) der Vorbemerkungen, französische Übersetzung von Prof. Rossel",
+          "docId": 363736,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#428*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757974"
+          }
+        },
+        {
+          "title": "Druck- und Korrekturabzüge des gesamten Vorentwurfes vom 15.11.1900, Druckabzüge (mit Korrekturen) der Übersicht der Vorarbeiten zu dem Entwurf eines ZGB, französische Übersetzung von Prof. Rossel",
+          "docId": 643866,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#429*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757975"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 1. Konferenz (Vorbereitungssitzung) in Gimmialp (18.-27.8.1901) der Mitglieder des Büros der Grossen Kommission, welche insbesondere der Sichtung des in zahlreichen auf den Vorentwurf bezüglichen Eingaben an das JPD gelangten Materials gewidmet war",
+          "docId": 523362,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#437*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757983"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): a) Protokoll: Manuskript (M), 2 Exemplare mit Korrekturen",
+          "docId": 482255,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#438*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757984"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): a) Protokoll: Bereinigtes Exemplar (Autogr.)",
+          "docId": 482320,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#439*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757985"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): b) Verschiedenes: Anträge und Bemerkungen",
+          "docId": 482085,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#440*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757986"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): b) Verschiedenes: Von Huber gesammelte Materialien und Aufzeichnungen aus den Beratungen",
+          "docId": 482086,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#441*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757987"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): b) Verschiedenes: Nachträge zu der Zusammenstellung der Anträge und Anregungen, September 1901",
+          "docId": 515266,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#442*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757988"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Protokoll: Manuskript (M)",
+          "docId": 523363,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#443*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757989"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Protokoll: Bereinigtes Exemplar (Autogr.)",
+          "docId": 611635,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#444*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757990"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Verschiedenes: Anträge und Bemerkungen",
+          "docId": 576059,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#445*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757991"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Verschiedenes: Besondere Bemerkungen von Prof. H. Oser",
+          "docId": 543437,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#446*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757992"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Verschiedenes: Von Huber gesammelte Materialien und Aufzeichnungen aus den Beratungen",
+          "docId": 568806,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#447*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757993"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 5. Vierte Sitzung vom 15.4.-2.5.1903 in Genf (2. Teil des Sachenrechts): b) Verschiedenes: Anträge",
+          "docId": 613729,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#452*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757998"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 5. Vierte Sitzung vom 15.4.-2.5.1903 in Genf (2. Teil des Sachenrechts): b) Verschiedenes: Von Huber gesammelte Materialien und Aufzeichnungen aus den Beratungen",
+          "docId": 576062,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#454*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758000"
+          }
+        },
+        {
+          "title": "Akten der Redaktionskommission (redaktionelle Bereinigung der Beschlüsse der Expertenkommission), Korrekturen des Textes durch Prof. Huber, Mai-Juni 1903",
+          "docId": 615567,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#460*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758006"
+          }
+        },
+        {
+          "title": "Einleitungstitel des Zivilgesetzbuches, Protokoll der Konferenz vom 26./27.1.1904 in Bern mit verschiedenen Redaktionsentwürfen",
+          "docId": 625397,
+          "metadata": {
+            "Entstehungszeitraum": "1904",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#463*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758009"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Vorlage an die Redaktionskommission, Juli 1907",
+          "docId": 593993,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#468*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758015"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Vorlage an die Redaktionskommission, September 1907",
+          "docId": 608890,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#469*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758014"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Kritische Bemerkungen, Juli-September 1907",
+          "docId": 577029,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#470*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758015"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, B der Redaktionskommission, Oktober 1907",
+          "docId": 643865,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#472*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758017"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Abzug mit Korrekturen Prof. Hubers nach der Konferenz in Siders",
+          "docId": 615568,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#473*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758018"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, B der Redaktionskommission, vom 1.-5.11.1907",
+          "docId": 615597,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#474*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758019"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Abzug mit Korrekturen von Bühlmann vom 11.11.1907",
+          "docId": 629093,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#475*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758020"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Durchsicht der Bundeskanzlei vom 11.11.1907",
+          "docId": 625396,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#476*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758021"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Text der Redaktionskommission mit Korrekturen",
+          "docId": 637335,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#477*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758022"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Bericht der Redaktionskommission des ZGB an die Bundesversammlung, 20.11.1907. Rapport présenté aux Chambres fédérales par la commission de rédaction du Code Civil suisse, 20.11.1907",
+          "docId": 617383,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#481*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758026"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Allgemeine Korrespondenz, eingehende Briefe",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Abegg, F.",
+          "docId": 515020,
+          "metadata": {
+            "Entstehungszeitraum": "1896-1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-1*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758030"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Abegg, Hans",
+          "docId": 515021,
+          "metadata": {
+            "Entstehungszeitraum": "1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-2*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758031"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Abegg, Hermine",
+          "docId": 515056,
+          "metadata": {
+            "Entstehungszeitraum": "1911-1921",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-3*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758032"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Ackermann, Otto",
+          "docId": 515059,
+          "metadata": {
+            "Entstehungszeitraum": "1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-4*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758033"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adam, Léon",
+          "docId": 515023,
+          "metadata": {
+            "Entstehungszeitraum": "1901-1908",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-5*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758034"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adams, John",
+          "docId": 515214,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1895",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-6*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758035"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adert, J.",
+          "docId": 515024,
+          "metadata": {
+            "Entstehungszeitraum": "1876",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-7*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758036"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adler, Emanuel",
+          "docId": 515062,
+          "metadata": {
+            "Entstehungszeitraum": "1910",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-8*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758037"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Aeby, P.",
+          "docId": 515027,
+          "metadata": {
+            "Entstehungszeitraum": "1915",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-9*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758038"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Aeschlimann, Theodor",
+          "docId": 515065,
+          "metadata": {
+            "Entstehungszeitraum": "1918",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-10*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758039"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Althoff",
+          "docId": 515131,
+          "metadata": {
+            "Entstehungszeitraum": "1893",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-11*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758040"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Altrock",
+          "docId": 515080,
+          "metadata": {
+            "Entstehungszeitraum": "1919",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-12*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758041"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Ambrosini, Gaspare",
+          "docId": 515135,
+          "metadata": {
+            "Entstehungszeitraum": "1914",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-13*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758042"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Amira, Karl",
+          "docId": 515223,
+          "metadata": {
+            "Entstehungszeitraum": "1884-1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-14*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758043"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Amstad, Marietta",
+          "docId": 515071,
+          "metadata": {
+            "Entstehungszeitraum": "1904",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-15*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758044"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Anastadiades, Elias",
+          "docId": 515031,
+          "metadata": {
+            "Entstehungszeitraum": "1909-1911",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-16*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758045"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Anschütz, Gerhard",
+          "docId": 514946,
+          "metadata": {
+            "Entstehungszeitraum": "1904-1918",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-17*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758046"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Appenzeller H.",
+          "docId": 515036,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-18*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758047"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Arx, K.",
+          "docId": 514933,
+          "metadata": {
+            "Entstehungszeitraum": "1877",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-19*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758048"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Auer, Hans",
+          "docId": 515074,
+          "metadata": {
+            "Entstehungszeitraum": "1901-1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-20*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758049"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Balli, G.",
+          "docId": 515075,
+          "metadata": {
+            "Entstehungszeitraum": "1909-1912",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-1*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758050"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Balog, Elémér",
+          "docId": 514942,
+          "metadata": {
+            "Entstehungszeitraum": "1908-1921",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-2*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758051"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Balogh",
+          "docId": 515218,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-3*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758052"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Bar, Axalena",
+          "docId": 514932,
+          "metadata": {
+            "Entstehungszeitraum": "1913",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-4*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758053"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Barassi, Ludovico",
+          "docId": 514940,
+          "metadata": {
+            "Entstehungszeitraum": "1897-1899",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-5*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758054"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Barth, Ida",
+          "docId": 515042,
+          "metadata": {
+            "Entstehungszeitraum": "1904",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-7*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758056"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Baschmakoff, A.",
+          "docId": 515220,
+          "metadata": {
+            "Entstehungszeitraum": "1898",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-8*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758057"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Bauernverband, schweiz. - Brunnenmeister, E. [ungegliedert]",
+          "docId": 514937,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-9 - J1.109-01#1000/1276#486-44*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758058 - https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758093"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Brunner, Heinrich - Bücher, Karl [ungegliedert]",
+          "docId": 514936,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#487-1* - J1.109-01#1000/1276#487-5*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758094 - https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758098"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Bühlmann, F. - Butty, J. [ungegliedert]",
+          "docId": 523360,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#487-6* - J1.109-01#1000/1276#487-17*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758099 - https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758110"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, C-E [ungegliedert]",
+          "docId": 625398,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#488 - J1.109-01#1000/1276#490",
+            "Link": "Eigenscan"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, F-Gmür [ungegliedert]",
+          "docId": 629096,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#491 - J1.109-01#1000/1276#492-18*",
+            "Link": "Eigenscan"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Goldsmith-Hafner, Charles [ungegliedert]",
+          "docId": 637335,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#492-19* - J1.109-01#1000/1276#494-6*",
+            "Link": "Eigenscan"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Ehrlich, Eugen",
+          "docId": 472148,
+          "metadata": {
+            "Entstehungszeitraum": "1896-1919",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#490-6*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758162"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Mülinen, Helene von",
+          "docId": 790489,
+          "metadata": {
+            "Entstehungszeitraum": "1898-1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#505-39*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758477"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Rümelin, Max",
+          "docId": 762937,
+          "metadata": {
+            "Entstehungszeitraum": "1890-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#510-7*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758554"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Saleilles, Raymond",
+          "docId": 762894,
+          "metadata": {
+            "Entstehungszeitraum": "1895-1911",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#511-1*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758557"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Allgemeine Korrespondenz, ausgehende Briefe",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Briefe an Rümelin, Max",
+          "docId": 720240,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.119#1968/107#1*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/29377326"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Allgemeine Korrespondenz, Briefkopien und Briefentwürfe",
+      "documents": [
+        {
+          "title": "Huber, Eugen",
+          "docId": 791399,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#498-3*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758323"
+          }
+        }
+      ]
+    }
+  ],
+  "crowdDirectory": [
+    {
+      "index": "Tagebuch in Briefform, 28.4.1910-3.12.1917",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Tagebuch in Briefform, 1910",
+          "docId": 508510,
+          "metadata": {
+            "Entstehungsjahr": "1892",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#3*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757548",
+            "Veröffentlichte Transkriptionen": "Hofer, Sibylle (Hrsg.), Eugen Huber, Briefe an die tote Frau, Band 1: 1910, Briefe 1-219, Bern 2018, http://dx.doi.org/10.21260/EHB.1910"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Tagebuch in Briefform, 1911",
+          "docId": 508509,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1895",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#3*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757548",
+            "Veröffentlichte Transkriptionen": "Hofer, Sibylle (Hrsg.), Eugen Huber, Briefe an die tote Frau, Band 2: 1911, Briefe 1-302, Bern 2018, http://dx.doi.org/10.21260/EHB.1911"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Tagebuch in Briefform, 1912",
+          "docId": 508502,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1897",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#3*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757548",
+            "Veröffentlichte Transkriptionen": "Hofer, Sibylle (Hrsg.), Eugen Huber, Briefe an die tote Frau, Band 3: 1912, Briefe 1-255, Bern 2020, http://dx.doi.org/10.21260/EHB.1912"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Ehrung und Würdigung",
+      "documents": [
+        {
+          "title": "Gratulationen zum Werk System und Geschichte des Schweiz. Privatrechts, 1893; Volksabstimmung über Rechtseinheit, 1898; Annahme des ZGB durch die eidg. Räte, 1907; Ablauf der Referendumsfrist für das ZGB, 1908",
+          "docId": 568808,
+          "metadata": {
+            "Entstehungsjahr": "1893-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#57*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757602"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Nachlass",
+      "documents": [
+        {
+          "title": "Testamente",
+          "docId": 469607,
+          "metadata": {
+            "Entstehungsjahr": "1902-1917",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#58*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757603"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Werke, Juristische Arbeiten, Publikationen, Vorträge, Reden usw.",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Deutsches Privatrecht, Leipzig (Ms)",
+          "docId": 499290,
+          "metadata": {
+            "Entstehungszeitraum": "1896",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#95*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757640"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Recht und Freiheit (Abhandlung, Vortrag; Ms und englische Übersetzung)",
+          "docId": 505024,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#106*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757651"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Das schweiz. ZGB und die Presse. Vortrag von E. Huber in der Jahresversammlung des schweiz. Pressevereins vom 9.7.1905 in Vevey (Ms und Zeitungsbericht nach stenographischer Aufnahme)",
+          "docId": 550621,
+          "metadata": {
+            "Entstehungszeitraum": "1905",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#112*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757657"
+          }
+        },
+        {
+          "title": "Huber, Eugen, The external history of Swiss Law (chapter for the Continental Legal History Series, Boston) mit deutscher Übersetzung. Briefe von J.H. Wigmore, Little Brown & Co., Boston (Ms)",
+          "docId": 568816,
+          "metadata": {
+            "Entstehungszeitraum": "1911-1912",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#117*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757662"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Versuch einer Zusammenstellung des ganzen internationalen Privatrechts (Abzug mit Korrektur Huber)",
+          "docId": 496767,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#139*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757684"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Deutsche Staats- und Rechtsgeschichte (unvollendet; Ms)",
+          "docId": 505023,
+          "metadata": {
+            "Entstehungszeitraum": "1874-1875",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#143*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757688"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Geschichte der schweiz. Rechtsquellen, 1873/1874; 1893/1894; Schweiz. Rechtsquellen, 1881/1882",
+          "docId": 568815,
+          "metadata": {
+            "Entstehungszeitraum": "1873-1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#152*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757697"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gesetzgebungspolitik, vor 1911-1913 (u.a. Ms für die Edition eines Buches über Gesetzgebungspolitik)",
+          "docId": 498899,
+          "metadata": {
+            "Entstehungszeitraum": "1911-1913",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#156*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757701"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Praktikum in Bern (ZGB und OR)",
+          "docId": 556851,
+          "metadata": {
+            "Entstehungszeitraum": "1910-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#162*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757707"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Einleitung über das Studium des schweiz. Staatsrecht (Ms)",
+          "docId": 568814,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1837",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#163*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757708"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. Bundesstaatsrecht (Ms)",
+          "docId": 568807,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#166*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757711"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Die Schweizerischen Erbrechte in ihrer Entwicklung seit der Ablösung des alten Bundes vom deutschen Reich, Inaugural-Dissertation zur Erlangung der juristischen Doctorwürde der hohen staatswissenschaftlichen Facultät der Universität Zürich, Zürich 1872",
+          "docId": 545473,
+          "metadata": {
+            "Entstehungszeitraum": "1872",
+            "Institution": "Bayerische Staatsbibliothek",
+            "Signatur": "J.rel. 1270",
+            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11009113-3"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Erster Band, Basel 1886",
+          "docId": 386784,
+          "metadata": {
+            "Entstehungszeitraum": "1886",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Zweiter Band, Basel 1888",
+          "docId": 386785,
+          "metadata": {
+            "Entstehungsjahr": "1888",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Dritter Band, Basel 1889",
+          "docId": 386782,
+          "metadata": {
+            "Entstehungsjahr": "1889",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, System und Geschichte des Schweizerischen Privatrechtes, Vierter Band, Basel 1893",
+          "docId": 386781,
+          "metadata": {
+            "Entstehungsjahr": "1893",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/89",
+            "Link": "https://doi.org/10.3931/e-rara-68985"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Zwölf Urkunden zur Geschichte des Schweizerischen Privatrechts, 1893",
+          "docId": 386772,
+          "metadata": {
+            "Entstehungsjahr": "1893",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 6.220/35",
+            "Link": "https://doi.org/10.3931/e-rara-80005"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Recht und Rechtsverwirklichung, Probleme der Gesetzgebung und der Rechtsphilosophie, Basel 1921",
+          "docId": 386779,
+          "metadata": {
+            "Entstehungszeitraum": "1921",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB Dubl. M/1760",
+            "Link": "https://doi.org/10.3931/e-rara-79919"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Betrachtungen über die Vereinheitlichung des Schweizerischen Erbrechts, Basel 1895",
+          "docId": 386775,
+          "metadata": {
+            "Entstehungsjahr": "1895",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 6.250/14",
+            "Link": "https://doi.org/10.3931/e-rara-79525"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Betrachtungen über die Vereinheitlichung und Reform des Schweizerischen Grundpfandrechtes, Basel 1898",
+          "docId": 386774,
+          "metadata": {
+            "Entstehungsjahr": "1895",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.340/1",
+            "Link": "https://doi.org/10.3931/e-rara-79343"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Die Eigentümerdienstbarkeit, Ein Beitrag zu ihrer Rechtfertigung, Festschrift des Gemeinen Justizrat Hernn Professor Dr. Hermann Fitting zur Feier des fünfzigjährigen Doktorjubiläums am 27. Oktober 1902 dargebracht von der juristischen Fakultät der Universität Bern, 1902",
+          "docId": 386773,
+          "metadata": {
+            "Entstehungsjahr": "1902",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.340/4",
+            "Link": "https://doi.org/10.3931/e-rara-79480"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Die Bedeutung der Gewere im deutschen Sachenrecht, Festschrift im Namen und Auftrag der Universität Bern, 1894",
+          "docId": 386777,
+          "metadata": {
+            "Entstehungsjahr": "1894",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 6.435/86",
+            "Link": "https://doi.org/10.3931/e-rara-79524"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Bewährte Lehre, 1925",
+          "docId": 386778,
+          "metadata": {
+            "Entstehungsjahr": "1925",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 4.250/82",
+            "Link": "https://doi.org/10.3931/e-rara-79920"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Über die Art und Weise des Vorgehens bei der Ausarbeitung des Entwurfes eines einheitlichen schweizerischen Civilgesetzbuches, 1893",
+          "docId": 386780,
+          "metadata": {
+            "Entstehungsjahr": "1893",
+            "Institution": "Universitätsbibliothek Bern",
+            "Signatur": "JBB 8.100/1",
+            "Link": "https://doi.org/10.3931/e-rara-80004"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Vorlesungen und zugehörige Materialien",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Praktikum in Basel",
+          "docId": 517470,
+          "metadata": {
+            "Entstehungszeitraum": "1882-1883",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#146*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757691"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Teile einer Vorlesung über das schweiz. ZGB (Ms)",
+          "docId": 363756,
+          "metadata": {
+            "Entstehungszeitraum": "1881",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#147*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757692"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Geschichte des schweiz. Familien- und Erbrechts",
+          "docId": 449458,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1888",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#148*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757693"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Über das Schweiz. OR (Ms)",
+          "docId": 363727,
+          "metadata": {
+            "Entstehungszeitraum": "1885-1888",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#149*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757694"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. OR (Ms)",
+          "docId": 466838,
+          "metadata": {
+            "Entstehungszeitraum": "1897-1898",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#154*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757699"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. Rechtsgeschichte (Ms in Maschinenschrift mit Korrekturen für die Edition eines Buches über die Schweiz. Rechtsgeschichte)",
+          "docId": 449459,
+          "metadata": {
+            "Entstehungszeitraum": "1911",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#155*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757700"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Schweiz. Rechtsgeschichte (Ms, Materialien zu Vorlesungen)",
+          "docId": 496759,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1919",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#157*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757702"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Rechtsphiliosophie (Ms mit Korrekturen für die Edition eines Buches über Rechtsphiliosophie)",
+          "docId": 452193,
+          "metadata": {
+            "Entstehungszeitraum": "1910-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#159*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757704"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Über das Schweiz. Privatrecht (ZGB alle Teile), gehalten in Bern",
+          "docId": 437186,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#161*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757706"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Geschichte der Rechtsphilosophie (Ms)",
+          "docId": 524784,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#164*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757709"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Bundesgerichtliche Entscheidungen (Ms)",
+          "docId": 449479,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#165*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757710"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gutachten",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 1 [unvollständig]",
+          "docId": 438177,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 2 [unvollständig]",
+          "docId": 438176,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 3 [unvollständig]",
+          "docId": 438175,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 4 [unvollständig]",
+          "docId": 438174,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 5 [unvollständig]",
+          "docId": 438173,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 6 [unvollständig]",
+          "docId": 438172,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 7 [unvollständig]",
+          "docId": 438171,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 8 [unvollständig]",
+          "docId": 438170,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 9 [unvollständig]",
+          "docId": 438169,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 10 [unvollständig]",
+          "docId": 438168,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 11 [unvollständig]",
+          "docId": 438167,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 12 [unvollständig]",
+          "docId": 438166,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Gutachten, Teil 13 [unvollständig]",
+          "docId": 438165,
+          "metadata": {
+            "Entstehungszeitraum": "1881-1922",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#169*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757714",
+            "Veröffentlichte Transkriptionen": "Fasel, Urs, Eugen Hubers Gutachten [nach Jahrgängen], Bern ab 2019, https://www.ursfasel.ch/publikation-kategorie/eugen-huber-reihe/"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Materialien für Kommentare, ZGB",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Einleitung",
+          "docId": 386771,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#172*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/6000753"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Personenrecht, Teil 1",
+          "docId": 386766,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#173*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757718"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Personenrecht, Teil 2",
+          "docId": 386768,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#173*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757718"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Familienrecht, Teil 1",
+          "docId": 386770,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#174*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757719"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Familienrecht, Teil 2",
+          "docId": 386769,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#174*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757719"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Erbrecht",
+          "docId": 363751,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#175*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757720"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Sachenrecht, Teil 1",
+          "docId": 508504,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#176*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757721"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Sachenrecht, Teil 2",
+          "docId": 508508,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#176*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757721"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Einleitung, Personen- und Familienrecht, Art. 1 - 456",
+          "docId": 373281,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#177*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757722"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Erbrecht, Sachenrecht I (bis Art. 781)",
+          "docId": 477676,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#178*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757723"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, ZGB, Sachenrecht II (bis Art. 782-977) und Schlusstitel Art. 59",
+          "docId": 392810,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#179*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757724"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, Verschiedene Teile von ZGB und OR",
+          "docId": 386765,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#180*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757725"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, Fichen mit den Artikeln ZGB/OR mit Zitaten der Bundesgerichtsentscheide und der parallelen Paragraphen des BGB, CPO, CC, Teil 1",
+          "docId": 470107,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#181*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757726"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, Fichen mit den Artikeln ZGB/OR mit Zitaten der Bundesgerichtsentscheide und der parallelen Paragraphen des BGB, CPO, CC, Teil 2",
+          "docId": 470106,
+          "metadata": {
+            "Entstehungsjahr": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#181*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757726"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Materialien für Kommentare, OR",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Allgemeiner Teil, Teil 1",
+          "docId": 508507,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#182*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757727"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Allgemeiner Teil, Teil 2",
+          "docId": 508506,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#182*",
+            "Link": "Eigendigitalisat, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757727"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Besonderer Teil, Teil 1",
+          "docId": 451331,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#183*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757728"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Besonderer Teil, Teil 2",
+          "docId": 451330,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#183*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757728"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, Besonderer Teil, Teil 3",
+          "docId": 451332,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#183*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757728"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Materialien für Kommentare, OR, OR (Art. 14-899) und Schlusstitel (Art. 1-61)",
+          "docId": 363744,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#184*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757729"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gesetzgebung, Zivilgesetzbuch, Erarbeitung",
+      "documents": [
+        {
+          "title": "Zivilgesetzbuch, Erarbeitung, Personenrecht, Art. 13-96",
+          "docId": 477675,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#227*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757773"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gesetzgebung, Obligationenrecht, Erarbeitung",
+      "documents": [
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Abzüge und Korrekturen",
+          "docId": 482319,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#283*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757829"
+          }
+        },
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Beratung der Ergänzungsbestimmungen zum ZGB",
+          "docId": 482069,
+          "metadata": {
+            "Entstehungszeitraum": "1906-1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#284*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757830"
+          }
+        },
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Materialien für die Beratungen der Expertenkommission",
+          "docId": 505025,
+          "metadata": {
+            "Entstehungszeitraum": "1908-1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#285*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757831"
+          }
+        },
+        {
+          "title": "Obligationenrecht, Erarbeitung, 5. Teil, 1. Abteilung, Beratungen und Protokolle der Expertenkommission",
+          "docId": 517519,
+          "metadata": {
+            "Entstehungszeitraum": "1908-1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#286*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757832"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Gesetzgebung, Obligationenrecht, Anträge, Bemerkungen, Berichte, Gutachten usw.",
+      "documents": [
+        {
+          "title": "Oser, Bemerkungen zum Entwurf des revidierten Schweizerischen OR",
+          "docId": 508097,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#307*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757853"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Inventar zur Dokumentation über die Erarbeitung des Schweiz. Zivilgesetzbuches 1885-1907",
+      "documents": [
+        {
+          "title": "Vorarbeiten, Akten zum Memorial Huber, 1893-1896, Programm über das Vorgehen bei der Ausarbeitung des Entwurfes eines einheitlichen schweiz. ZGB",
+          "docId": 363741,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1896",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#398*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757944"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Ausarbeitung der drei Teilentwürfe, 1893-1898, Das Erbrecht, Auszüge aus den Gutachten; Manuskript (H) Prof. Hubers des 2. Teilentwurfs; Materialien zu den Erläuterungen; Manuskript (H) der Erläuterungen; Druckabzüge mit Korrekturen (u.a. Beratungen in Rigi, September 1894), Teil 1",
+          "docId": 363732,
+          "metadata": {
+            "Entstehungszeitraum": "1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#402*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757948"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Ausarbeitung der drei Teilentwürfe, 1893-1898, Das Erbrecht, Auszüge aus den Gutachten; Manuskript (H) Prof. Hubers des 2. Teilentwurfs; Materialien zu den Erläuterungen; Manuskript (H) der Erläuterungen; Druckabzüge mit Korrekturen (u.a. Beratungen in Rigi, September 1894), Teil 2",
+          "docId": 363738,
+          "metadata": {
+            "Entstehungszeitraum": "1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#402*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757948"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Ausarbeitung der drei Teilentwürfe, 1893-1898, Das Erbrecht, Auszüge aus den Gutachten; Manuskript (H) Prof. Hubers des 2. Teilentwurfs; Materialien zu den Erläuterungen; Manuskript (H) der Erläuterungen; Druckabzüge mit Korrekturen (u.a. Beratungen in Rigi, September 1894), Teil 3",
+          "docId": 363733,
+          "metadata": {
+            "Entstehungszeitraum": "1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#402*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757948"
+          }
+        },
+        {
+          "title": "Vorarbeiten, Die Einführung der Rechtseinheit, Broschüren, Aufsätze, Reden sowie amtliche Akten zur Propaganda der Rechtseinheit, 1896-1898",
+          "docId": 363740,
+          "metadata": {
+            "Entstehungszeitraum": "1896-1898",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#407*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757953"
+          }
+        },
+        {
+          "title": "Die Ausarbeitung der Departementalentwürfe, Das Erbrecht, Vorentwurf mit Bemerkungen und Korrekturen für die Beratungen vom April 1900. Endgültige Fassung (Schweiz. Zivilgesetzbuch. Dritter Teil. Das Erbrecht. Vorlage für die kleinere Departementalkommission. April 1900)",
+          "docId": 363737,
+          "metadata": {
+            "Entstehungszeitraum": "1900",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#426*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757972"
+          }
+        },
+        {
+          "title": "Druck- und Korrekturabzüge des gesamten Vorentwurfes vom 15.11.1900, Manuskript Prof. Hubers und Druckabzüge (mit Korrekturen) der Vorbemerkungen, französische Übersetzung von Prof. Rossel",
+          "docId": 363736,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#428*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757974"
+          }
+        },
+        {
+          "title": "Druck- und Korrekturabzüge des gesamten Vorentwurfes vom 15.11.1900, Druckabzüge (mit Korrekturen) der Übersicht der Vorarbeiten zu dem Entwurf eines ZGB, französische Übersetzung von Prof. Rossel",
+          "docId": 643866,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#429*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757975"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 1. Konferenz (Vorbereitungssitzung) in Gimmialp (18.-27.8.1901) der Mitglieder des Büros der Grossen Kommission, welche insbesondere der Sichtung des in zahlreichen auf den Vorentwurf bezüglichen Eingaben an das JPD gelangten Materials gewidmet war",
+          "docId": 523362,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#437*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757983"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): a) Protokoll: Manuskript (M), 2 Exemplare mit Korrekturen",
+          "docId": 482255,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#438*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757984"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): a) Protokoll: Bereinigtes Exemplar (Autogr.)",
+          "docId": 482320,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#439*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757985"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): b) Verschiedenes: Anträge und Bemerkungen",
+          "docId": 482085,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#440*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757986"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): b) Verschiedenes: Von Huber gesammelte Materialien und Aufzeichnungen aus den Beratungen",
+          "docId": 482086,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#441*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757987"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 2. Erste Sitzung vom 7.-30.10.1901 in Luzern (Personen- und Familienrecht): b) Verschiedenes: Nachträge zu der Zusammenstellung der Anträge und Anregungen, September 1901",
+          "docId": 515266,
+          "metadata": {
+            "Entstehungszeitraum": "1901",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#442*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757988"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Protokoll: Manuskript (M)",
+          "docId": 523363,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#443*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757989"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Protokoll: Bereinigtes Exemplar (Autogr.)",
+          "docId": 611635,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#444*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757990"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Verschiedenes: Anträge und Bemerkungen",
+          "docId": 576059,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#445*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757991"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Verschiedenes: Besondere Bemerkungen von Prof. H. Oser",
+          "docId": 543437,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#446*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757992"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 3. Zweite Sitzung vom 3.-22.3.1902 in Neuenburg (Vormundschafts- und Erbrecht): a) Verschiedenes: Von Huber gesammelte Materialien und Aufzeichnungen aus den Beratungen",
+          "docId": 568806,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#447*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757993"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 5. Vierte Sitzung vom 15.4.-2.5.1903 in Genf (2. Teil des Sachenrechts): b) Verschiedenes: Anträge",
+          "docId": 613729,
+          "metadata": {
+            "Entstehungszeitraum": "1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#452*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5757998"
+          }
+        },
+        {
+          "title": "Die Verhandlungen der Expertenkommission, 5. Vierte Sitzung vom 15.4.-2.5.1903 in Genf (2. Teil des Sachenrechts): b) Verschiedenes: Von Huber gesammelte Materialien und Aufzeichnungen aus den Beratungen",
+          "docId": 576062,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#454*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758000"
+          }
+        },
+        {
+          "title": "Akten der Redaktionskommission (redaktionelle Bereinigung der Beschlüsse der Expertenkommission), Korrekturen des Textes durch Prof. Huber, Mai-Juni 1903",
+          "docId": 615567,
+          "metadata": {
+            "Entstehungszeitraum": "1903",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#460*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758006"
+          }
+        },
+        {
+          "title": "Einleitungstitel des Zivilgesetzbuches, Protokoll der Konferenz vom 26./27.1.1904 in Bern mit verschiedenen Redaktionsentwürfen",
+          "docId": 625397,
+          "metadata": {
+            "Entstehungszeitraum": "1904",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#463*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758009"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Vorlage an die Redaktionskommission, Juli 1907",
+          "docId": 593993,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#468*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758015"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Vorlage an die Redaktionskommission, September 1907",
+          "docId": 608890,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#469*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758014"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Kritische Bemerkungen, Juli-September 1907",
+          "docId": 577029,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#470*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758015"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, B der Redaktionskommission, Oktober 1907",
+          "docId": 643865,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#472*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758017"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Abzug mit Korrekturen Prof. Hubers nach der Konferenz in Siders",
+          "docId": 615568,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#473*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758018"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, B der Redaktionskommission, vom 1.-5.11.1907",
+          "docId": 615597,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#474*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758019"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Abzug mit Korrekturen von Bühlmann vom 11.11.1907",
+          "docId": 629093,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#475*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758020"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Durchsicht der Bundeskanzlei vom 11.11.1907",
+          "docId": 625396,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#476*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758021"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Text der Redaktionskommission mit Korrekturen",
+          "docId": 637335,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#477*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758022"
+          }
+        },
+        {
+          "title": "Die Behandlung des Entwurfes von 1904 in den eidg. Räten, Akten der Bundesversammlung und der Redaktionskommission, Bericht der Redaktionskommission des ZGB an die Bundesversammlung, 20.11.1907. Rapport présenté aux Chambres fédérales par la commission de rédaction du Code Civil suisse, 20.11.1907",
+          "docId": 617383,
+          "metadata": {
+            "Entstehungszeitraum": "1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#481*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758026"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Allgemeine Korrespondenz, eingehende Briefe",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Abegg, F.",
+          "docId": 515020,
+          "metadata": {
+            "Entstehungszeitraum": "1896-1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-1*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758030"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Abegg, Hans",
+          "docId": 515021,
+          "metadata": {
+            "Entstehungszeitraum": "1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-2*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758031"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Abegg, Hermine",
+          "docId": 515056,
+          "metadata": {
+            "Entstehungszeitraum": "1911-1921",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-3*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758032"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Ackermann, Otto",
+          "docId": 515059,
+          "metadata": {
+            "Entstehungszeitraum": "1909",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-4*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758033"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adam, Léon",
+          "docId": 515023,
+          "metadata": {
+            "Entstehungszeitraum": "1901-1908",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-5*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758034"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adams, John",
+          "docId": 515214,
+          "metadata": {
+            "Entstehungszeitraum": "1893-1895",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-6*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758035"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adert, J.",
+          "docId": 515024,
+          "metadata": {
+            "Entstehungszeitraum": "1876",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-7*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758036"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Adler, Emanuel",
+          "docId": 515062,
+          "metadata": {
+            "Entstehungszeitraum": "1910",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-8*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758037"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Aeby, P.",
+          "docId": 515027,
+          "metadata": {
+            "Entstehungszeitraum": "1915",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-9*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758038"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Aeschlimann, Theodor",
+          "docId": 515065,
+          "metadata": {
+            "Entstehungszeitraum": "1918",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-10*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758039"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Althoff",
+          "docId": 515131,
+          "metadata": {
+            "Entstehungszeitraum": "1893",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-11*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758040"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Altrock",
+          "docId": 515080,
+          "metadata": {
+            "Entstehungszeitraum": "1919",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-12*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758041"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Ambrosini, Gaspare",
+          "docId": 515135,
+          "metadata": {
+            "Entstehungszeitraum": "1914",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-13*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758042"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Amira, Karl",
+          "docId": 515223,
+          "metadata": {
+            "Entstehungszeitraum": "1884-1894",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-14*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758043"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Amstad, Marietta",
+          "docId": 515071,
+          "metadata": {
+            "Entstehungszeitraum": "1904",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-15*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758044"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Anastadiades, Elias",
+          "docId": 515031,
+          "metadata": {
+            "Entstehungszeitraum": "1909-1911",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-16*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758045"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Anschütz, Gerhard",
+          "docId": 514946,
+          "metadata": {
+            "Entstehungszeitraum": "1904-1918",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-17*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758046"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Appenzeller H.",
+          "docId": 515036,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-18*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758047"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Arx, K.",
+          "docId": 514933,
+          "metadata": {
+            "Entstehungszeitraum": "1877",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-19*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758048"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Auer, Hans",
+          "docId": 515074,
+          "metadata": {
+            "Entstehungszeitraum": "1901-1902",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#485-20*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758049"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Balli, G.",
+          "docId": 515075,
+          "metadata": {
+            "Entstehungszeitraum": "1909-1912",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-1*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758050"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Balog, Elémér",
+          "docId": 514942,
+          "metadata": {
+            "Entstehungszeitraum": "1908-1921",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-2*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758051"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Balogh",
+          "docId": 515218,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-3*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758052"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, von Bar, Axalena",
+          "docId": 514932,
+          "metadata": {
+            "Entstehungszeitraum": "1913",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-4*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758053"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Barassi, Ludovico",
+          "docId": 514940,
+          "metadata": {
+            "Entstehungszeitraum": "1897-1899",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-5*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758054"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Barth, Ida",
+          "docId": 515042,
+          "metadata": {
+            "Entstehungszeitraum": "1904",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-7*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758056"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Baschmakoff, A.",
+          "docId": 515220,
+          "metadata": {
+            "Entstehungszeitraum": "1898",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-8*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758057"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Bauernverband, schweiz. - Brunnenmeister, E. [ungegliedert]",
+          "docId": 514937,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#486-9 - J1.109-01#1000/1276#486-44*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758058 - https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758093"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Brunner, Heinrich - Bücher, Karl [ungegliedert]",
+          "docId": 514936,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#487-1* - J1.109-01#1000/1276#487-5*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758094 - https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758098"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Bühlmann, F. - Butty, J. [ungegliedert]",
+          "docId": 523360,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#487-6* - J1.109-01#1000/1276#487-17*",
+            "Link": "Eigenscan, https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758099 - https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758110"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, C-E [ungegliedert]",
+          "docId": 625398,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#488 - J1.109-01#1000/1276#490",
+            "Link": "Eigenscan"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, F-Gmür [ungegliedert]",
+          "docId": 629096,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#491 - J1.109-01#1000/1276#492-18*",
+            "Link": "Eigenscan"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Goldsmith-Hafner, Charles [ungegliedert]",
+          "docId": 637335,
+          "metadata": {
+            "Entstehungszeitraum": "1809-1937",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#492-19* - J1.109-01#1000/1276#494-6*",
+            "Link": "Eigenscan"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Ehrlich, Eugen",
+          "docId": 472148,
+          "metadata": {
+            "Entstehungszeitraum": "1896-1919",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#490-6*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758162"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Mülinen, Helene von",
+          "docId": 790489,
+          "metadata": {
+            "Entstehungszeitraum": "1898-1907",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#505-39*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758477"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Rümelin, Max",
+          "docId": 762937,
+          "metadata": {
+            "Entstehungszeitraum": "1890-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#510-7*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758554"
+          }
+        },
+        {
+          "title": "Huber, Eugen, Allgemeine Korrespondenz, Saleilles, Raymond",
+          "docId": 762894,
+          "metadata": {
+            "Entstehungszeitraum": "1895-1911",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#511-1*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758557"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Allgemeine Korrespondenz, ausgehende Briefe",
+      "documents": [
+        {
+          "title": "Huber, Eugen, Briefe an Rümelin, Max",
+          "docId": 720240,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.119#1968/107#1*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/29377326"
+          }
+        }
+      ]
+    },
+    {
+      "index": "Allgemeine Korrespondenz, Briefkopien und Briefentwürfe",
+      "documents": [
+        {
+          "title": "Huber, Eugen",
+          "docId": 791399,
+          "metadata": {
+            "Entstehungszeitraum": "1892-1923",
+            "Institution": "Schweizerisches Bundesarchiv",
+            "Signatur": "J1.109-01#1000/1276#498-3*",
+            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5758323"
+          }
+        }
+      ]
+    }
+  ]
+}
