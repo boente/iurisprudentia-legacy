@@ -1,12 +1,13 @@
 {
+  "id": "VonTuhr",
   "name": "Andreas von Tuhr",
   "col_id": 72859,
   "crowd_id": 69009,
   "editionName": "EditionVonTuhr",
   "editionLink": "vontuhr",
+  "background": "vontuhr.png",
   "logo": "vontuhr.png",
   "portrait": "vontuhr.svg",
-  "background": "vontuhr.png",
   "timelineThumbnail": "vontuhr.png",
   "colors": {
     "primaryColor": "184, 153, 90",

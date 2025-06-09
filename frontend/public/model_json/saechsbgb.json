@@ -1,4 +1,5 @@
 {
+  "id": "saechsbgb",
   "name": "Bürgerliches Gesetzbuch für das Königreich Sachsen",
   "col_id": 97791,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "saechsbgb",
   "background": "saechsbgb.png",
   "logo": "saechsbgb.png",
+  "portrait": null,
   "timelineThumbnail": "saechsbgb.png",
   "colors": {
     "primaryColor": "184, 153, 90",

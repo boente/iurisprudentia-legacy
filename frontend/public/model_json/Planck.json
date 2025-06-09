@@ -1,12 +1,13 @@
 {
+  "id": "Planck",
   "name": "Gottlieb Karl Georg Planck",
   "col_id": 72893,
   "crowd_id": 69009,
   "editionName": "EditionPlanck",
   "editionLink": "gottliebplanck",
+  "background": "planck.png",
   "logo": "planck.png",
   "portrait": "planck.svg",
-  "background": "planck.png",
   "timelineThumbnail": "planck.png",
   "colors": {
     "primaryColor": "184, 153, 90",

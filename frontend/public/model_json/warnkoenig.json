@@ -1,12 +1,13 @@
 {
+  "id": "warnkoenig",
   "name": "Leopold August Warnkönig",
   "col_id": 193028,
   "crowd_id": 69009,
   "editionName": "EditionWarnkönig",
   "editionLink": "warnkoenig",
+  "background": "warnkoenig.png",
   "logo": "warnkoenig.png",
   "portrait": "warnkoenig.svg",
-  "background": "warnkoenig.png",
   "timelineThumbnail": "warnkoenig.png",
   "colors": {
     "primaryColor": "184, 153, 90",

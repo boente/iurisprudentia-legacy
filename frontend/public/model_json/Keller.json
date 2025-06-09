@@ -1,12 +1,13 @@
 {
+  "id": "Keller",
   "name": "Friedrich Ludwig Keller",
   "col_id": 72840,
   "crowd_id": 69009,
   "editionName": "EditionKeller",
   "editionLink": "keller",
+  "background": "keller.png",
   "logo": "keller.png",
   "portrait": "keller.svg",
-  "background": "keller.png",
   "timelineThumbnail": "keller.png",
   "colors": {
     "primaryColor": "184, 153, 90",

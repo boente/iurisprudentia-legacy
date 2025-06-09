@@ -1,4 +1,5 @@
 {
+  "id": "PolOR",
   "name": "Polnisches Obligationengesetzbuch",
   "col_id": 94844,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "polor",
   "background": "polor.png",
   "logo": "polor.png",
+  "portrait": null,
   "timelineThumbnail": "polor.png",
   "colors": {
     "primaryColor": "184, 153, 90",

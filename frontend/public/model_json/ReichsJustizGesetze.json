@@ -1,4 +1,5 @@
 {
+  "id": "ReichsJustizGesetze",
   "name": "Reichsjustizgesetze",
   "col_id": 62597,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "rjg",
   "background": "reichsJustizGesetze.png",
   "logo": "reichsJustizGesetze.png",
+  "portrait": null,
   "timelineThumbnail": "reichsJustizGesetze.png",
   "colors": {
     "primaryColor": "184, 153, 90",

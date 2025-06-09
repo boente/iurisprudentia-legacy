@@ -1,4 +1,5 @@
 {
+  "id": "Bundesverfassung",
   "name": "Bundesverfassung der Schweizerischen Eidgenossenschaft",
   "col_id": 182280,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "bundesverfassung",
   "background": "bv.png",
   "logo": "bv.png",
+  "portrait": null,
   "timelineThumbnail": "bv.png",
   "colors": {
     "primaryColor": "184, 153, 90",

@@ -1,9 +1,13 @@
 {
+  "id": "Ungeralt",
   "name": "Joseph Unger",
   "col_id": 70009,
   "crowd_id": 69009,
   "editionName": "EditionJosephUnger",
   "editionLink": "unger",
+  "background": null,
+  "logo": null,
+  "portrait": null,
   "timelineThumbnail": "vonGlueck.png",
   "colors": {
     "primaryColor": "184, 153, 90",

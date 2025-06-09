@@ -1,4 +1,5 @@
 {
+  "id": "Reichskammergericht",
   "name": "Reichskammergericht",
   "col_id": 1905947,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "reichskammergericht",
   "background": "reichskammergericht.png",
   "logo": "rkg.png",
+  "portrait": null,
   "timelineThumbnail": "rkg.png",
   "colors": {
     "primaryColor": "184, 153, 90",

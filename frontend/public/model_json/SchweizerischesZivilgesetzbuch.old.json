@@ -1,4 +1,5 @@
 {
+  "id": "SchweizerischesZivilgesetzbuch.old",
   "name": "Schweizerisches Zivilgesetzbuch",
   "col_id": 62452,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "zgb",
   "background": "schweizerischesZivilgesetzbuch.png",
   "logo": "schweizerischesZivilgesetzbuch.png",
+  "portrait": null,
   "timelineThumbnail": "schweizerischesZivilgesetzbuch.png",
   "colors": {
     "primaryColor": "184, 153, 90",

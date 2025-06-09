@@ -1,12 +1,13 @@
 {
+  "id": "VonGlueck",
   "name": "Christian Friedrich von Glück",
   "col_id": 70220,
   "crowd_id": 69009,
   "editionName": "EditionVonGlück",
   "editionLink": "vonglueck",
+  "background": "vonGlueck.png",
   "logo": "vonGlueck.png",
   "portrait": "vonGlueck.svg",
-  "background": "vonGlueck.png",
   "timelineThumbnail": "vonGlueck.png",
   "colors": {
     "primaryColor": "184, 153, 90",

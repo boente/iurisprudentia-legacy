@@ -1,4 +1,5 @@
 {
+  "id": "CPO",
   "name": "CPO",
   "col_id": 74610,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "cpo",
   "background": "cpo.png",
   "logo": "cpo.png",
+  "portrait": null,
   "timelineThumbnail": "cpo.png",
   "colors": {
     "primaryColor": "184, 153, 90",

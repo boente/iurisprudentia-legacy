@@ -1,12 +1,13 @@
 {
+  "id": "Savigny",
   "name": "Friedrich Carl von Savigny",
   "col_id": 65112,
   "crowd_id": 69009,
   "editionName": "EditionFriedrichCarlVonSavigny",
   "editionLink": "savigny",
+  "background": "savigny.png",
   "logo": "savigny.png",
   "portrait": "savigny.svg",
-  "background": "savigny.png",
   "timelineThumbnail": "savigny.png",
   "colors": {
     "primaryColor": "184, 153, 90",

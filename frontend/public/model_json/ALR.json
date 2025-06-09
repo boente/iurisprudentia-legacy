@@ -1,4 +1,5 @@
 {
+  "id": "ALR",
   "name": "Allgemeines Landrecht",
   "col_id": 94274,
   "crowd_id": 69009,
@@ -6,6 +7,7 @@
   "editionLink": "alr",
   "background": "alr.png",
   "logo": "alr.png",
+  "portrait": null,
   "timelineThumbnail": "alr.png",
   "colors": {
     "primaryColor": "184, 153, 90",

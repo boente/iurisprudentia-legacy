@@ -1,12 +1,13 @@
 {
+  "id": "Heuslerold",
   "name": "Andreas Heusler",
   "col_id": 77749,
   "crowd_id": 69009,
   "editionName": "EditionHeusler",
   "editionLink": "heusler",
+  "background": "heusler.png",
   "logo": "andreasheusler.png",
   "portrait": "heusler.svg",
-  "background": "heusler.png",
   "timelineThumbnail": "heusler.png",
   "colors": {
     "primaryColor": "184, 153, 90",
