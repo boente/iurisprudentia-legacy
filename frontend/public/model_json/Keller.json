@@ -1,554 +1,554 @@
 {
-  "id": "Keller",
-  "name": "Friedrich Ludwig Keller",
-  "col_id": 72840,
-  "crowd_id": 69009,
-  "editionName": "EditionKeller",
-  "editionLink": "keller",
-  "background": "keller.png",
-  "logo": "keller.png",
-  "portrait": "keller.svg",
-  "timelineThumbnail": "keller.png",
-  "colors": {
-    "primaryColor": "184, 153, 90",
-    "primaryColorLight": "200, 176, 128",
-    "primaryColorDark": "10, 10, 10",
-    "secondaryColor": "208, 188, 147"
-  },
-  "footerLogos": [
-    {
-      "link": "https://www.uzh.ch/",
-      "src": "logo-uzh.svg",
-      "alt": "Universität Zürich"
+    "id": "Keller",
+    "name": "Friedrich Ludwig Keller",
+    "col_id": 72840,
+    "crowd_id": 69009,
+    "editionName": "EditionKeller",
+    "editionLink": "keller",
+    "background": "keller.png",
+    "logo": "keller.png",
+    "portrait": "keller.svg",
+    "timelineThumbnail": "keller.png",
+    "colors": {
+        "primaryColor": "184, 153, 90",
+        "primaryColorLight": "200, 176, 128",
+        "primaryColorDark": "10, 10, 10",
+        "secondaryColor": "208, 188, 147"
     },
-    {
-      "link": "https://readcoop.eu/readsearch/",
-      "src": "logo-readcoop.svg",
-      "alt": "Read COOP"
-    }
-  ],
-  "staticDirectory": [
-    {
-      "index": "Manuskripte",
-      "documents": [
+    "footerLogos": [
         {
-          "title": "Keller, Friedrich Ludwig von, Die Baseler Theilungssache, Manuscript zu vertraulicher Mittheilung",
-          "docId": 662514,
-          "metadata": {
-            "Entstehungsjahr": "1830",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "4 Helv. 210",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10986294-7"
-          }
+            "link": "https://www.uzh.ch/",
+            "src": "logo-uzh.svg",
+            "alt": "Universität Zürich"
+        },
+        {
+            "link": "https://readcoop.eu/readsearch/",
+            "src": "logo-readcoop.svg",
+            "alt": "Read COOP"
         }
-      ]
-    },
-    {
-      "index": "Vorlesungen und Vorlesungsmitschriften",
-      "documents": [
+    ],
+    "staticDirectory": [
         {
-          "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozeß, Vorlesungsmitschrift von J. Kronauer, Zürich, 1834",
-          "docId": 678128,
-          "metadata": {
-            "Entstehungsjahr": "1834",
-            "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
-            "Signatur": "279",
-            "Link": ""
-          }
+            "index": "Manuskripte",
+            "documents": [
+                {
+                    "title": "Keller, Friedrich Ludwig von, Die Baseler Theilungssache, Manuscript zu vertraulicher Mittheilung",
+                    "docId": 662514,
+                    "metadata": {
+                        "Entstehungsjahr": "1830",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "4 Helv. 210",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10986294-7"
+                    }
+                }
+            ]
         },
         {
-          "title": "Keller, Friedrich Ludwig, Auszüge aus den Vorlesungen über die im Canton Zürich geltenden Erbrechte, Vorlesungsmitschrift, Zürich, 1831-1837",
-          "docId": 678129,
-          "metadata": {
-            "Entstehungsjahr": "1831-1837",
-            "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
-            "Signatur": "281",
-            "Link": ""
-          }
+            "index": "Vorlesungen und Vorlesungsmitschriften",
+            "documents": [
+                {
+                    "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozeß, Vorlesungsmitschrift von J. Kronauer, Zürich, 1834",
+                    "docId": 678128,
+                    "metadata": {
+                        "Entstehungsjahr": "1834",
+                        "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
+                        "Signatur": "279",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Auszüge aus den Vorlesungen über die im Canton Zürich geltenden Erbrechte, Vorlesungsmitschrift, Zürich, 1831-1837",
+                    "docId": 678129,
+                    "metadata": {
+                        "Entstehungsjahr": "1831-1837",
+                        "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
+                        "Signatur": "281",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozess, Vorlesungsmitschrift von Carl Schuler, Zürich",
+                    "docId": 678127,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
+                        "Signatur": "280",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Friedberg, Emil (Hrsg.), Pandekten, Vorlesungen von D. Friedr. Ludwig von Keller, aus dem Nachlasse des Verfassers herausgegeben, Leipzig 1861",
+                    "docId": 662513,
+                    "metadata": {
+                        "Entstehungsjahr": "1861",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 184 pu",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565643-5"
+                    }
+                }
+            ]
         },
         {
-          "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozess, Vorlesungsmitschrift von Carl Schuler, Zürich",
-          "docId": 678127,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
-            "Signatur": "280",
-            "Link": ""
-          }
+            "index": "Briefe von Keller",
+            "documents": [
+                {
+                    "title": "Briefe an Johann Caspar Bluntschli, 1828-1848",
+                    "docId": 663793,
+                    "metadata": {
+                        "Entstehungsjahr": "1828-1848",
+                        "Institution": "Zentralbibliothek Zürich",
+                        "Signatur": "FA Bluntschli 7.447",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brief an Johann Jakob Bachofen, Zürich, 29.5.1840",
+                    "docId": 662891,
+                    "metadata": {
+                        "Entstehungsjahr": "1840",
+                        "Institution": "Universitätsbibliothek Basel",
+                        "Signatur": "NL 3 : 272,141",
+                        "Link": "https://doi.org/10.7891/e-manuscripta-77468"
+                    }
+                },
+                {
+                    "title": "Brief an Johann Jakob Bachofen, Zürich, 6.1.1844",
+                    "docId": 662892,
+                    "metadata": {
+                        "Entstehungsjahr": "1844",
+                        "Institution": "Universitätsbibliothek Basel",
+                        "Signatur": "NL 3 : 272,142",
+                        "Link": "https://doi.org/10.7891/e-manuscripta-77517"
+                    }
+                },
+                {
+                    "title": "Briefe an Friedrich Carl von Savigny, 1822-1852",
+                    "docId": 662947,
+                    "metadata": {
+                        "Entstehungsjahr": "1822-1852",
+                        "Institution": "Universitätsbibliothek Marburg",
+                        "Signatur": "Ms 925/1251-1283",
+                        "Link": "https://archiv.ub.uni-marburg.de/eb/2002/0925/1251/"
+                    }
+                }
+            ]
         },
         {
-          "title": "Friedberg, Emil (Hrsg.), Pandekten, Vorlesungen von D. Friedr. Ludwig von Keller, aus dem Nachlasse des Verfassers herausgegeben, Leipzig 1861",
-          "docId": 662513,
-          "metadata": {
-            "Entstehungsjahr": "1861",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 184 pu",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565643-5"
-          }
+            "index": "Veröffentlichungen",
+            "documents": [
+                {
+                    "title": "Keller, Friedrich Ludwig, Ueber Litis Contestation und Urtheil nach classischem Römischem Recht, Zürich 1827",
+                    "docId": 662508,
+                    "metadata": {
+                        "Entstehungsjahr": "1827",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.pract. 130 t",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10554270-5"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Die neuen Theorien in der Zürcherischen Rechtspflege, Zürich 1828",
+                    "docId": 662507,
+                    "metadata": {
+                        "Entstehungsjahr": "1828",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rel. 1276",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564438-1"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Die gewaltsame Brandstiftung von Uster am 22. November 1832, Nach den Criminal-Acten bearbeitet, Nebst einem lithographischen Pland der Brandstätte, Zürich 1833",
+                    "docId": 662499,
+                    "metadata": {
+                        "Entstehungsjahr": "1833",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Helv. 429",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453726-6"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Die Baseler Theilungssache, Nach den Acten dargestellt, Aarau 1834",
+                    "docId": 662515,
+                    "metadata": {
+                        "Entstehungsjahr": "1834",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Helv. 717",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10454475-7"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Volumen I, Turici 1842",
+                    "docId": 662501,
+                    "metadata": {
+                        "Entstehungsjahr": "1842",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "A.lat.b. 683 h-1,1",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245051-5"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Liber Alter, Turici 1843",
+                    "docId": 662502,
+                    "metadata": {
+                        "Entstehungsjahr": "1842",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "A.lat.b. 683 h-1,2",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245052-0"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Liber III, Turici 1851",
+                    "docId": 662516,
+                    "metadata": {
+                        "Entstehungsjahr": "1851",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "A.lat.b. 683 h-1,3",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245053-6"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Leipzig 1852",
+                    "docId": 662504,
+                    "metadata": {
+                        "Entstehungsjahr": "1852",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.m. 272 m",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566797-9"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Zweite Ausgabe, Leipzig 1855",
+                    "docId": 662503,
+                    "metadata": {
+                        "Entstehungsjahr": "1855",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.m. 272 n",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566798-4"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Wach, Adolf, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Fünfte Ausgabe, Leipzig 1876",
+                    "docId": 662500,
+                    "metadata": {
+                        "Entstehungsjahr": "1876",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.m. 272 nb",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11334431-5"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Grundriss zu Vorlesungen über Institutionen und Antiquitäten des Römischen Rechtes, Mit einzelnen Ausführungen, Berlin, 1854-58",
+                    "docId": 662512,
+                    "metadata": {
+                        "Entstehungsjahr": "1854",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 184 pt",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565642-0"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig (Hrsg.), Ueber die Preußischen Schwurgerichte und deren Reform, Ein Votum des Herrn D. A. W. Goetze, Vice-Präsidenten des Königlichen Obertribunals, mit einigen Zusätzen, Berlin 1851",
+                    "docId": 662506,
+                    "metadata": {
+                        "Entstehungsjahr": "1851",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Crim. 111",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10394397-3"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Institutionen, Grundriss und Ausführungen, Leipzig 1861",
+                    "docId": 662511,
+                    "metadata": {
+                        "Entstehungsjahr": "1861",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 184 px",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565644-1"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Erster Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1866",
+                    "docId": 662510,
+                    "metadata": {
+                        "Entstehungsjahr": "1866",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 400 f-1",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566138-6"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Zweiter Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1867",
+                    "docId": 662509,
+                    "metadata": {
+                        "Entstehungsjahr": "1867",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 400 f-2",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566139-6"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Briefe von Keller",
-      "documents": [
+    ],
+    "crowdDirectory": [
         {
-          "title": "Briefe an Johann Caspar Bluntschli, 1828-1848",
-          "docId": 663793,
-          "metadata": {
-            "Entstehungsjahr": "1828-1848",
-            "Institution": "Zentralbibliothek Zürich",
-            "Signatur": "FA Bluntschli 7.447",
-            "Link": ""
-          }
+            "index": "Manuskripte",
+            "documents": [
+                {
+                    "title": "Keller, Friedrich Ludwig von, Die Baseler Theilungssache, Manuscript zu vertraulicher Mittheilung",
+                    "docId": 662514,
+                    "metadata": {
+                        "Entstehungsjahr": "1830",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "4 Helv. 210",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10986294-7"
+                    }
+                }
+            ]
         },
         {
-          "title": "Brief an Johann Jakob Bachofen, Zürich, 29.5.1840",
-          "docId": 662891,
-          "metadata": {
-            "Entstehungsjahr": "1840",
-            "Institution": "Universitätsbibliothek Basel",
-            "Signatur": "NL 3 : 272,141",
-            "Link": "https://doi.org/10.7891/e-manuscripta-77468"
-          }
+            "index": "Vorlesungen und Vorlesungsmitschriften",
+            "documents": [
+                {
+                    "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozeß, Vorlesungsmitschrift von J. Kronauer, Zürich, 1834",
+                    "docId": 678128,
+                    "metadata": {
+                        "Entstehungsjahr": "1834",
+                        "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
+                        "Signatur": "279",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Auszüge aus den Vorlesungen über die im Canton Zürich geltenden Erbrechte, Vorlesungsmitschrift, Zürich, 1831-1837",
+                    "docId": 678129,
+                    "metadata": {
+                        "Entstehungsjahr": "1831-1837",
+                        "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
+                        "Signatur": "281",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozess, Vorlesungsmitschrift von Carl Schuler, Zürich",
+                    "docId": 678127,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
+                        "Signatur": "280",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Friedberg, Emil (Hrsg.), Pandekten, Vorlesungen von D. Friedr. Ludwig von Keller, aus dem Nachlasse des Verfassers herausgegeben, Leipzig 1861",
+                    "docId": 662513,
+                    "metadata": {
+                        "Entstehungsjahr": "1861",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 184 pu",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565643-5"
+                    }
+                }
+            ]
         },
         {
-          "title": "Brief an Johann Jakob Bachofen, Zürich, 6.1.1844",
-          "docId": 662892,
-          "metadata": {
-            "Entstehungsjahr": "1844",
-            "Institution": "Universitätsbibliothek Basel",
-            "Signatur": "NL 3 : 272,142",
-            "Link": "https://doi.org/10.7891/e-manuscripta-77517"
-          }
+            "index": "Briefe von Keller",
+            "documents": [
+                {
+                    "title": "Briefe an Johann Caspar Bluntschli, 1828-1848",
+                    "docId": 663793,
+                    "metadata": {
+                        "Entstehungsjahr": "1828-1848",
+                        "Institution": "Zentralbibliothek Zürich",
+                        "Signatur": "FA Bluntschli 7.447",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brief an Johann Jakob Bachofen, Zürich, 29.5.1840",
+                    "docId": 662891,
+                    "metadata": {
+                        "Entstehungsjahr": "1840",
+                        "Institution": "Universitätsbibliothek Basel",
+                        "Signatur": "NL 3 : 272,141",
+                        "Link": "https://doi.org/10.7891/e-manuscripta-77468"
+                    }
+                },
+                {
+                    "title": "Brief an Johann Jakob Bachofen, Zürich, 6.1.1844",
+                    "docId": 662892,
+                    "metadata": {
+                        "Entstehungsjahr": "1844",
+                        "Institution": "Universitätsbibliothek Basel",
+                        "Signatur": "NL 3 : 272,142",
+                        "Link": "https://doi.org/10.7891/e-manuscripta-77517"
+                    }
+                },
+                {
+                    "title": "Briefe an Friedrich Carl von Savigny, 1822-1852",
+                    "docId": 662947,
+                    "metadata": {
+                        "Entstehungsjahr": "1822-1852",
+                        "Institution": "Universitätsbibliothek Marburg",
+                        "Signatur": "Ms 925/1251-1283",
+                        "Link": "https://archiv.ub.uni-marburg.de/eb/2002/0925/1251/"
+                    }
+                }
+            ]
         },
         {
-          "title": "Briefe an Friedrich Carl von Savigny, 1822-1852",
-          "docId": 662947,
-          "metadata": {
-            "Entstehungsjahr": "1822-1852",
-            "Institution": "Universitätsbibliothek Marburg",
-            "Signatur": "Ms 925/1251-1283",
-            "Link": "https://archiv.ub.uni-marburg.de/eb/2002/0925/1251/"
-          }
+            "index": "Veröffentlichungen",
+            "documents": [
+                {
+                    "title": "Keller, Friedrich Ludwig, Ueber Litis Contestation und Urtheil nach classischem Römischem Recht, Zürich 1827",
+                    "docId": 662508,
+                    "metadata": {
+                        "Entstehungsjahr": "1827",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.pract. 130 t",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10554270-5"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Die neuen Theorien in der Zürcherischen Rechtspflege, Zürich 1828",
+                    "docId": 662507,
+                    "metadata": {
+                        "Entstehungsjahr": "1828",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rel. 1276",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564438-1"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Die gewaltsame Brandstiftung von Uster am 22. November 1832, Nach den Criminal-Acten bearbeitet, Nebst einem lithographischen Pland der Brandstätte, Zürich 1833",
+                    "docId": 662499,
+                    "metadata": {
+                        "Entstehungsjahr": "1833",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Helv. 429",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453726-6"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Die Baseler Theilungssache, Nach den Acten dargestellt, Aarau 1834",
+                    "docId": 662515,
+                    "metadata": {
+                        "Entstehungsjahr": "1834",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Helv. 717",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10454475-7"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Volumen I, Turici 1842",
+                    "docId": 662501,
+                    "metadata": {
+                        "Entstehungsjahr": "1842",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "A.lat.b. 683 h-1,1",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245051-5"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Liber Alter, Turici 1843",
+                    "docId": 662502,
+                    "metadata": {
+                        "Entstehungsjahr": "1842",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "A.lat.b. 683 h-1,2",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245052-0"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Liber III, Turici 1851",
+                    "docId": 662516,
+                    "metadata": {
+                        "Entstehungsjahr": "1851",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "A.lat.b. 683 h-1,3",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245053-6"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Leipzig 1852",
+                    "docId": 662504,
+                    "metadata": {
+                        "Entstehungsjahr": "1852",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.m. 272 m",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566797-9"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Zweite Ausgabe, Leipzig 1855",
+                    "docId": 662503,
+                    "metadata": {
+                        "Entstehungsjahr": "1855",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.m. 272 n",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566798-4"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Wach, Adolf, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Fünfte Ausgabe, Leipzig 1876",
+                    "docId": 662500,
+                    "metadata": {
+                        "Entstehungsjahr": "1876",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.m. 272 nb",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11334431-5"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Grundriss zu Vorlesungen über Institutionen und Antiquitäten des Römischen Rechtes, Mit einzelnen Ausführungen, Berlin, 1854-58",
+                    "docId": 662512,
+                    "metadata": {
+                        "Entstehungsjahr": "1854",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 184 pt",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565642-0"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig (Hrsg.), Ueber die Preußischen Schwurgerichte und deren Reform, Ein Votum des Herrn D. A. W. Goetze, Vice-Präsidenten des Königlichen Obertribunals, mit einigen Zusätzen, Berlin 1851",
+                    "docId": 662506,
+                    "metadata": {
+                        "Entstehungsjahr": "1851",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Crim. 111",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10394397-3"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Institutionen, Grundriss und Ausführungen, Leipzig 1861",
+                    "docId": 662511,
+                    "metadata": {
+                        "Entstehungsjahr": "1861",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 184 px",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565644-1"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Erster Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1866",
+                    "docId": 662510,
+                    "metadata": {
+                        "Entstehungsjahr": "1866",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 400 f-1",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566138-6"
+                    }
+                },
+                {
+                    "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Zweiter Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1867",
+                    "docId": 662509,
+                    "metadata": {
+                        "Entstehungsjahr": "1867",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rom.c. 400 f-2",
+                        "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566139-6"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Veröffentlichungen",
-      "documents": [
-        {
-          "title": "Keller, Friedrich Ludwig, Ueber Litis Contestation und Urtheil nach classischem Römischem Recht, Zürich 1827",
-          "docId": 662508,
-          "metadata": {
-            "Entstehungsjahr": "1827",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.pract. 130 t",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10554270-5"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Die neuen Theorien in der Zürcherischen Rechtspflege, Zürich 1828",
-          "docId": 662507,
-          "metadata": {
-            "Entstehungsjahr": "1828",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rel. 1276",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564438-1"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Die gewaltsame Brandstiftung von Uster am 22. November 1832, Nach den Criminal-Acten bearbeitet, Nebst einem lithographischen Pland der Brandstätte, Zürich 1833",
-          "docId": 662499,
-          "metadata": {
-            "Entstehungsjahr": "1833",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Helv. 429",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453726-6"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Die Baseler Theilungssache, Nach den Acten dargestellt, Aarau 1834",
-          "docId": 662515,
-          "metadata": {
-            "Entstehungsjahr": "1834",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Helv. 717",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10454475-7"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Volumen I, Turici 1842",
-          "docId": 662501,
-          "metadata": {
-            "Entstehungsjahr": "1842",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "A.lat.b. 683 h-1,1",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245051-5"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Liber Alter, Turici 1843",
-          "docId": 662502,
-          "metadata": {
-            "Entstehungsjahr": "1842",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "A.lat.b. 683 h-1,2",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245052-0"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Liber III, Turici 1851",
-          "docId": 662516,
-          "metadata": {
-            "Entstehungsjahr": "1851",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "A.lat.b. 683 h-1,3",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245053-6"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Leipzig 1852",
-          "docId": 662504,
-          "metadata": {
-            "Entstehungsjahr": "1852",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.m. 272 m",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566797-9"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Zweite Ausgabe, Leipzig 1855",
-          "docId": 662503,
-          "metadata": {
-            "Entstehungsjahr": "1855",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.m. 272 n",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566798-4"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Wach, Adolf, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Fünfte Ausgabe, Leipzig 1876",
-          "docId": 662500,
-          "metadata": {
-            "Entstehungsjahr": "1876",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.m. 272 nb",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11334431-5"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Grundriss zu Vorlesungen über Institutionen und Antiquitäten des Römischen Rechtes, Mit einzelnen Ausführungen, Berlin, 1854-58",
-          "docId": 662512,
-          "metadata": {
-            "Entstehungsjahr": "1854",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 184 pt",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565642-0"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig (Hrsg.), Ueber die Preußischen Schwurgerichte und deren Reform, Ein Votum des Herrn D. A. W. Goetze, Vice-Präsidenten des Königlichen Obertribunals, mit einigen Zusätzen, Berlin 1851",
-          "docId": 662506,
-          "metadata": {
-            "Entstehungsjahr": "1851",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Crim. 111",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10394397-3"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Institutionen, Grundriss und Ausführungen, Leipzig 1861",
-          "docId": 662511,
-          "metadata": {
-            "Entstehungsjahr": "1861",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 184 px",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565644-1"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Erster Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1866",
-          "docId": 662510,
-          "metadata": {
-            "Entstehungsjahr": "1866",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 400 f-1",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566138-6"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Zweiter Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1867",
-          "docId": 662509,
-          "metadata": {
-            "Entstehungsjahr": "1867",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 400 f-2",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566139-6"
-          }
-        }
-      ]
-    }
-  ],
-  "crowdDirectory": [
-    {
-      "index": "Manuskripte",
-      "documents": [
-        {
-          "title": "Keller, Friedrich Ludwig von, Die Baseler Theilungssache, Manuscript zu vertraulicher Mittheilung",
-          "docId": 662514,
-          "metadata": {
-            "Entstehungsjahr": "1830",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "4 Helv. 210",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10986294-7"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Vorlesungen und Vorlesungsmitschriften",
-      "documents": [
-        {
-          "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozeß, Vorlesungsmitschrift von J. Kronauer, Zürich, 1834",
-          "docId": 678128,
-          "metadata": {
-            "Entstehungsjahr": "1834",
-            "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
-            "Signatur": "279",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Auszüge aus den Vorlesungen über die im Canton Zürich geltenden Erbrechte, Vorlesungsmitschrift, Zürich, 1831-1837",
-          "docId": 678129,
-          "metadata": {
-            "Entstehungsjahr": "1831-1837",
-            "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
-            "Signatur": "281",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Zürcherischer Civilprozess, Vorlesungsmitschrift von Carl Schuler, Zürich",
-          "docId": 678127,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Universität Zürich, Rechtswissenchaftliche Fakultät, Zentrum für rechtsgeschichtliche Forschung, Alte Juristische Biblitothek",
-            "Signatur": "280",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Friedberg, Emil (Hrsg.), Pandekten, Vorlesungen von D. Friedr. Ludwig von Keller, aus dem Nachlasse des Verfassers herausgegeben, Leipzig 1861",
-          "docId": 662513,
-          "metadata": {
-            "Entstehungsjahr": "1861",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 184 pu",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565643-5"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Briefe von Keller",
-      "documents": [
-        {
-          "title": "Briefe an Johann Caspar Bluntschli, 1828-1848",
-          "docId": 663793,
-          "metadata": {
-            "Entstehungsjahr": "1828-1848",
-            "Institution": "Zentralbibliothek Zürich",
-            "Signatur": "FA Bluntschli 7.447",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brief an Johann Jakob Bachofen, Zürich, 29.5.1840",
-          "docId": 662891,
-          "metadata": {
-            "Entstehungsjahr": "1840",
-            "Institution": "Universitätsbibliothek Basel",
-            "Signatur": "NL 3 : 272,141",
-            "Link": "https://doi.org/10.7891/e-manuscripta-77468"
-          }
-        },
-        {
-          "title": "Brief an Johann Jakob Bachofen, Zürich, 6.1.1844",
-          "docId": 662892,
-          "metadata": {
-            "Entstehungsjahr": "1844",
-            "Institution": "Universitätsbibliothek Basel",
-            "Signatur": "NL 3 : 272,142",
-            "Link": "https://doi.org/10.7891/e-manuscripta-77517"
-          }
-        },
-        {
-          "title": "Briefe an Friedrich Carl von Savigny, 1822-1852",
-          "docId": 662947,
-          "metadata": {
-            "Entstehungsjahr": "1822-1852",
-            "Institution": "Universitätsbibliothek Marburg",
-            "Signatur": "Ms 925/1251-1283",
-            "Link": "https://archiv.ub.uni-marburg.de/eb/2002/0925/1251/"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Veröffentlichungen",
-      "documents": [
-        {
-          "title": "Keller, Friedrich Ludwig, Ueber Litis Contestation und Urtheil nach classischem Römischem Recht, Zürich 1827",
-          "docId": 662508,
-          "metadata": {
-            "Entstehungsjahr": "1827",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.pract. 130 t",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10554270-5"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Die neuen Theorien in der Zürcherischen Rechtspflege, Zürich 1828",
-          "docId": 662507,
-          "metadata": {
-            "Entstehungsjahr": "1828",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rel. 1276",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564438-1"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Die gewaltsame Brandstiftung von Uster am 22. November 1832, Nach den Criminal-Acten bearbeitet, Nebst einem lithographischen Pland der Brandstätte, Zürich 1833",
-          "docId": 662499,
-          "metadata": {
-            "Entstehungsjahr": "1833",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Helv. 429",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453726-6"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Die Baseler Theilungssache, Nach den Acten dargestellt, Aarau 1834",
-          "docId": 662515,
-          "metadata": {
-            "Entstehungsjahr": "1834",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Helv. 717",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10454475-7"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Volumen I, Turici 1842",
-          "docId": 662501,
-          "metadata": {
-            "Entstehungsjahr": "1842",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "A.lat.b. 683 h-1,1",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245051-5"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Liber Alter, Turici 1843",
-          "docId": 662502,
-          "metadata": {
-            "Entstehungsjahr": "1842",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "A.lat.b. 683 h-1,2",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245052-0"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig, Semestrium ad M. Tullium Ciceronem, Libri Sex, Liber III, Turici 1851",
-          "docId": 662516,
-          "metadata": {
-            "Entstehungsjahr": "1851",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "A.lat.b. 683 h-1,3",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10245053-6"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Leipzig 1852",
-          "docId": 662504,
-          "metadata": {
-            "Entstehungsjahr": "1852",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.m. 272 m",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566797-9"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Zweite Ausgabe, Leipzig 1855",
-          "docId": 662503,
-          "metadata": {
-            "Entstehungsjahr": "1855",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.m. 272 n",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566798-4"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Wach, Adolf, Der Römische Civilprocess und die Actionen in summarischer Darstellung, Zum Gebrauche bei Vorlesungen, Fünfte Ausgabe, Leipzig 1876",
-          "docId": 662500,
-          "metadata": {
-            "Entstehungsjahr": "1876",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.m. 272 nb",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11334431-5"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Grundriss zu Vorlesungen über Institutionen und Antiquitäten des Römischen Rechtes, Mit einzelnen Ausführungen, Berlin, 1854-58",
-          "docId": 662512,
-          "metadata": {
-            "Entstehungsjahr": "1854",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 184 pt",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565642-0"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig (Hrsg.), Ueber die Preußischen Schwurgerichte und deren Reform, Ein Votum des Herrn D. A. W. Goetze, Vice-Präsidenten des Königlichen Obertribunals, mit einigen Zusätzen, Berlin 1851",
-          "docId": 662506,
-          "metadata": {
-            "Entstehungsjahr": "1851",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Crim. 111",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10394397-3"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Institutionen, Grundriss und Ausführungen, Leipzig 1861",
-          "docId": 662511,
-          "metadata": {
-            "Entstehungsjahr": "1861",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 184 px",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10565644-1"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Erster Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1866",
-          "docId": 662510,
-          "metadata": {
-            "Entstehungsjahr": "1866",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 400 f-1",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566138-6"
-          }
-        },
-        {
-          "title": "Keller, Friedrich Ludwig von, Lewis, William, Pandekten, Vorlesungen von Friedrich Ludwig von Keller, Zweiter Band, Aus dem Nachlasse des Verfassers, Zweite Auflage, Leipzig 1867",
-          "docId": 662509,
-          "metadata": {
-            "Entstehungsjahr": "1867",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rom.c. 400 f-2",
-            "Link": "https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10566139-6"
-          }
-        }
-      ]
-    }
-  ]
+    ]
 }

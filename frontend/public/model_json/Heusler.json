@@ -1,1994 +1,1994 @@
 {
-  "id": "Heusler",
-  "name": "Andreas Heusler",
-  "col_id": 77749,
-  "crowd_id": 69009,
-  "editionName": "EditionHeusler",
-  "editionLink": "heusler",
-  "background": "heusler.png",
-  "logo": "andreasheusler.png",
-  "portrait": "heusler.svg",
-  "timelineThumbnail": "heusler.png",
-  "colors": {
-    "primaryColor": "184, 153, 90",
-    "primaryColorLight": "200, 176, 128",
-    "primaryColorDark": "10, 10, 10",
-    "secondaryColor": "208, 188, 147"
-  },
-  "footerLogos": [
-    {
-      "link": "https://www.uzh.ch/",
-      "src": "logo-uzh.svg",
-      "alt": "Universität Zürich"
+    "id": "Heusler",
+    "name": "Andreas Heusler",
+    "col_id": 77749,
+    "crowd_id": 69009,
+    "editionName": "EditionHeusler",
+    "editionLink": "heusler",
+    "background": "heusler.png",
+    "logo": "andreasheusler.png",
+    "portrait": "heusler.svg",
+    "timelineThumbnail": "heusler.png",
+    "colors": {
+        "primaryColor": "184, 153, 90",
+        "primaryColorLight": "200, 176, 128",
+        "primaryColorDark": "10, 10, 10",
+        "secondaryColor": "208, 188, 147"
     },
-    {
-      "link": "https://readcoop.eu/readsearch/",
-      "src": "logo-readcoop.svg",
-      "alt": "Read COOP"
-    }
-  ],
-  "staticDirectory": [
-    {
-      "index": "Manuskripte und Exerpte",
-      "documents": [
+    "footerLogos": [
         {
-          "title": "Heusler, Andreas, Recht und Moral",
-          "docId": 763396,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.1",
-            "Link": ""
-          }
+            "link": "https://www.uzh.ch/",
+            "src": "logo-uzh.svg",
+            "alt": "Universität Zürich"
         },
         {
-          "title": "Heusler, Andreas, Stellung des Richters zum geschriebenen Gesetz",
-          "docId": 763393,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.2",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Experte",
-          "docId": 763399,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.6",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Angebot des deutsch-rechtlichen Ordinariats in Tübingen und Antwortenentwurf, 1873",
-          "docId": 763406,
-          "metadata": {
-            "Entstehungsjahr": "1873",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.4",
-            "Link": ""
-          }
+            "link": "https://readcoop.eu/readsearch/",
+            "src": "logo-readcoop.svg",
+            "alt": "Read COOP"
         }
-      ]
-    },
-    {
-      "index": "Briefe an Andreas Heusler",
-      "documents": [
-        {
-          "title": "Arnold, Wilhelm, 1863-1883",
-          "docId": 763485,
-          "metadata": {
-            "Entstehungsjahr": "1863-1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 1",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Behrend, 1886",
-          "docId": 763483,
-          "metadata": {
-            "Entstehungsjahr": "1886",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 4",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Bernatzik, Edmund, 1891",
-          "docId": 763482,
-          "metadata": {
-            "Entstehungsjahr": "1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 5",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Beseler, Georg, 1880",
-          "docId": 763481,
-          "metadata": {
-            "Entstehungsjahr": "1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 6",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Binding, G., 1875",
-          "docId": 763480,
-          "metadata": {
-            "Entstehungsjahr": "1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 7",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Binding, Karl, 1868-1891",
-          "docId": 763479,
-          "metadata": {
-            "Entstehungsjahr": "1868-1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 8",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Böhmer, Johann, 1860",
-          "docId": 763478,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 9",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Boretius, Alfred Erwin, 1871",
-          "docId": 763477,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 10",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brinz, Alois von, 1884",
-          "docId": 763476,
-          "metadata": {
-            "Entstehungsjahr": "1884",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 73",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brockhaus, Friedrich, 1871",
-          "docId": 763475,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 11",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brunnenmeister, Emil, 1877-1888",
-          "docId": 763474,
-          "metadata": {
-            "Entstehungsjahr": "1877-1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 12",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brunner, Heinrich, 1871-1880",
-          "docId": 763473,
-          "metadata": {
-            "Entstehungsjahr": "1871-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 13",
-            "Link": ""
-          }
-        },
-        {
-          "title": "",
-          "docId": 7634,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 31",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Bülow, Oskar, 1878-1880",
-          "docId": 763472,
-          "metadata": {
-            "Entstehungsjahr": "1878-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 14",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Bunge, Gustav von, 1890",
-          "docId": 763471,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 15",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt, Carl Christoph, 1890",
-          "docId": 763470,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 17",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt, Jacob, 1888",
-          "docId": 763469,
-          "metadata": {
-            "Entstehungsjahr": "1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 31",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt-Bischoff, Adolf, 1884-1886",
-          "docId": 763468,
-          "metadata": {
-            "Entstehungsjahr": "1884-1886",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 16",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt-Von der Mühll, Carl Felix, 1883",
-          "docId": 763467,
-          "metadata": {
-            "Entstehungsjahr": "1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 18",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Degenkolb, Heinrich, 1878-1891",
-          "docId": 763466,
-          "metadata": {
-            "Entstehungsjahr": "1878-1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 20",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Eisele, Fridolin, 1873-1890",
-          "docId": 763465,
-          "metadata": {
-            "Entstehungsjahr": "1873-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 21",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Eucken, Rudolph Christoph, 1875",
-          "docId": 763464,
-          "metadata": {
-            "Entstehungsjahr": "1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 22",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Friedberg, Emil, 1873",
-          "docId": 763463,
-          "metadata": {
-            "Entstehungsjahr": "1873",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 23",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Friedländer, Julius, 1854-1880",
-          "docId": 763462,
-          "metadata": {
-            "Entstehungsjahr": "1854-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 24",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Gelzer, Johann Heinrich und Gelzer-Thurneysen, Heinrich, 1868-1880",
-          "docId": 763461,
-          "metadata": {
-            "Entstehungsjahr": "1868-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 25",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Gengler, Heinrich Gottfried, 1871",
-          "docId": 763460,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 26g",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Goltz, Alexander von der, 1875",
-          "docId": 763459,
-          "metadata": {
-            "Entstehungsjahr": "1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 27",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Hagenbach-Bischoff, Eduard, 1891",
-          "docId": 763458,
-          "metadata": {
-            "Entstehungsjahr": "1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 28",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Harnack, Adolf von, 1920",
-          "docId": 763457,
-          "metadata": {
-            "Entstehungsjahr": "1920",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 28a",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Hartmann, Gustav, 1870-1890",
-          "docId": 763456,
-          "metadata": {
-            "Entstehungsjahr": "1870-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 29",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Hilty, Carl, 1875-1881",
-          "docId": 763455,
-          "metadata": {
-            "Entstehungsjahr": "1875-1881",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 30",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Huber, Eugen, 1880-1912",
-          "docId": 763454,
-          "metadata": {
-            "Entstehungsjahr": "1880-1912",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 31",
-            "Link": ""
-          }
-        },
-        {
-          "title": "König, 1883",
-          "docId": 763453,
-          "metadata": {
-            "Entstehungsjahr": "1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 32",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Kraut, Wilhelm Theodor, 1860",
-          "docId": 763452,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 33",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Liebermeister, C., 1872-1874",
-          "docId": 763451,
-          "metadata": {
-            "Entstehungsjahr": "1872-1874",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 34",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Loersch, Hugo, 1886",
-          "docId": 763450,
-          "metadata": {
-            "Entstehungsjahr": "1886",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 35",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Martitz, Ferdinand von, 1874",
-          "docId": 763449,
-          "metadata": {
-            "Entstehungsjahr": "1874",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 36",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Morel, Josef, 1880",
-          "docId": 763448,
-          "metadata": {
-            "Entstehungsjahr": "1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 37",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Muther, Theodor, 1867-1869",
-          "docId": 763447,
-          "metadata": {
-            "Entstehungsjahr": "1867-1869",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 2",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Overbeck, Franz, 1877-1881",
-          "docId": 763446,
-          "metadata": {
-            "Entstehungsjahr": "1877-1881",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 38",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Rütimeyer, Karl Ludwig, 1883-1891",
-          "docId": 763445,
-          "metadata": {
-            "Entstehungsjahr": "1883-1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 39",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Salis, Ludwig Rudolf von, 1884-1891, 1927",
-          "docId": 763444,
-          "metadata": {
-            "Entstehungsjahr": "1884-1891, 1927",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 40",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schnell, Johannes, 1868-1889",
-          "docId": 763443,
-          "metadata": {
-            "Entstehungsjahr": "1868-1889",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 41",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schönberg, Gustav, 1877-1884",
-          "docId": 763442,
-          "metadata": {
-            "Entstehungsjahr": "1877-1884",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 42",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schröder, Richard, 1886-1890",
-          "docId": 763443,
-          "metadata": {
-            "Entstehungsjahr": "1886-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 43",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schulin, Friedrich, 1877-1881",
-          "docId": 763440,
-          "metadata": {
-            "Entstehungsjahr": "1877-1881",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 44",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schulte, Aloys, 1882",
-          "docId": 763439,
-          "metadata": {
-            "Entstehungsjahr": "1882",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 45",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schultz, Hermann, 1889",
-          "docId": 763436,
-          "metadata": {
-            "Entstehungsjahr": "1889",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 46",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Siegel, Heinrich, 1873",
-          "docId": 763435,
-          "metadata": {
-            "Entstehungsjahr": "1873",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 47",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Simson, Dr., 1889",
-          "docId": 763434,
-          "metadata": {
-            "Entstehungsjahr": "1889",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 48",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Smend, Rudolf, 1890",
-          "docId": 763433,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 49",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Socin, August, 1888",
-          "docId": 763430,
-          "metadata": {
-            "Entstehungsjahr": "1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 50",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Sohm, Rudolf, 1874-1890",
-          "docId": 763429,
-          "metadata": {
-            "Entstehungsjahr": "1874-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 51",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Speiser, William, 1879",
-          "docId": 763428,
-          "metadata": {
-            "Entstehungsjahr": "1879",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 53",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Speiser-Sarasin, Paul, 1871-1877",
-          "docId": 763427,
-          "metadata": {
-            "Entstehungsjahr": "1871-1877",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 52",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stintzing, Roderich von, 1877-1880",
-          "docId": 763426,
-          "metadata": {
-            "Entstehungsjahr": "1877-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 54",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stobbe, Johann Ernst Otto, 1883",
-          "docId": 763425,
-          "metadata": {
-            "Entstehungsjahr": "1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 55",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stückelberg, Ernst, 1880-1882",
-          "docId": 763456,
-          "metadata": {
-            "Entstehungsjahr": "1880-1882",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 56",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stutz, Ulrich, 1920",
-          "docId": 763423,
-          "metadata": {
-            "Entstehungsjahr": "1920",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 56a",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Thudichum, Friedrich, 1890",
-          "docId": 763422,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 57",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Thurneysen-Gemuseus, Eduard, 1871",
-          "docId": 763421,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 58",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Unger, Josef, 1885",
-          "docId": 763420,
-          "metadata": {
-            "Entstehungsjahr": "1885",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 59",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Vetter, Ferdinand, 1891",
-          "docId": 763419,
-          "metadata": {
-            "Entstehungsjahr": "1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 60",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Vischer-Heussler, Wilhelm, 1879",
-          "docId": 763418,
-          "metadata": {
-            "Entstehungsjahr": "1879",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 61",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Vulliemin, Louis, 1877",
-          "docId": 763417,
-          "metadata": {
-            "Entstehungsjahr": "1877",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 62",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wach, Adolf, 1879-1917",
-          "docId": 763416,
-          "metadata": {
-            "Entstehungsjahr": "1879-1917",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 63",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wackernagel, Johann Gottfried, 1865",
-          "docId": 763415,
-          "metadata": {
-            "Entstehungsjahr": "1865",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 64",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wackernagel-Burckhardt, Rudolf, 1880-1888",
-          "docId": 763414,
-          "metadata": {
-            "Entstehungsjahr": "1880-1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 55",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wagner, Rudolf, 1882-1885",
-          "docId": 763413,
-          "metadata": {
-            "Entstehungsjahr": "1882-1885",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 66",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wasserleben, Ludwig Wilhelm Hermann, 1869-1875",
-          "docId": 7634,
-          "metadata": {
-            "Entstehungsjahr": "1869-1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 67",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Windscheid, Bernhard, 1880-1888",
-          "docId": 763411,
-          "metadata": {
-            "Entstehungsjahr": "1880-1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 68",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wyss, Friedrich von, 1865-1890",
-          "docId": 763410,
-          "metadata": {
-            "Entstehungsjahr": "1865-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 69",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wyss, Georg von, 1877-1885",
-          "docId": 763409,
-          "metadata": {
-            "Entstehungsjahr": "1877-1885",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 71",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wyss, Paul Friedrich von, 1875-1880",
-          "docId": 763408,
-          "metadata": {
-            "Entstehungsjahr": "1875-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 70",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Zallinger, O., 1890",
-          "docId": 763407,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 72",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Briefe und Äusserungen über die \"Institutionen des Deutschen Privatrechts I\" und über die \"Gewere\"",
-          "docId": 763404,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 74, 1-21",
-            "Link": ""
-          }
+    ],
+    "staticDirectory": [
+        {
+            "index": "Manuskripte und Exerpte",
+            "documents": [
+                {
+                    "title": "Heusler, Andreas, Recht und Moral",
+                    "docId": 763396,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.1",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Stellung des Richters zum geschriebenen Gesetz",
+                    "docId": 763393,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.2",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Experte",
+                    "docId": 763399,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.6",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Angebot des deutsch-rechtlichen Ordinariats in Tübingen und Antwortenentwurf, 1873",
+                    "docId": 763406,
+                    "metadata": {
+                        "Entstehungsjahr": "1873",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.4",
+                        "Link": ""
+                    }
+                }
+            ]
+        },
+        {
+            "index": "Briefe an Andreas Heusler",
+            "documents": [
+                {
+                    "title": "Arnold, Wilhelm, 1863-1883",
+                    "docId": 763485,
+                    "metadata": {
+                        "Entstehungsjahr": "1863-1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 1",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Behrend, 1886",
+                    "docId": 763483,
+                    "metadata": {
+                        "Entstehungsjahr": "1886",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 4",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Bernatzik, Edmund, 1891",
+                    "docId": 763482,
+                    "metadata": {
+                        "Entstehungsjahr": "1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 5",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Beseler, Georg, 1880",
+                    "docId": 763481,
+                    "metadata": {
+                        "Entstehungsjahr": "1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 6",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Binding, G., 1875",
+                    "docId": 763480,
+                    "metadata": {
+                        "Entstehungsjahr": "1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 7",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Binding, Karl, 1868-1891",
+                    "docId": 763479,
+                    "metadata": {
+                        "Entstehungsjahr": "1868-1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 8",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Böhmer, Johann, 1860",
+                    "docId": 763478,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 9",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Boretius, Alfred Erwin, 1871",
+                    "docId": 763477,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 10",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brinz, Alois von, 1884",
+                    "docId": 763476,
+                    "metadata": {
+                        "Entstehungsjahr": "1884",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 73",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brockhaus, Friedrich, 1871",
+                    "docId": 763475,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 11",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brunnenmeister, Emil, 1877-1888",
+                    "docId": 763474,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 12",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brunner, Heinrich, 1871-1880",
+                    "docId": 763473,
+                    "metadata": {
+                        "Entstehungsjahr": "1871-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 13",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "",
+                    "docId": 7634,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 31",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Bülow, Oskar, 1878-1880",
+                    "docId": 763472,
+                    "metadata": {
+                        "Entstehungsjahr": "1878-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 14",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Bunge, Gustav von, 1890",
+                    "docId": 763471,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 15",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt, Carl Christoph, 1890",
+                    "docId": 763470,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 17",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt, Jacob, 1888",
+                    "docId": 763469,
+                    "metadata": {
+                        "Entstehungsjahr": "1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 31",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt-Bischoff, Adolf, 1884-1886",
+                    "docId": 763468,
+                    "metadata": {
+                        "Entstehungsjahr": "1884-1886",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 16",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt-Von der Mühll, Carl Felix, 1883",
+                    "docId": 763467,
+                    "metadata": {
+                        "Entstehungsjahr": "1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 18",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Degenkolb, Heinrich, 1878-1891",
+                    "docId": 763466,
+                    "metadata": {
+                        "Entstehungsjahr": "1878-1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 20",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Eisele, Fridolin, 1873-1890",
+                    "docId": 763465,
+                    "metadata": {
+                        "Entstehungsjahr": "1873-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 21",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Eucken, Rudolph Christoph, 1875",
+                    "docId": 763464,
+                    "metadata": {
+                        "Entstehungsjahr": "1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 22",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Friedberg, Emil, 1873",
+                    "docId": 763463,
+                    "metadata": {
+                        "Entstehungsjahr": "1873",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 23",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Friedländer, Julius, 1854-1880",
+                    "docId": 763462,
+                    "metadata": {
+                        "Entstehungsjahr": "1854-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 24",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Gelzer, Johann Heinrich und Gelzer-Thurneysen, Heinrich, 1868-1880",
+                    "docId": 763461,
+                    "metadata": {
+                        "Entstehungsjahr": "1868-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 25",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Gengler, Heinrich Gottfried, 1871",
+                    "docId": 763460,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 26g",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Goltz, Alexander von der, 1875",
+                    "docId": 763459,
+                    "metadata": {
+                        "Entstehungsjahr": "1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 27",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Hagenbach-Bischoff, Eduard, 1891",
+                    "docId": 763458,
+                    "metadata": {
+                        "Entstehungsjahr": "1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 28",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Harnack, Adolf von, 1920",
+                    "docId": 763457,
+                    "metadata": {
+                        "Entstehungsjahr": "1920",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 28a",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Hartmann, Gustav, 1870-1890",
+                    "docId": 763456,
+                    "metadata": {
+                        "Entstehungsjahr": "1870-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 29",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Hilty, Carl, 1875-1881",
+                    "docId": 763455,
+                    "metadata": {
+                        "Entstehungsjahr": "1875-1881",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 30",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Huber, Eugen, 1880-1912",
+                    "docId": 763454,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1912",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 31",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "König, 1883",
+                    "docId": 763453,
+                    "metadata": {
+                        "Entstehungsjahr": "1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 32",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Kraut, Wilhelm Theodor, 1860",
+                    "docId": 763452,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 33",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Liebermeister, C., 1872-1874",
+                    "docId": 763451,
+                    "metadata": {
+                        "Entstehungsjahr": "1872-1874",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 34",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Loersch, Hugo, 1886",
+                    "docId": 763450,
+                    "metadata": {
+                        "Entstehungsjahr": "1886",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 35",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Martitz, Ferdinand von, 1874",
+                    "docId": 763449,
+                    "metadata": {
+                        "Entstehungsjahr": "1874",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 36",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Morel, Josef, 1880",
+                    "docId": 763448,
+                    "metadata": {
+                        "Entstehungsjahr": "1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 37",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Muther, Theodor, 1867-1869",
+                    "docId": 763447,
+                    "metadata": {
+                        "Entstehungsjahr": "1867-1869",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 2",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Overbeck, Franz, 1877-1881",
+                    "docId": 763446,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1881",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 38",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Rütimeyer, Karl Ludwig, 1883-1891",
+                    "docId": 763445,
+                    "metadata": {
+                        "Entstehungsjahr": "1883-1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 39",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Salis, Ludwig Rudolf von, 1884-1891, 1927",
+                    "docId": 763444,
+                    "metadata": {
+                        "Entstehungsjahr": "1884-1891, 1927",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 40",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schnell, Johannes, 1868-1889",
+                    "docId": 763443,
+                    "metadata": {
+                        "Entstehungsjahr": "1868-1889",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 41",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schönberg, Gustav, 1877-1884",
+                    "docId": 763442,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1884",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 42",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schröder, Richard, 1886-1890",
+                    "docId": 763443,
+                    "metadata": {
+                        "Entstehungsjahr": "1886-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 43",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schulin, Friedrich, 1877-1881",
+                    "docId": 763440,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1881",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 44",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schulte, Aloys, 1882",
+                    "docId": 763439,
+                    "metadata": {
+                        "Entstehungsjahr": "1882",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 45",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schultz, Hermann, 1889",
+                    "docId": 763436,
+                    "metadata": {
+                        "Entstehungsjahr": "1889",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 46",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Siegel, Heinrich, 1873",
+                    "docId": 763435,
+                    "metadata": {
+                        "Entstehungsjahr": "1873",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 47",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Simson, Dr., 1889",
+                    "docId": 763434,
+                    "metadata": {
+                        "Entstehungsjahr": "1889",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 48",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Smend, Rudolf, 1890",
+                    "docId": 763433,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 49",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Socin, August, 1888",
+                    "docId": 763430,
+                    "metadata": {
+                        "Entstehungsjahr": "1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 50",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Sohm, Rudolf, 1874-1890",
+                    "docId": 763429,
+                    "metadata": {
+                        "Entstehungsjahr": "1874-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 51",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Speiser, William, 1879",
+                    "docId": 763428,
+                    "metadata": {
+                        "Entstehungsjahr": "1879",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 53",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Speiser-Sarasin, Paul, 1871-1877",
+                    "docId": 763427,
+                    "metadata": {
+                        "Entstehungsjahr": "1871-1877",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 52",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stintzing, Roderich von, 1877-1880",
+                    "docId": 763426,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 54",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stobbe, Johann Ernst Otto, 1883",
+                    "docId": 763425,
+                    "metadata": {
+                        "Entstehungsjahr": "1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 55",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stückelberg, Ernst, 1880-1882",
+                    "docId": 763456,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1882",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 56",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stutz, Ulrich, 1920",
+                    "docId": 763423,
+                    "metadata": {
+                        "Entstehungsjahr": "1920",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 56a",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Thudichum, Friedrich, 1890",
+                    "docId": 763422,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 57",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Thurneysen-Gemuseus, Eduard, 1871",
+                    "docId": 763421,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 58",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Unger, Josef, 1885",
+                    "docId": 763420,
+                    "metadata": {
+                        "Entstehungsjahr": "1885",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 59",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Vetter, Ferdinand, 1891",
+                    "docId": 763419,
+                    "metadata": {
+                        "Entstehungsjahr": "1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 60",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Vischer-Heussler, Wilhelm, 1879",
+                    "docId": 763418,
+                    "metadata": {
+                        "Entstehungsjahr": "1879",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 61",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Vulliemin, Louis, 1877",
+                    "docId": 763417,
+                    "metadata": {
+                        "Entstehungsjahr": "1877",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 62",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wach, Adolf, 1879-1917",
+                    "docId": 763416,
+                    "metadata": {
+                        "Entstehungsjahr": "1879-1917",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 63",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wackernagel, Johann Gottfried, 1865",
+                    "docId": 763415,
+                    "metadata": {
+                        "Entstehungsjahr": "1865",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 64",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wackernagel-Burckhardt, Rudolf, 1880-1888",
+                    "docId": 763414,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 55",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wagner, Rudolf, 1882-1885",
+                    "docId": 763413,
+                    "metadata": {
+                        "Entstehungsjahr": "1882-1885",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 66",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wasserleben, Ludwig Wilhelm Hermann, 1869-1875",
+                    "docId": 7634,
+                    "metadata": {
+                        "Entstehungsjahr": "1869-1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 67",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Windscheid, Bernhard, 1880-1888",
+                    "docId": 763411,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 68",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wyss, Friedrich von, 1865-1890",
+                    "docId": 763410,
+                    "metadata": {
+                        "Entstehungsjahr": "1865-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 69",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wyss, Georg von, 1877-1885",
+                    "docId": 763409,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1885",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 71",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wyss, Paul Friedrich von, 1875-1880",
+                    "docId": 763408,
+                    "metadata": {
+                        "Entstehungsjahr": "1875-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 70",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Zallinger, O., 1890",
+                    "docId": 763407,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 72",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Briefe und Äusserungen über die \"Institutionen des Deutschen Privatrechts I\" und über die \"Gewere\"",
+                    "docId": 763404,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 74, 1-21",
+                        "Link": ""
+                    }
+                }
+            ]
+        },
+        {
+            "index": "Vorlesungen",
+            "documents": [
+                {
+                    "title": "Heusler, Andreas, Schweizer Rechtsgeschichte, WS 1915/16, SS 1916",
+                    "docId": 763394,
+                    "metadata": {
+                        "Entstehungsjahr": "1915-1916",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.4",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte, Deutsches Privatrecht",
+                    "docId": 763402,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.9/IV",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte",
+                    "docId": 763401,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.9/IV",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Einführung in die Rechtswissenschaft, SS 1895",
+                    "docId": 763400,
+                    "metadata": {
+                        "Entstehungsjahr": "1895",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.3",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Civilprozesspraktikum",
+                    "docId": 763403,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.6",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Gemeiner ordentlicher Civilprozess",
+                    "docId": 763398,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.5",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Gemeiner deutscher Civilprozess, WS 1858/59",
+                    "docId": 763397,
+                    "metadata": {
+                        "Entstehungsjahr": "1858-1859",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.1",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Römischer Civilprozess SS 1860",
+                    "docId": 763395,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.2",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Summarische Prozesse und Civilprozesse",
+                    "docId": 763392,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.8",
+                        "Link": ""
+                    }
+                }
+            ]
+        },
+        {
+            "index": "Veröffentlichungen",
+            "documents": [
+                {
+                    "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Personen- und Familienrecht. Familiengericht.), Basel 1866",
+                    "docId": 519602,
+                    "metadata": {
+                        "Entstehungsjahr": "1866",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rel. 1263 i-1",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564432-9"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Erbrecht. Sachenrecht.), Basel 1868",
+                    "docId": 519603,
+                    "metadata": {
+                        "Entstehungsjahr": "1868",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rel. 1263 i-2",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564433-5"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Bemerkungen des Herrn Dr. Andreas Heusler ... zum Rechtsgutachten des Herrn Dr. Rudolf von Ihering ... in Sachen des Interkantonalen Vorbereitungscomités der Gäubahn gegen die Gesellschaft der Schweizerischen Centralbahn betreffend die Vollendung und den Betrieb der Wasserfallenbahn und ihrer Fortsetzung von Solothurn nach Schönbühl, Basel 1879",
+                    "docId": 509066,
+                    "metadata": {
+                        "Entstehungsjahr": "1879",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Ded. 100 g",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11387822-5"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Die Gewere, Weimar 1872",
+                    "docId": 509067,
+                    "metadata": {
+                        "Entstehungsjahr": "1872",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.germ. 87 al",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008815-7"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Der Ursprung der deutschen Stadtverfassung, Weimar 1872",
+                    "docId": 509068,
+                    "metadata": {
+                        "Entstehungsjahr": "1872",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.germ. 87 ak",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008814-2"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Verfassungsgeschichte der Stadt Basel im Mittelalter, Mit einer Beilage und drei Siegeltafeln, Basel 1860",
+                    "docId": 509070,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Helv. 392",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453639-7"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Die Beschränkung der Eigenthumsverfolgung bei der Fahrhabe und ihr Motiv im deutschen Rechte, Basel 1871",
+                    "docId": 509069,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "4 J.germ. 81 k",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10987581-1"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Vorlesungen",
-      "documents": [
+    ],
+    "crowdDirectory": [
         {
-          "title": "Heusler, Andreas, Schweizer Rechtsgeschichte, WS 1915/16, SS 1916",
-          "docId": 763394,
-          "metadata": {
-            "Entstehungsjahr": "1915-1916",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.4",
-            "Link": ""
-          }
+            "index": "Manuskripte und Exerpte",
+            "documents": [
+                {
+                    "title": "Heusler, Andreas, Recht und Moral",
+                    "docId": 763396,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.1",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Stellung des Richters zum geschriebenen Gesetz",
+                    "docId": 763393,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.2",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Experte",
+                    "docId": 763399,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.6",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Angebot des deutsch-rechtlichen Ordinariats in Tübingen und Antwortenentwurf, 1873",
+                    "docId": 763406,
+                    "metadata": {
+                        "Entstehungsjahr": "1873",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 L.4",
+                        "Link": ""
+                    }
+                }
+            ]
         },
         {
-          "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte, Deutsches Privatrecht",
-          "docId": 763402,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.9/IV",
-            "Link": ""
-          }
+            "index": "Briefe an Andreas Heusler",
+            "documents": [
+                {
+                    "title": "Arnold, Wilhelm, 1863-1883",
+                    "docId": 763485,
+                    "metadata": {
+                        "Entstehungsjahr": "1863-1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 1",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Behrend, 1886",
+                    "docId": 763483,
+                    "metadata": {
+                        "Entstehungsjahr": "1886",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 4",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Bernatzik, Edmund, 1891",
+                    "docId": 763482,
+                    "metadata": {
+                        "Entstehungsjahr": "1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 5",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Beseler, Georg, 1880",
+                    "docId": 763481,
+                    "metadata": {
+                        "Entstehungsjahr": "1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 6",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Binding, G., 1875",
+                    "docId": 763480,
+                    "metadata": {
+                        "Entstehungsjahr": "1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 7",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Binding, Karl, 1868-1891",
+                    "docId": 763479,
+                    "metadata": {
+                        "Entstehungsjahr": "1868-1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 8",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Böhmer, Johann, 1860",
+                    "docId": 763478,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 9",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Boretius, Alfred Erwin, 1871",
+                    "docId": 763477,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 10",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brinz, Alois von, 1884",
+                    "docId": 763476,
+                    "metadata": {
+                        "Entstehungsjahr": "1884",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 73",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brockhaus, Friedrich, 1871",
+                    "docId": 763475,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 11",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brunnenmeister, Emil, 1877-1888",
+                    "docId": 763474,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 12",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Brunner, Heinrich, 1871-1880",
+                    "docId": 763473,
+                    "metadata": {
+                        "Entstehungsjahr": "1871-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 13",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "",
+                    "docId": 7634,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 31",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Bülow, Oskar, 1878-1880",
+                    "docId": 763472,
+                    "metadata": {
+                        "Entstehungsjahr": "1878-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 14",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Bunge, Gustav von, 1890",
+                    "docId": 763471,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 15",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt, Carl Christoph, 1890",
+                    "docId": 763470,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 17",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt, Jacob, 1888",
+                    "docId": 763469,
+                    "metadata": {
+                        "Entstehungsjahr": "1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 31",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt-Bischoff, Adolf, 1884-1886",
+                    "docId": 763468,
+                    "metadata": {
+                        "Entstehungsjahr": "1884-1886",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 16",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Burckhardt-Von der Mühll, Carl Felix, 1883",
+                    "docId": 763467,
+                    "metadata": {
+                        "Entstehungsjahr": "1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 18",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Degenkolb, Heinrich, 1878-1891",
+                    "docId": 763466,
+                    "metadata": {
+                        "Entstehungsjahr": "1878-1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 20",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Eisele, Fridolin, 1873-1890",
+                    "docId": 763465,
+                    "metadata": {
+                        "Entstehungsjahr": "1873-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 21",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Eucken, Rudolph Christoph, 1875",
+                    "docId": 763464,
+                    "metadata": {
+                        "Entstehungsjahr": "1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 22",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Friedberg, Emil, 1873",
+                    "docId": 763463,
+                    "metadata": {
+                        "Entstehungsjahr": "1873",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 23",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Friedländer, Julius, 1854-1880",
+                    "docId": 763462,
+                    "metadata": {
+                        "Entstehungsjahr": "1854-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 24",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Gelzer, Johann Heinrich und Gelzer-Thurneysen, Heinrich, 1868-1880",
+                    "docId": 763461,
+                    "metadata": {
+                        "Entstehungsjahr": "1868-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 25",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Gengler, Heinrich Gottfried, 1871",
+                    "docId": 763460,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 26g",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Goltz, Alexander von der, 1875",
+                    "docId": 763459,
+                    "metadata": {
+                        "Entstehungsjahr": "1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 27",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Hagenbach-Bischoff, Eduard, 1891",
+                    "docId": 763458,
+                    "metadata": {
+                        "Entstehungsjahr": "1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 28",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Harnack, Adolf von, 1920",
+                    "docId": 763457,
+                    "metadata": {
+                        "Entstehungsjahr": "1920",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 28a",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Hartmann, Gustav, 1870-1890",
+                    "docId": 763456,
+                    "metadata": {
+                        "Entstehungsjahr": "1870-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 29",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Hilty, Carl, 1875-1881",
+                    "docId": 763455,
+                    "metadata": {
+                        "Entstehungsjahr": "1875-1881",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 30",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Huber, Eugen, 1880-1912",
+                    "docId": 763454,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1912",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 31",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "König, 1883",
+                    "docId": 763453,
+                    "metadata": {
+                        "Entstehungsjahr": "1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 32",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Kraut, Wilhelm Theodor, 1860",
+                    "docId": 763452,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 33",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Liebermeister, C., 1872-1874",
+                    "docId": 763451,
+                    "metadata": {
+                        "Entstehungsjahr": "1872-1874",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 34",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Loersch, Hugo, 1886",
+                    "docId": 763450,
+                    "metadata": {
+                        "Entstehungsjahr": "1886",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 35",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Martitz, Ferdinand von, 1874",
+                    "docId": 763449,
+                    "metadata": {
+                        "Entstehungsjahr": "1874",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 36",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Morel, Josef, 1880",
+                    "docId": 763448,
+                    "metadata": {
+                        "Entstehungsjahr": "1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 37",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Muther, Theodor, 1867-1869",
+                    "docId": 763447,
+                    "metadata": {
+                        "Entstehungsjahr": "1867-1869",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 2",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Overbeck, Franz, 1877-1881",
+                    "docId": 763446,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1881",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 38",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Rütimeyer, Karl Ludwig, 1883-1891",
+                    "docId": 763445,
+                    "metadata": {
+                        "Entstehungsjahr": "1883-1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 39",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Salis, Ludwig Rudolf von, 1884-1891, 1927",
+                    "docId": 763444,
+                    "metadata": {
+                        "Entstehungsjahr": "1884-1891, 1927",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 40",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schnell, Johannes, 1868-1889",
+                    "docId": 763443,
+                    "metadata": {
+                        "Entstehungsjahr": "1868-1889",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 41",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schönberg, Gustav, 1877-1884",
+                    "docId": 763442,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1884",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 42",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schröder, Richard, 1886-1890",
+                    "docId": 763443,
+                    "metadata": {
+                        "Entstehungsjahr": "1886-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 43",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schulin, Friedrich, 1877-1881",
+                    "docId": 763440,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1881",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 44",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schulte, Aloys, 1882",
+                    "docId": 763439,
+                    "metadata": {
+                        "Entstehungsjahr": "1882",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 45",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Schultz, Hermann, 1889",
+                    "docId": 763436,
+                    "metadata": {
+                        "Entstehungsjahr": "1889",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 46",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Siegel, Heinrich, 1873",
+                    "docId": 763435,
+                    "metadata": {
+                        "Entstehungsjahr": "1873",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 47",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Simson, Dr., 1889",
+                    "docId": 763434,
+                    "metadata": {
+                        "Entstehungsjahr": "1889",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 48",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Smend, Rudolf, 1890",
+                    "docId": 763433,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 49",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Socin, August, 1888",
+                    "docId": 763430,
+                    "metadata": {
+                        "Entstehungsjahr": "1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 50",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Sohm, Rudolf, 1874-1890",
+                    "docId": 763429,
+                    "metadata": {
+                        "Entstehungsjahr": "1874-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 51",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Speiser, William, 1879",
+                    "docId": 763428,
+                    "metadata": {
+                        "Entstehungsjahr": "1879",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 53",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Speiser-Sarasin, Paul, 1871-1877",
+                    "docId": 763427,
+                    "metadata": {
+                        "Entstehungsjahr": "1871-1877",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 52",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stintzing, Roderich von, 1877-1880",
+                    "docId": 763426,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 54",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stobbe, Johann Ernst Otto, 1883",
+                    "docId": 763425,
+                    "metadata": {
+                        "Entstehungsjahr": "1883",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 55",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stückelberg, Ernst, 1880-1882",
+                    "docId": 763456,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1882",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 56",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Stutz, Ulrich, 1920",
+                    "docId": 763423,
+                    "metadata": {
+                        "Entstehungsjahr": "1920",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 56a",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Thudichum, Friedrich, 1890",
+                    "docId": 763422,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 57",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Thurneysen-Gemuseus, Eduard, 1871",
+                    "docId": 763421,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 58",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Unger, Josef, 1885",
+                    "docId": 763420,
+                    "metadata": {
+                        "Entstehungsjahr": "1885",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 59",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Vetter, Ferdinand, 1891",
+                    "docId": 763419,
+                    "metadata": {
+                        "Entstehungsjahr": "1891",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 60",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Vischer-Heussler, Wilhelm, 1879",
+                    "docId": 763418,
+                    "metadata": {
+                        "Entstehungsjahr": "1879",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 61",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Vulliemin, Louis, 1877",
+                    "docId": 763417,
+                    "metadata": {
+                        "Entstehungsjahr": "1877",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 62",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wach, Adolf, 1879-1917",
+                    "docId": 763416,
+                    "metadata": {
+                        "Entstehungsjahr": "1879-1917",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 63",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wackernagel, Johann Gottfried, 1865",
+                    "docId": 763415,
+                    "metadata": {
+                        "Entstehungsjahr": "1865",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 64",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wackernagel-Burckhardt, Rudolf, 1880-1888",
+                    "docId": 763414,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 55",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wagner, Rudolf, 1882-1885",
+                    "docId": 763413,
+                    "metadata": {
+                        "Entstehungsjahr": "1882-1885",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 66",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wasserleben, Ludwig Wilhelm Hermann, 1869-1875",
+                    "docId": 7634,
+                    "metadata": {
+                        "Entstehungsjahr": "1869-1875",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 67",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Windscheid, Bernhard, 1880-1888",
+                    "docId": 763411,
+                    "metadata": {
+                        "Entstehungsjahr": "1880-1888",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 68",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wyss, Friedrich von, 1865-1890",
+                    "docId": 763410,
+                    "metadata": {
+                        "Entstehungsjahr": "1865-1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 69",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wyss, Georg von, 1877-1885",
+                    "docId": 763409,
+                    "metadata": {
+                        "Entstehungsjahr": "1877-1885",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 71",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Wyss, Paul Friedrich von, 1875-1880",
+                    "docId": 763408,
+                    "metadata": {
+                        "Entstehungsjahr": "1875-1880",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 70",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Zallinger, O., 1890",
+                    "docId": 763407,
+                    "metadata": {
+                        "Entstehungsjahr": "1890",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 72",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Briefe und Äusserungen über die \"Institutionen des Deutschen Privatrechts I\" und über die \"Gewere\"",
+                    "docId": 763404,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 I 74, 1-21",
+                        "Link": ""
+                    }
+                }
+            ]
         },
         {
-          "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte",
-          "docId": 763401,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.9/IV",
-            "Link": ""
-          }
+            "index": "Vorlesungen",
+            "documents": [
+                {
+                    "title": "Heusler, Andreas, Schweizer Rechtsgeschichte, WS 1915/16, SS 1916",
+                    "docId": 763394,
+                    "metadata": {
+                        "Entstehungsjahr": "1915-1916",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.4",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte, Deutsches Privatrecht",
+                    "docId": 763402,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.9/IV",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte",
+                    "docId": 763401,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.9/IV",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Einführung in die Rechtswissenschaft, SS 1895",
+                    "docId": 763400,
+                    "metadata": {
+                        "Entstehungsjahr": "1895",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.3",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Civilprozesspraktikum",
+                    "docId": 763403,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.6",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Gemeiner ordentlicher Civilprozess",
+                    "docId": 763398,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.5",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Gemeiner deutscher Civilprozess, WS 1858/59",
+                    "docId": 763397,
+                    "metadata": {
+                        "Entstehungsjahr": "1858-1859",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.1",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Römischer Civilprozess SS 1860",
+                    "docId": 763395,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.2",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Summarische Prozesse und Civilprozesse",
+                    "docId": 763392,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Staatsarchiv des Kantons Basel-Stadt",
+                        "Signatur": "PA 329 C.8",
+                        "Link": ""
+                    }
+                }
+            ]
         },
         {
-          "title": "Heusler, Andreas, Einführung in die Rechtswissenschaft, SS 1895",
-          "docId": 763400,
-          "metadata": {
-            "Entstehungsjahr": "1895",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.3",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Civilprozesspraktikum",
-          "docId": 763403,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.6",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Gemeiner ordentlicher Civilprozess",
-          "docId": 763398,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.5",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Gemeiner deutscher Civilprozess, WS 1858/59",
-          "docId": 763397,
-          "metadata": {
-            "Entstehungsjahr": "1858-1859",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.1",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Römischer Civilprozess SS 1860",
-          "docId": 763395,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.2",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Summarische Prozesse und Civilprozesse",
-          "docId": 763392,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.8",
-            "Link": ""
-          }
+            "index": "Veröffentlichungen",
+            "documents": [
+                {
+                    "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Personen- und Familienrecht. Familiengericht.), Basel 1866",
+                    "docId": 519602,
+                    "metadata": {
+                        "Entstehungsjahr": "1866",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rel. 1263 i-1",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564432-9"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Erbrecht. Sachenrecht.), Basel 1868",
+                    "docId": 519603,
+                    "metadata": {
+                        "Entstehungsjahr": "1868",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.rel. 1263 i-2",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564433-5"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Bemerkungen des Herrn Dr. Andreas Heusler ... zum Rechtsgutachten des Herrn Dr. Rudolf von Ihering ... in Sachen des Interkantonalen Vorbereitungscomités der Gäubahn gegen die Gesellschaft der Schweizerischen Centralbahn betreffend die Vollendung und den Betrieb der Wasserfallenbahn und ihrer Fortsetzung von Solothurn nach Schönbühl, Basel 1879",
+                    "docId": 509066,
+                    "metadata": {
+                        "Entstehungsjahr": "1879",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Ded. 100 g",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11387822-5"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Die Gewere, Weimar 1872",
+                    "docId": 509067,
+                    "metadata": {
+                        "Entstehungsjahr": "1872",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.germ. 87 al",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008815-7"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Der Ursprung der deutschen Stadtverfassung, Weimar 1872",
+                    "docId": 509068,
+                    "metadata": {
+                        "Entstehungsjahr": "1872",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "J.germ. 87 ak",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008814-2"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Verfassungsgeschichte der Stadt Basel im Mittelalter, Mit einer Beilage und drei Siegeltafeln, Basel 1860",
+                    "docId": 509070,
+                    "metadata": {
+                        "Entstehungsjahr": "1860",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "Helv. 392",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453639-7"
+                    }
+                },
+                {
+                    "title": "Heusler, Andreas, Die Beschränkung der Eigenthumsverfolgung bei der Fahrhabe und ihr Motiv im deutschen Rechte, Basel 1871",
+                    "docId": 509069,
+                    "metadata": {
+                        "Entstehungsjahr": "1871",
+                        "Institution": "Bayerische Staatsbibliothek",
+                        "Signatur": "4 J.germ. 81 k",
+                        "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10987581-1"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Veröffentlichungen",
-      "documents": [
-        {
-          "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Personen- und Familienrecht. Familiengericht.), Basel 1866",
-          "docId": 519602,
-          "metadata": {
-            "Entstehungsjahr": "1866",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rel. 1263 i-1",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564432-9"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Erbrecht. Sachenrecht.), Basel 1868",
-          "docId": 519603,
-          "metadata": {
-            "Entstehungsjahr": "1868",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rel. 1263 i-2",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564433-5"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Bemerkungen des Herrn Dr. Andreas Heusler ... zum Rechtsgutachten des Herrn Dr. Rudolf von Ihering ... in Sachen des Interkantonalen Vorbereitungscomités der Gäubahn gegen die Gesellschaft der Schweizerischen Centralbahn betreffend die Vollendung und den Betrieb der Wasserfallenbahn und ihrer Fortsetzung von Solothurn nach Schönbühl, Basel 1879",
-          "docId": 509066,
-          "metadata": {
-            "Entstehungsjahr": "1879",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Ded. 100 g",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11387822-5"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Die Gewere, Weimar 1872",
-          "docId": 509067,
-          "metadata": {
-            "Entstehungsjahr": "1872",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.germ. 87 al",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008815-7"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Der Ursprung der deutschen Stadtverfassung, Weimar 1872",
-          "docId": 509068,
-          "metadata": {
-            "Entstehungsjahr": "1872",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.germ. 87 ak",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008814-2"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Verfassungsgeschichte der Stadt Basel im Mittelalter, Mit einer Beilage und drei Siegeltafeln, Basel 1860",
-          "docId": 509070,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Helv. 392",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453639-7"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Die Beschränkung der Eigenthumsverfolgung bei der Fahrhabe und ihr Motiv im deutschen Rechte, Basel 1871",
-          "docId": 509069,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "4 J.germ. 81 k",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10987581-1"
-          }
-        }
-      ]
-    }
-  ],
-  "crowdDirectory": [
-    {
-      "index": "Manuskripte und Exerpte",
-      "documents": [
-        {
-          "title": "Heusler, Andreas, Recht und Moral",
-          "docId": 763396,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.1",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Stellung des Richters zum geschriebenen Gesetz",
-          "docId": 763393,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.2",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Experte",
-          "docId": 763399,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.6",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Angebot des deutsch-rechtlichen Ordinariats in Tübingen und Antwortenentwurf, 1873",
-          "docId": 763406,
-          "metadata": {
-            "Entstehungsjahr": "1873",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 L.4",
-            "Link": ""
-          }
-        }
-      ]
-    },
-    {
-      "index": "Briefe an Andreas Heusler",
-      "documents": [
-        {
-          "title": "Arnold, Wilhelm, 1863-1883",
-          "docId": 763485,
-          "metadata": {
-            "Entstehungsjahr": "1863-1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 1",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Behrend, 1886",
-          "docId": 763483,
-          "metadata": {
-            "Entstehungsjahr": "1886",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 4",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Bernatzik, Edmund, 1891",
-          "docId": 763482,
-          "metadata": {
-            "Entstehungsjahr": "1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 5",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Beseler, Georg, 1880",
-          "docId": 763481,
-          "metadata": {
-            "Entstehungsjahr": "1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 6",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Binding, G., 1875",
-          "docId": 763480,
-          "metadata": {
-            "Entstehungsjahr": "1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 7",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Binding, Karl, 1868-1891",
-          "docId": 763479,
-          "metadata": {
-            "Entstehungsjahr": "1868-1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 8",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Böhmer, Johann, 1860",
-          "docId": 763478,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 9",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Boretius, Alfred Erwin, 1871",
-          "docId": 763477,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 10",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brinz, Alois von, 1884",
-          "docId": 763476,
-          "metadata": {
-            "Entstehungsjahr": "1884",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 73",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brockhaus, Friedrich, 1871",
-          "docId": 763475,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 11",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brunnenmeister, Emil, 1877-1888",
-          "docId": 763474,
-          "metadata": {
-            "Entstehungsjahr": "1877-1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 12",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Brunner, Heinrich, 1871-1880",
-          "docId": 763473,
-          "metadata": {
-            "Entstehungsjahr": "1871-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 13",
-            "Link": ""
-          }
-        },
-        {
-          "title": "",
-          "docId": 7634,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 31",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Bülow, Oskar, 1878-1880",
-          "docId": 763472,
-          "metadata": {
-            "Entstehungsjahr": "1878-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 14",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Bunge, Gustav von, 1890",
-          "docId": 763471,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 15",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt, Carl Christoph, 1890",
-          "docId": 763470,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 17",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt, Jacob, 1888",
-          "docId": 763469,
-          "metadata": {
-            "Entstehungsjahr": "1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 31",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt-Bischoff, Adolf, 1884-1886",
-          "docId": 763468,
-          "metadata": {
-            "Entstehungsjahr": "1884-1886",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 16",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Burckhardt-Von der Mühll, Carl Felix, 1883",
-          "docId": 763467,
-          "metadata": {
-            "Entstehungsjahr": "1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 18",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Degenkolb, Heinrich, 1878-1891",
-          "docId": 763466,
-          "metadata": {
-            "Entstehungsjahr": "1878-1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 20",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Eisele, Fridolin, 1873-1890",
-          "docId": 763465,
-          "metadata": {
-            "Entstehungsjahr": "1873-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 21",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Eucken, Rudolph Christoph, 1875",
-          "docId": 763464,
-          "metadata": {
-            "Entstehungsjahr": "1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 22",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Friedberg, Emil, 1873",
-          "docId": 763463,
-          "metadata": {
-            "Entstehungsjahr": "1873",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 23",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Friedländer, Julius, 1854-1880",
-          "docId": 763462,
-          "metadata": {
-            "Entstehungsjahr": "1854-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 24",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Gelzer, Johann Heinrich und Gelzer-Thurneysen, Heinrich, 1868-1880",
-          "docId": 763461,
-          "metadata": {
-            "Entstehungsjahr": "1868-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 25",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Gengler, Heinrich Gottfried, 1871",
-          "docId": 763460,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 26g",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Goltz, Alexander von der, 1875",
-          "docId": 763459,
-          "metadata": {
-            "Entstehungsjahr": "1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 27",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Hagenbach-Bischoff, Eduard, 1891",
-          "docId": 763458,
-          "metadata": {
-            "Entstehungsjahr": "1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 28",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Harnack, Adolf von, 1920",
-          "docId": 763457,
-          "metadata": {
-            "Entstehungsjahr": "1920",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 28a",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Hartmann, Gustav, 1870-1890",
-          "docId": 763456,
-          "metadata": {
-            "Entstehungsjahr": "1870-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 29",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Hilty, Carl, 1875-1881",
-          "docId": 763455,
-          "metadata": {
-            "Entstehungsjahr": "1875-1881",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 30",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Huber, Eugen, 1880-1912",
-          "docId": 763454,
-          "metadata": {
-            "Entstehungsjahr": "1880-1912",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 31",
-            "Link": ""
-          }
-        },
-        {
-          "title": "König, 1883",
-          "docId": 763453,
-          "metadata": {
-            "Entstehungsjahr": "1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 32",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Kraut, Wilhelm Theodor, 1860",
-          "docId": 763452,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 33",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Liebermeister, C., 1872-1874",
-          "docId": 763451,
-          "metadata": {
-            "Entstehungsjahr": "1872-1874",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 34",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Loersch, Hugo, 1886",
-          "docId": 763450,
-          "metadata": {
-            "Entstehungsjahr": "1886",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 35",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Martitz, Ferdinand von, 1874",
-          "docId": 763449,
-          "metadata": {
-            "Entstehungsjahr": "1874",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 36",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Morel, Josef, 1880",
-          "docId": 763448,
-          "metadata": {
-            "Entstehungsjahr": "1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 37",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Muther, Theodor, 1867-1869",
-          "docId": 763447,
-          "metadata": {
-            "Entstehungsjahr": "1867-1869",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 2",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Overbeck, Franz, 1877-1881",
-          "docId": 763446,
-          "metadata": {
-            "Entstehungsjahr": "1877-1881",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 38",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Rütimeyer, Karl Ludwig, 1883-1891",
-          "docId": 763445,
-          "metadata": {
-            "Entstehungsjahr": "1883-1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 39",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Salis, Ludwig Rudolf von, 1884-1891, 1927",
-          "docId": 763444,
-          "metadata": {
-            "Entstehungsjahr": "1884-1891, 1927",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 40",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schnell, Johannes, 1868-1889",
-          "docId": 763443,
-          "metadata": {
-            "Entstehungsjahr": "1868-1889",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 41",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schönberg, Gustav, 1877-1884",
-          "docId": 763442,
-          "metadata": {
-            "Entstehungsjahr": "1877-1884",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 42",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schröder, Richard, 1886-1890",
-          "docId": 763443,
-          "metadata": {
-            "Entstehungsjahr": "1886-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 43",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schulin, Friedrich, 1877-1881",
-          "docId": 763440,
-          "metadata": {
-            "Entstehungsjahr": "1877-1881",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 44",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schulte, Aloys, 1882",
-          "docId": 763439,
-          "metadata": {
-            "Entstehungsjahr": "1882",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 45",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Schultz, Hermann, 1889",
-          "docId": 763436,
-          "metadata": {
-            "Entstehungsjahr": "1889",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 46",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Siegel, Heinrich, 1873",
-          "docId": 763435,
-          "metadata": {
-            "Entstehungsjahr": "1873",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 47",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Simson, Dr., 1889",
-          "docId": 763434,
-          "metadata": {
-            "Entstehungsjahr": "1889",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 48",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Smend, Rudolf, 1890",
-          "docId": 763433,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 49",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Socin, August, 1888",
-          "docId": 763430,
-          "metadata": {
-            "Entstehungsjahr": "1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 50",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Sohm, Rudolf, 1874-1890",
-          "docId": 763429,
-          "metadata": {
-            "Entstehungsjahr": "1874-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 51",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Speiser, William, 1879",
-          "docId": 763428,
-          "metadata": {
-            "Entstehungsjahr": "1879",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 53",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Speiser-Sarasin, Paul, 1871-1877",
-          "docId": 763427,
-          "metadata": {
-            "Entstehungsjahr": "1871-1877",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 52",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stintzing, Roderich von, 1877-1880",
-          "docId": 763426,
-          "metadata": {
-            "Entstehungsjahr": "1877-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 54",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stobbe, Johann Ernst Otto, 1883",
-          "docId": 763425,
-          "metadata": {
-            "Entstehungsjahr": "1883",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 55",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stückelberg, Ernst, 1880-1882",
-          "docId": 763456,
-          "metadata": {
-            "Entstehungsjahr": "1880-1882",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 56",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Stutz, Ulrich, 1920",
-          "docId": 763423,
-          "metadata": {
-            "Entstehungsjahr": "1920",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 56a",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Thudichum, Friedrich, 1890",
-          "docId": 763422,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 57",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Thurneysen-Gemuseus, Eduard, 1871",
-          "docId": 763421,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 58",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Unger, Josef, 1885",
-          "docId": 763420,
-          "metadata": {
-            "Entstehungsjahr": "1885",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 59",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Vetter, Ferdinand, 1891",
-          "docId": 763419,
-          "metadata": {
-            "Entstehungsjahr": "1891",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 60",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Vischer-Heussler, Wilhelm, 1879",
-          "docId": 763418,
-          "metadata": {
-            "Entstehungsjahr": "1879",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 61",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Vulliemin, Louis, 1877",
-          "docId": 763417,
-          "metadata": {
-            "Entstehungsjahr": "1877",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 62",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wach, Adolf, 1879-1917",
-          "docId": 763416,
-          "metadata": {
-            "Entstehungsjahr": "1879-1917",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 63",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wackernagel, Johann Gottfried, 1865",
-          "docId": 763415,
-          "metadata": {
-            "Entstehungsjahr": "1865",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 64",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wackernagel-Burckhardt, Rudolf, 1880-1888",
-          "docId": 763414,
-          "metadata": {
-            "Entstehungsjahr": "1880-1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 55",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wagner, Rudolf, 1882-1885",
-          "docId": 763413,
-          "metadata": {
-            "Entstehungsjahr": "1882-1885",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 66",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wasserleben, Ludwig Wilhelm Hermann, 1869-1875",
-          "docId": 7634,
-          "metadata": {
-            "Entstehungsjahr": "1869-1875",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 67",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Windscheid, Bernhard, 1880-1888",
-          "docId": 763411,
-          "metadata": {
-            "Entstehungsjahr": "1880-1888",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 68",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wyss, Friedrich von, 1865-1890",
-          "docId": 763410,
-          "metadata": {
-            "Entstehungsjahr": "1865-1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 69",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wyss, Georg von, 1877-1885",
-          "docId": 763409,
-          "metadata": {
-            "Entstehungsjahr": "1877-1885",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 71",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Wyss, Paul Friedrich von, 1875-1880",
-          "docId": 763408,
-          "metadata": {
-            "Entstehungsjahr": "1875-1880",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 70",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Zallinger, O., 1890",
-          "docId": 763407,
-          "metadata": {
-            "Entstehungsjahr": "1890",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 72",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Briefe und Äusserungen über die \"Institutionen des Deutschen Privatrechts I\" und über die \"Gewere\"",
-          "docId": 763404,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 I 74, 1-21",
-            "Link": ""
-          }
-        }
-      ]
-    },
-    {
-      "index": "Vorlesungen",
-      "documents": [
-        {
-          "title": "Heusler, Andreas, Schweizer Rechtsgeschichte, WS 1915/16, SS 1916",
-          "docId": 763394,
-          "metadata": {
-            "Entstehungsjahr": "1915-1916",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.4",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte, Deutsches Privatrecht",
-          "docId": 763402,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.9/IV",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Deutsche Staats- und Rechtsgeschichte",
-          "docId": 763401,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.9/IV",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Einführung in die Rechtswissenschaft, SS 1895",
-          "docId": 763400,
-          "metadata": {
-            "Entstehungsjahr": "1895",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.3",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Civilprozesspraktikum",
-          "docId": 763403,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.6",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Gemeiner ordentlicher Civilprozess",
-          "docId": 763398,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.5",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Gemeiner deutscher Civilprozess, WS 1858/59",
-          "docId": 763397,
-          "metadata": {
-            "Entstehungsjahr": "1858-1859",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.1",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Römischer Civilprozess SS 1860",
-          "docId": 763395,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.2",
-            "Link": ""
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Summarische Prozesse und Civilprozesse",
-          "docId": 763392,
-          "metadata": {
-            "Entstehungsjahr": "",
-            "Institution": "Staatsarchiv des Kantons Basel-Stadt",
-            "Signatur": "PA 329 C.8",
-            "Link": ""
-          }
-        }
-      ]
-    },
-    {
-      "index": "Veröffentlichungen",
-      "documents": [
-        {
-          "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Personen- und Familienrecht. Familiengericht.), Basel 1866",
-          "docId": 519602,
-          "metadata": {
-            "Entstehungsjahr": "1866",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rel. 1263 i-1",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564432-9"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Motive zu dem Entwurf eines Civilgesetzes für den Canton Basel-Stadt (Erbrecht. Sachenrecht.), Basel 1868",
-          "docId": 519603,
-          "metadata": {
-            "Entstehungsjahr": "1868",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.rel. 1263 i-2",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10564433-5"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Bemerkungen des Herrn Dr. Andreas Heusler ... zum Rechtsgutachten des Herrn Dr. Rudolf von Ihering ... in Sachen des Interkantonalen Vorbereitungscomités der Gäubahn gegen die Gesellschaft der Schweizerischen Centralbahn betreffend die Vollendung und den Betrieb der Wasserfallenbahn und ihrer Fortsetzung von Solothurn nach Schönbühl, Basel 1879",
-          "docId": 509066,
-          "metadata": {
-            "Entstehungsjahr": "1879",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Ded. 100 g",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11387822-5"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Die Gewere, Weimar 1872",
-          "docId": 509067,
-          "metadata": {
-            "Entstehungsjahr": "1872",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.germ. 87 al",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008815-7"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Der Ursprung der deutschen Stadtverfassung, Weimar 1872",
-          "docId": 509068,
-          "metadata": {
-            "Entstehungsjahr": "1872",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "J.germ. 87 ak",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11008814-2"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Verfassungsgeschichte der Stadt Basel im Mittelalter, Mit einer Beilage und drei Siegeltafeln, Basel 1860",
-          "docId": 509070,
-          "metadata": {
-            "Entstehungsjahr": "1860",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "Helv. 392",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10453639-7"
-          }
-        },
-        {
-          "title": "Heusler, Andreas, Die Beschränkung der Eigenthumsverfolgung bei der Fahrhabe und ihr Motiv im deutschen Rechte, Basel 1871",
-          "docId": 509069,
-          "metadata": {
-            "Entstehungsjahr": "1871",
-            "Institution": "Bayerische Staatsbibliothek",
-            "Signatur": "4 J.germ. 81 k",
-            "Link": "http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10987581-1"
-          }
-        }
-      ]
-    }
-  ]
+    ]
 }

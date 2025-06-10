@@ -1,228 +1,228 @@
 {
-  "id": "BundesverfassungOLD",
-  "name": "Bundesverfassung der Schweizerischen Eidgenossenschaft",
-  "col_id": 182280,
-  "crowd_id": 69009,
-  "editionName": "EditionBundesverfassung",
-  "editionLink": "bundesverfassung",
-  "background": "bv.png",
-  "logo": "bv.png",
-  "portrait": null,
-  "timelineThumbnail": "bv.png",
-  "colors": {
-    "primaryColor": "184, 153, 90",
-    "primaryColorLight": "200, 176, 128",
-    "primaryColorDark": "10, 10, 10",
-    "secondaryColor": "208, 188, 147"
-  },
-  "footerLogos": [
-    {
-      "link": "https://www.uzh.ch/",
-      "src": "logo-uzh.svg",
-      "alt": "Universität Zürich"
+    "id": "BundesverfassungOLD",
+    "name": "Bundesverfassung der Schweizerischen Eidgenossenschaft",
+    "col_id": 182280,
+    "crowd_id": 69009,
+    "editionName": "EditionBundesverfassung",
+    "editionLink": "bundesverfassung",
+    "background": "bv.png",
+    "logo": "bv.png",
+    "portrait": null,
+    "timelineThumbnail": "bv.png",
+    "colors": {
+        "primaryColor": "184, 153, 90",
+        "primaryColorLight": "200, 176, 128",
+        "primaryColorDark": "10, 10, 10",
+        "secondaryColor": "208, 188, 147"
     },
-    {
-      "link": "https://query-staatsarchiv.ar.ch/suchinfo.aspx",
-      "src": "ar_logo.svg",
-      "alt": "Staatsarchiv Appenzell Ausserrhoden"
-    },
-    {
-      "link": "https://stadt.winterthur.ch/bibliotheken-winterthur/erinnern",
-      "src": "logo-winbib.svg",
-      "alt": "Bibiliotheken Winterthur"
-    },
-    {
-      "link": "https://readcoop.eu/readsearch/",
-      "src": "logo-readcoop.svg",
-      "alt": "Read COOP"
-    }
-  ],
-  "staticDirectory": [
-    {
-      "index": "Das Werden der Bundesverfassung von 1848 (handschriftliche Quellen)",
-      "documents": [
+    "footerLogos": [
         {
-          "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
-          "docId": 1430520,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
-            "Signatur": "Ms fol 247",
-            "Lizenz": "CC BY-SA 4.0",
-            "Veröffentlichte Transkriptionen": "Holenstein, Rolf, Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
-          }
+            "link": "https://www.uzh.ch/",
+            "src": "logo-uzh.svg",
+            "alt": "Universität Zürich"
         },
         {
-          "title": "Furrer, Jonas, Privatprotokoll, verfasst von Jonas Furrer, über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
-          "docId": 1336681,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#21*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
-          }
+            "link": "https://query-staatsarchiv.ar.ch/suchinfo.aspx",
+            "src": "ar_logo.svg",
+            "alt": "Staatsarchiv Appenzell Ausserrhoden"
         },
         {
-          "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
-          "docId": 1302648,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
-          }
+            "link": "https://stadt.winterthur.ch/bibliotheken-winterthur/erinnern",
+            "src": "logo-winbib.svg",
+            "alt": "Bibiliotheken Winterthur"
         },
         {
-          "title": "Akten zu den Verhandlungen der Revisionskommission",
-          "docId": 1336682,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
-          }
+            "link": "https://readcoop.eu/readsearch/",
+            "src": "logo-readcoop.svg",
+            "alt": "Read COOP"
         }
-      ]
-    },
-    {
-      "index": "Das Werden der Bundesverfassung von 1848 (gedruckte Quellen)",
-      "documents": [
+    ],
+    "staticDirectory": [
         {
-          "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
-          "docId": 1327361,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#18*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
-          }
+            "index": "Das Werden der Bundesverfassung von 1848 (handschriftliche Quellen)",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
+                    "docId": 1430520,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
+                        "Signatur": "Ms fol 247",
+                        "Lizenz": "CC BY-SA 4.0",
+                        "Veröffentlichte Transkriptionen": "Holenstein, Rolf, Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
+                    }
+                },
+                {
+                    "title": "Furrer, Jonas, Privatprotokoll, verfasst von Jonas Furrer, über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
+                    "docId": 1336681,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#21*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
+                    }
+                },
+                {
+                    "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
+                    "docId": 1302648,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
+                    }
+                },
+                {
+                    "title": "Akten zu den Verhandlungen der Revisionskommission",
+                    "docId": 1336682,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
+                    }
+                }
+            ]
         },
         {
-          "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
-          "docId": 1416877,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-77232",
-            "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
-          }
-        },
-        {
-          "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
-          "docId": 1327360,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "E22#1000/134#315*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
-          }
-        },
-        {
-          "title": "Bericht über den Entwurf einer Bundesverfassung, vom 8. April 1848 / erstattet von der am 16. August 1847 von der Tagsatzung ernannten Revisionskommission",
-          "docId": 1434357,
-          "metadata": {
-            "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-24304",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/7530617"
-          }
+            "index": "Das Werden der Bundesverfassung von 1848 (gedruckte Quellen)",
+            "documents": [
+                {
+                    "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
+                    "docId": 1327361,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#18*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
+                    }
+                },
+                {
+                    "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
+                    "docId": 1416877,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-77232",
+                        "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
+                    }
+                },
+                {
+                    "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
+                    "docId": 1327360,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "E22#1000/134#315*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
+                    }
+                },
+                {
+                    "title": "Bericht über den Entwurf einer Bundesverfassung, vom 8. April 1848 / erstattet von der am 16. August 1847 von der Tagsatzung ernannten Revisionskommission",
+                    "docId": 1434357,
+                    "metadata": {
+                        "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-24304",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/7530617"
+                    }
+                }
+            ]
         }
-      ]
-    }
-  ],
-  "crowdDirectory": [
-    {
-      "index": "Das Werden der Bundesverfassung von 1848 (handschriftliche Quellen)",
-      "documents": [
+    ],
+    "crowdDirectory": [
         {
-          "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
-          "docId": 1430520,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
-            "Signatur": "Ms fol 247",
-            "Lizenz": "CC BY-SA 4.0",
-            "Veröffentlichte Transkriptionen": "Holenstein, Rolf: Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
-          }
+            "index": "Das Werden der Bundesverfassung von 1848 (handschriftliche Quellen)",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
+                    "docId": 1430520,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
+                        "Signatur": "Ms fol 247",
+                        "Lizenz": "CC BY-SA 4.0",
+                        "Veröffentlichte Transkriptionen": "Holenstein, Rolf: Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
+                    }
+                },
+                {
+                    "title": "Furrer, Jonas, Privatprotokoll, verfasst von Jonas Furrer, über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
+                    "docId": 1336681,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#21*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
+                    }
+                },
+                {
+                    "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
+                    "docId": 1302648,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
+                    }
+                },
+                {
+                    "title": "Akten zu den Verhandlungen der Revisionskommission",
+                    "docId": 1336682,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
+                    }
+                }
+            ]
         },
         {
-          "title": "Furrer, Jonas, Privatprotokoll, verfasst von Jonas Furrer, über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
-          "docId": 1336681,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#21*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
-          }
-        },
-        {
-          "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
-          "docId": 1302648,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
-          }
-        },
-        {
-          "title": "Akten zu den Verhandlungen der Revisionskommission",
-          "docId": 1336682,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
-          }
+            "index": "Das Werden der Bundesverfassung von 1848 (gedruckte Quellen)",
+            "documents": [
+                {
+                    "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
+                    "docId": 1327361,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#18*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
+                    }
+                },
+                {
+                    "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
+                    "docId": 1416877,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-77232",
+                        "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
+                    }
+                },
+                {
+                    "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
+                    "docId": 1327360,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "E22#1000/134#315*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
+                    }
+                },
+                {
+                    "title": "Bericht über den Entwurf einer Bundesverfassung, vom 8. April 1848 / erstattet von der am 16. August 1847 von der Tagsatzung ernannten Revisionskommission",
+                    "docId": 1434357,
+                    "metadata": {
+                        "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-24304",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/7530617"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Das Werden der Bundesverfassung von 1848 (gedruckte Quellen)",
-      "documents": [
-        {
-          "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
-          "docId": 1327361,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#18*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
-          }
-        },
-        {
-          "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
-          "docId": 1416877,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-77232",
-            "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
-          }
-        },
-        {
-          "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
-          "docId": 1327360,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "E22#1000/134#315*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
-          }
-        },
-        {
-          "title": "Bericht über den Entwurf einer Bundesverfassung, vom 8. April 1848 / erstattet von der am 16. August 1847 von der Tagsatzung ernannten Revisionskommission",
-          "docId": 1434357,
-          "metadata": {
-            "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-24304",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/7530617"
-          }
-        }
-      ]
-    }
-  ]
+    ]
 }

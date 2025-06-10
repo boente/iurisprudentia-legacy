@@ -1,683 +1,683 @@
 {
-  "id": "BundesverfassungKarin",
-  "name": "Bundesverfassung der Schweizerischen Eidgenossenschaft",
-  "col_id": 182280,
-  "crowd_id": 69009,
-  "editionName": "EditionBundesverfassung",
-  "editionLink": "bundesverfassung",
-  "background": "bv.png",
-  "logo": "bv.png",
-  "portrait": null,
-  "timelineThumbnail": "bv.png",
-  "colors": {
-    "primaryColor": "184, 153, 90",
-    "primaryColorLight": "200, 176, 128",
-    "primaryColorDark": "10, 10, 10",
-    "secondaryColor": "208, 188, 147"
-  },
-  "footerLogos": [
-    {
-      "link": "https://www.uzh.ch/",
-      "src": "logo-uzh.svg",
-      "alt": "Universität Zürich"
+    "id": "BundesverfassungKarin",
+    "name": "Bundesverfassung der Schweizerischen Eidgenossenschaft",
+    "col_id": 182280,
+    "crowd_id": 69009,
+    "editionName": "EditionBundesverfassung",
+    "editionLink": "bundesverfassung",
+    "background": "bv.png",
+    "logo": "bv.png",
+    "portrait": null,
+    "timelineThumbnail": "bv.png",
+    "colors": {
+        "primaryColor": "184, 153, 90",
+        "primaryColorLight": "200, 176, 128",
+        "primaryColorDark": "10, 10, 10",
+        "secondaryColor": "208, 188, 147"
     },
-    {
-      "link": "https://stadt.winterthur.ch/bibliotheken-winterthur/erinnern",
-      "src": "logo-winbib.svg",
-      "alt": "Bibiliotheken Winterthur"
-    },
-    {
-      "link": "https://readcoop.eu/readsearch/",
-      "src": "logo-readcoop.svg",
-      "alt": "Read COOP"
-    }
-  ],
-  "staticDirectory": [
-    {
-      "index": "Schweizerisches Bundesarchiv",
-      "documents": [
+    "footerLogos": [
         {
-          "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
-          "docId": 1336681,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#21*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
-          }
+            "link": "https://www.uzh.ch/",
+            "src": "logo-uzh.svg",
+            "alt": "Universität Zürich"
         },
         {
-          "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
-          "docId": 1302648,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
-          }
+            "link": "https://stadt.winterthur.ch/bibliotheken-winterthur/erinnern",
+            "src": "logo-winbib.svg",
+            "alt": "Bibiliotheken Winterthur"
         },
         {
-          "title": "Akten zu den Verhandlungen der Revisionskommission",
-          "docId": 1336682,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
-          }
-        },
-        {
-          "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
-          "docId": 1327361,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#18*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
-          }
-        },
-        {
-          "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
-          "docId": 1327360,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "E22#1000/134#315*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
-          }
+            "link": "https://readcoop.eu/readsearch/",
+            "src": "logo-readcoop.svg",
+            "alt": "Read COOP"
         }
-      ]
-    },
-    {
-      "index": "Staatsarchiv Appenzell Ausserrhoden",
-      "documents": [
+    ],
+    "staticDirectory": [
         {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. März 1848",
-          "docId": 1494448,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-04",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
+            "index": "Schweizerisches Bundesarchiv",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
+                    "docId": 1336681,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#21*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
+                    }
+                },
+                {
+                    "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
+                    "docId": 1302648,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
+                    }
+                },
+                {
+                    "title": "Akten zu den Verhandlungen der Revisionskommission",
+                    "docId": 1336682,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
+                    }
+                },
+                {
+                    "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
+                    "docId": 1327361,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#18*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
+                    }
+                },
+                {
+                    "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
+                    "docId": 1327360,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "E22#1000/134#315*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
+                    }
+                }
+            ]
         },
         {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. März 1848",
-          "docId": 1494449,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-05",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
+            "index": "Staatsarchiv Appenzell Ausserrhoden",
+            "documents": [
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. März 1848",
+                    "docId": 1494448,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-04",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. März 1848",
+                    "docId": 1494449,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-05",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 7. März 1848",
+                    "docId": 1494450,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-06",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 11. März 1848",
+                    "docId": 1494451,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-08",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 13. März 1848",
+                    "docId": 1494452,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-09",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 17. März 1848",
+                    "docId": 1494453,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-10",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 19. März 1848",
+                    "docId": 1494454,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-11",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 21. März 1848",
+                    "docId": 1494455,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-12",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 23. März 1848",
+                    "docId": 1494456,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-14",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 24. März 1848",
+                    "docId": 1494457,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-15",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 27. März 1848",
+                    "docId": 1494458,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-16",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 30. März 1848",
+                    "docId": 1494459,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-17",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. April 1848",
+                    "docId": 1494460,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-18",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 5. April 1848",
+                    "docId": 1494462,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-20",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. April 1848",
+                    "docId": 1494461,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-21",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                }
+            ]
         },
         {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 7. März 1848",
-          "docId": 1494450,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-06",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
+            "index": "Staatsarchiv Basel-Stadt",
+            "documents": [
+                {
+                    "title": "Fürstenberger, Johann Georg, Sarasin, Felix, Relation an den Amtsbürgermeister von Rathsherrn Joh. Georg Fürstenberger & Bürgermeister F. Sarasin, über die Sitzungen der Commission zu Revision der Bundes-Verfassung in Bern vom 17. Februar bis 6. April 1848",
+                    "docId": 1497684,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Basel-Stadt",
+                        "Signatur": "PA 212a L 41",
+                        "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
+                    }
+                },
+                {
+                    "title": "Sarasin, Felix, Revision des Bundesvertrags 1848 (Notizbüchlein)",
+                    "docId": 1497666,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Basel-Stadt",
+                        "Signatur": "PA 212a L 41",
+                        "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
+                    }
+                }
+            ]
         },
         {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 11. März 1848",
-          "docId": 1494451,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-08",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
+            "index": "Staatsarchiv des Kantons Zürich",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Bericht aus der Bundesrevisionskommission vom 26. März 1848",
+                    "docId": 1494447,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv des Kantons Zürich",
+                        "Signatur": "StAZH L 59.4",
+                        "Link": "https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=320716"
+                    }
+                }
+            ]
         },
         {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 13. März 1848",
-          "docId": 1494452,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-09",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
+            "index": "Winterthurer Bibliotheken, Sammlung Winterthur",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
+                    "docId": 1430520,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
+                        "Signatur": "Ms fol 247",
+                        "Lizenz": "CC BY-SA 4.0",
+                        "Veröffentlichte Transkriptionen": "Holenstein, Rolf, Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
+                    }
+                }
+            ]
         },
         {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 17. März 1848",
-          "docId": 1494453,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-10",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 19. März 1848",
-          "docId": 1494454,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-11",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 21. März 1848",
-          "docId": 1494455,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-12",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 23. März 1848",
-          "docId": 1494456,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-14",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 24. März 1848",
-          "docId": 1494457,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-15",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 27. März 1848",
-          "docId": 1494458,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-16",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 30. März 1848",
-          "docId": 1494459,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-17",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. April 1848",
-          "docId": 1494460,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-18",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 5. April 1848",
-          "docId": 1494462,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-20",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. April 1848",
-          "docId": 1494461,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-21",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
+            "index": "ETH-Bibliothek Zürich",
+            "documents": [
+                {
+                    "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
+                    "docId": 1416877,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-77232",
+                        "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
+                    }
+                },
+                {
+                    "title": "Rapport de la commission qui a élaboré le projet de constitution fédérale du 8 avril 1848",
+                    "docId": 1504006,
+                    "metadata": {
+                        "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-25548",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104646?query=Projet%20Constitution"
+                    }
+                },
+                {
+                    "title": "Projet de Constitution fédérale pour la Confédération suisse / préparé par la Commission de révision du pacte, nommée par la diète le 16 août 1847 (du 17 février au 8 avril 1848)",
+                    "docId": 1416800,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-101794",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/28105390"
+                    }
+                },
+                {
+                    "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
+                    "docId": 1416879,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-25543",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
+                    }
+                },
+                {
+                    "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
+                    "docId": 1416879,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-25543",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Staatsarchiv Basel-Stadt",
-      "documents": [
+    ],
+    "crowdDirectory": [
         {
-          "title": "Fürstenberger, Johann Georg, Sarasin, Felix, Relation an den Amtsbürgermeister von Rathsherrn Joh. Georg Fürstenberger & Bürgermeister F. Sarasin, über die Sitzungen der Commission zu Revision der Bundes-Verfassung in Bern vom 17. Februar bis 6. April 1848",
-          "docId": 1497684,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Basel-Stadt",
-            "Signatur": "PA 212a L 41",
-            "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
-          }
+            "index": "Schweizerisches Bundesarchiv",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
+                    "docId": 1336681,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#21*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
+                    }
+                },
+                {
+                    "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
+                    "docId": 1302648,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
+                    }
+                },
+                {
+                    "title": "Akten zu den Verhandlungen der Revisionskommission",
+                    "docId": 1336682,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#22*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
+                    }
+                },
+                {
+                    "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
+                    "docId": 1327361,
+                    "metadata": {
+                        "Entstehungsjahr": "1847-1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "D0#1000/3#18*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
+                    }
+                },
+                {
+                    "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
+                    "docId": 1327360,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Schweizerisches Bundesarchiv",
+                        "Signatur": "E22#1000/134#315*",
+                        "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
+                    }
+                }
+            ]
         },
         {
-          "title": "Sarasin, Felix, Revision des Bundesvertrags 1848 (Notizbüchlein)",
-          "docId": 1497666,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Basel-Stadt",
-            "Signatur": "PA 212a L 41",
-            "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
-          }
+            "index": "Staatsarchiv Appenzell Ausserrhoden",
+            "documents": [
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. März 1848",
+                    "docId": 1494448,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-04",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. März 1848",
+                    "docId": 1494449,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-05",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 7. März 1848",
+                    "docId": 1494450,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-06",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 11. März 1848",
+                    "docId": 1494451,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-08",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 13. März 1848",
+                    "docId": 1494452,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-09",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 17. März 1848",
+                    "docId": 1494453,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-10",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 19. März 1848",
+                    "docId": 1494454,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-11",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 21. März 1848",
+                    "docId": 1494455,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-12",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 23. März 1848",
+                    "docId": 1494456,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-14",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 24. März 1848",
+                    "docId": 1494457,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-15",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 27. März 1848",
+                    "docId": 1494458,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-16",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 30. März 1848",
+                    "docId": 1494459,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-17",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. April 1848",
+                    "docId": 1494460,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-18",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 5. April 1848",
+                    "docId": 1494462,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-20",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                },
+                {
+                    "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. April 1848",
+                    "docId": 1494461,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Appenzell Ausserrhoden",
+                        "Signatur": "Ca.C12-04-01-01-21",
+                        "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "Staatsarchiv Basel-Stadt",
+            "documents": [
+                {
+                    "title": "Fürstenberger, Johann Georg, Sarasin, Felix, Relation an den Amtsbürgermeister von Rathsherrn Joh. Georg Fürstenberger & Bürgermeister F. Sarasin, über die Sitzungen der Commission zu Revision der Bundes-Verfassung in Bern vom 17. Februar bis 6. April 1848",
+                    "docId": 1497684,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Basel-Stadt",
+                        "Signatur": "PA 212a L 41",
+                        "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
+                    }
+                },
+                {
+                    "title": "Sarasin, Felix, Revision des Bundesvertrags 1848 (Notizbüchlein)",
+                    "docId": 1497666,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv Basel-Stadt",
+                        "Signatur": "PA 212a L 41",
+                        "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "Staatsarchiv des Kantons Zürich",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Bericht aus der Bundesrevisionskommission vom 26. März 1848",
+                    "docId": 1494447,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Staatsarchiv des Kantons Zürich",
+                        "Signatur": "StAZH L 59.4",
+                        "Link": "https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=320716"
+                    }
+                }
+            ]
+        },
+        {
+            "index": "Winterthurer Bibliotheken, Sammlung Winterthur",
+            "documents": [
+                {
+                    "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
+                    "docId": 1430520,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
+                        "Signatur": "Ms fol 247",
+                        "Lizenz": "CC BY-SA 4.0",
+                        "Veröffentlichte Transkriptionen": "Holenstein, Rolf, Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
+                    }
+                }
+            ]
+        },
+        {
+            "index": "ETH-Bibliothek Zürich",
+            "documents": [
+                {
+                    "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
+                    "docId": 1416877,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-77232",
+                        "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
+                    }
+                },
+                {
+                    "title": "Rapport de la commission qui a élaboré le projet de constitution fédérale du 8 avril 1848",
+                    "docId": 1504006,
+                    "metadata": {
+                        "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-25548",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104646?query=Projet%20Constitution"
+                    }
+                },
+                {
+                    "title": "Projet de Constitution fédérale pour la Confédération suisse / préparé par la Commission de révision du pacte, nommée par la diète le 16 août 1847 (du 17 février au 8 avril 1848)",
+                    "docId": 1416800,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-101794",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/28105390"
+                    }
+                },
+                {
+                    "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
+                    "docId": 1416879,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-25543",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
+                    }
+                },
+                {
+                    "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
+                    "docId": 1416879,
+                    "metadata": {
+                        "Entstehungsjahr": "1848",
+                        "Institution": "ETH-Bibliothek Zürich",
+                        "DOI": "https://doi.org/10.3931/e-rara-25543",
+                        "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
+                    }
+                }
+            ]
         }
-      ]
-    },
-    {
-      "index": "Staatsarchiv des Kantons Zürich",
-      "documents": [
-        {
-          "title": "Furrer, Jonas, Bericht aus der Bundesrevisionskommission vom 26. März 1848",
-          "docId": 1494447,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv des Kantons Zürich",
-            "Signatur": "StAZH L 59.4",
-            "Link": "https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=320716"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Winterthurer Bibliotheken, Sammlung Winterthur",
-      "documents": [
-        {
-          "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
-          "docId": 1430520,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
-            "Signatur": "Ms fol 247",
-            "Lizenz": "CC BY-SA 4.0",
-            "Veröffentlichte Transkriptionen": "Holenstein, Rolf, Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
-          }
-        }
-      ]
-    },
-    {
-      "index": "ETH-Bibliothek Zürich",
-      "documents": [
-        {
-          "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
-          "docId": 1416877,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-77232",
-            "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
-          }
-        },
-        {
-          "title": "Rapport de la commission qui a élaboré le projet de constitution fédérale du 8 avril 1848",
-          "docId": 1504006,
-          "metadata": {
-            "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-25548",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104646?query=Projet%20Constitution"
-          }
-        },
-        {
-          "title": "Projet de Constitution fédérale pour la Confédération suisse / préparé par la Commission de révision du pacte, nommée par la diète le 16 août 1847 (du 17 février au 8 avril 1848)",
-          "docId": 1416800,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-101794",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/28105390"
-          }
-        },
-        {
-          "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
-          "docId": 1416879,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-25543",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
-          }
-        },
-        {
-          "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
-          "docId": 1416879,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-25543",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
-          }
-        }
-      ]
-    }
-  ],
-  "crowdDirectory": [
-    {
-      "index": "Schweizerisches Bundesarchiv",
-      "documents": [
-        {
-          "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 3. April 1848 [Abschrift des Originals in der Stadtbibliothek Winterthur]",
-          "docId": 1336681,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#21*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690840"
-          }
-        },
-        {
-          "title": "Frey-Hérosé, Friedrich, Privatprotokoll über die Verhandlungen der Revisionskommission, vom 17. Februar bis 19. März 1848",
-          "docId": 1302648,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690841"
-          }
-        },
-        {
-          "title": "Akten zu den Verhandlungen der Revisionskommission",
-          "docId": 1336682,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#22*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690842"
-          }
-        },
-        {
-          "title": "Verhandlungen der Tagsatzung 1847-1848 über die Revision des Bundesvertrages von 1815 [Auszüge aus den Abschieden von 1847 und 1848], mit den Entwürfen und Kommissionsberichten, [deutsch und französisch]",
-          "docId": 1327361,
-          "metadata": {
-            "Entstehungsjahr": "1847-1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "D0#1000/3#18*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5690837"
-          }
-        },
-        {
-          "title": "Protocole des délibérations de la Commission chargée le 16 Août 1847 par la Haute diète fédérale de la révision du pacte fédéral du 7 Août 1815",
-          "docId": 1327360,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Schweizerisches Bundesarchiv",
-            "Signatur": "E22#1000/134#315*",
-            "Link": "https://www.recherche.bar.admin.ch/recherche/#/de/archiv/einheit/5999254"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Staatsarchiv Appenzell Ausserrhoden",
-      "documents": [
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. März 1848",
-          "docId": 1494448,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-04",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. März 1848",
-          "docId": 1494449,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-05",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 7. März 1848",
-          "docId": 1494450,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-06",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 11. März 1848",
-          "docId": 1494451,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-08",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 13. März 1848",
-          "docId": 1494452,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-09",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 17. März 1848",
-          "docId": 1494453,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-10",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 19. März 1848",
-          "docId": 1494454,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-11",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 21. März 1848",
-          "docId": 1494455,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-12",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 23. März 1848",
-          "docId": 1494456,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-14",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 24. März 1848",
-          "docId": 1494457,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-15",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 27. März 1848",
-          "docId": 1494458,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-16",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 30. März 1848",
-          "docId": 1494459,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-17",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 3. April 1848",
-          "docId": 1494460,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-18",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 5. April 1848",
-          "docId": 1494462,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-20",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        },
-        {
-          "title": "Oertli, Johann Konrad, Bericht aus der Bundesrevisionskommission vom 6. April 1848",
-          "docId": 1494461,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Appenzell Ausserrhoden",
-            "Signatur": "Ca.C12-04-01-01-21",
-            "Link": "https://query-staatsarchiv.ar.ch/detail.aspx?ID=230727"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Staatsarchiv Basel-Stadt",
-      "documents": [
-        {
-          "title": "Fürstenberger, Johann Georg, Sarasin, Felix, Relation an den Amtsbürgermeister von Rathsherrn Joh. Georg Fürstenberger & Bürgermeister F. Sarasin, über die Sitzungen der Commission zu Revision der Bundes-Verfassung in Bern vom 17. Februar bis 6. April 1848",
-          "docId": 1497684,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Basel-Stadt",
-            "Signatur": "PA 212a L 41",
-            "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
-          }
-        },
-        {
-          "title": "Sarasin, Felix, Revision des Bundesvertrags 1848 (Notizbüchlein)",
-          "docId": 1497666,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv Basel-Stadt",
-            "Signatur": "PA 212a L 41",
-            "Link": "https://dls.staatsarchiv.bs.ch/records/425791"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Staatsarchiv des Kantons Zürich",
-      "documents": [
-        {
-          "title": "Furrer, Jonas, Bericht aus der Bundesrevisionskommission vom 26. März 1848",
-          "docId": 1494447,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Staatsarchiv des Kantons Zürich",
-            "Signatur": "StAZH L 59.4",
-            "Link": "https://suche.staatsarchiv.djiktzh.ch/detail.aspx?id=320716"
-          }
-        }
-      ]
-    },
-    {
-      "index": "Winterthurer Bibliotheken, Sammlung Winterthur",
-      "documents": [
-        {
-          "title": "Furrer, Jonas, Privat-Protokoll über die Verhandlungen der Bundes Revisions Commission vom Febr.-April 1848",
-          "docId": 1430520,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "Winterthurer Bibliotheken, Sammlung Winterthur",
-            "Signatur": "Ms fol 247",
-            "Lizenz": "CC BY-SA 4.0",
-            "Veröffentlichte Transkriptionen": "Holenstein, Rolf, Stunde Null, Die Neuerfindung der Schweiz im Jahr 1848, Die Privatprotokolle und Geheimberichte der Erfinder, Basel 2018, S. 479 ff."
-          }
-        }
-      ]
-    },
-    {
-      "index": "ETH-Bibliothek Zürich",
-      "documents": [
-        {
-          "title": "Protokoll über die Verhandlungen der am 16. August 1847 durch die hohe eidgenössische Tagsatzung mit der Revision des Bundesvertrags vom 7. August 1815 beauftragten Kommission / verfasst duch den Sekretär der Kommission, Herrn eidg. Kanzler Schiess und gedruckt in Folge Beschlusses der Kommission",
-          "docId": 1416877,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-77232",
-            "Link": "https://www.e-rara.ch/zut/doi/10.3931/e-rara-77232"
-          }
-        },
-        {
-          "title": "Rapport de la commission qui a élaboré le projet de constitution fédérale du 8 avril 1848",
-          "docId": 1504006,
-          "metadata": {
-            "Berichterstatter": "Druey, Henri; Kern, Johann Conrad",
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-25548",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104646?query=Projet%20Constitution"
-          }
-        },
-        {
-          "title": "Projet de Constitution fédérale pour la Confédération suisse / préparé par la Commission de révision du pacte, nommée par la diète le 16 août 1847 (du 17 février au 8 avril 1848)",
-          "docId": 1416800,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-101794",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/28105390"
-          }
-        },
-        {
-          "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
-          "docId": 1416879,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-25543",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
-          }
-        },
-        {
-          "title": "Entwurf der Bundesverfassung der Schweizerischen Eidgenossenschaft, wie derselbe aus den Berathungen der Tagsatzung vom 15. Mai bis und mit 27. Brachmonat 1848 hervorgegangen ist",
-          "docId": 1416879,
-          "metadata": {
-            "Entstehungsjahr": "1848",
-            "Institution": "ETH-Bibliothek Zürich",
-            "DOI": "https://doi.org/10.3931/e-rara-25543",
-            "Link": "https://www.e-rara.ch/zut/content/titleinfo/8104433"
-          }
-        }
-      ]
-    }
-  ]
+    ]
 }
