@@ -1,0 +1,1084 @@
+{
+    "id": "warnkoenig",
+    "name": "Leopold August Warnkönig",
+    "col_id": 193028,
+    "crowd_id": 69009,
+    "editionName": "EditionWarnkönig",
+    "editionLink": "warnkoenig",
+    "background": "warnkoenig.png",
+    "logo": "warnkoenig.png",
+    "portrait": "warnkoenig.svg",
+    "timelineThumbnail": "warnkoenig.png",
+    "colors": {
+        "primaryColor": "184, 153, 90",
+        "primaryColorLight": "200, 176, 128",
+        "primaryColorDark": "10, 10, 10",
+        "secondaryColor": "208, 188, 147"
+    },
+    "footerLogos": [
+        {
+            "link": "https://www.uzh.ch/",
+            "src": "logo-uzh.svg",
+            "alt": "Universität Zürich"
+        },
+        {
+            "link": "https://readcoop.eu/readsearch/",
+            "src": "logo-readcoop.svg",
+            "alt": "Read COOP"
+        }
+    ],
+    "staticDirectory": [
+        {
+            "index": "Veröffentlichungen",
+            "documents": [
+                {
+                    "title": "Warnkönig, Leopold August: Commentarii Juris Romani Privati, Ad Ememplum Optimorum A Celeberrimis Germaniae Jurisconsulati Compositorum Adornati. 2",
+                    "docId": 1364698,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Ueber den Conflict des Episcopats der oberrheinischen Kirchenprovinz mit den Landesregierungen in derselben",
+                    "docId": 1364697,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats- und Rechtsgeschichte bis zum Jahr 1305. 3, 1",
+                    "docId": 1364696,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Juristische Encyclopädie",
+                    "docId": 1364693,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die katholische Frage im Sommer 1848",
+                    "docId": 1364692,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leop.August: Exposé historique et raisonné du conflit entre l´épiscopat et les gouvernements des territoires composant la province ecclésiastique de Haut - Rhin en Allemagne",
+                    "docId": 1364689,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Die Großherzoglich badischen Gesetze über die Ausübung der Jagd und Fischerei nebst den darauf bezüglichen Verordnungen, Ministerial - Entschließungen und strafgesetzlichen Bestimmungen mit Rücksicht auf die neue Organisation",
+                    "docId": 1364688,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, L.A.: Histoire constitutionelle et administrative de la ville de Gand et de la chatellenie du Vieux - Bourg, jusqu` à l`année 1305; par L.A.Warnkoenig",
+                    "docId": 1364687,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Der geheime Hofrath Leopold August Warnkoenig als Verf.der Schrift: Die kathol.Frage im Sommer 1848, vor den Richterstuhl der Kritik gezogen vom Verf.der kathol.Bedenken über die erzwungene Einsegnung der gemischten Ehen",
+                    "docId": 1364686,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, L.A.: Don Carlos",
+                    "docId": 1364684,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Karl V., Heiliges Römisches Reich, Kaiser: Aufzeichnungen des Kaiser Karl´s des Fünften",
+                    "docId": 1364682,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Karl V., Heiliges Römisches Reich, Kaiser: Aufzeichnungen des Kaiser Karl´s des Fünften",
+                    "docId": 1364681,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Karl V., Heiliges Römisches Reich, Kaiser: Aufzeichnungen des Kaiser Karl´s des Fünften",
+                    "docId": 1364753,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Laboulaye, Édouard René Lefebvre de: Eine Stimme des Auslandes über religiöse Freiheit",
+                    "docId": 1364750,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 5",
+                    "docId": 1364749,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire des Carolingiens. 1",
+                    "docId": 1364747,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 4",
+                    "docId": 1364746,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 3",
+                    "docId": 1364745,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 1",
+                    "docId": 1364744,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 2",
+                    "docId": 1364743,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Französische Staats - und Rechtsgeschichte. 1: Französische Staatsgeschichte",
+                    "docId": 1364742,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 2",
+                    "docId": 1364741,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 1",
+                    "docId": 1364740,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 3",
+                    "docId": 1364739,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire des Carolingiens. 2",
+                    "docId": 1364737,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, L.A.: Die Actio emti nach Tit.Dig.de act.emti et venditi",
+                    "docId": 1364734,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Michaelis, Adolph: Historische Darstellung des französischen Erbrechts",
+                    "docId": 1364733,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Klimrath, Henri: Travaux sur l´histoire du droit Français. 2",
+                    "docId": 1364732,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Ordo iudiciorum cum glossa sub finem Saeculi XIII e Codice Trevirensi",
+                    "docId": 1364730,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Versuch einer Begründung des Rechts durch eine Vernunftidee",
+                    "docId": 1364729,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Doctrina Iuris Philosophica aphorismis distincta",
+                    "docId": 1364726,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 2: Geschichte der Rechtsquellen und des Privatrechts",
+                    "docId": 1364725,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Beiträge zur Geschichte und Quellenkunde des Lütticher Gewohnheits - Rechts",
+                    "docId": 1364723,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Beiträge zur Geschichte und Quellenkunde des Lütticher Gewohnheits - Rechts",
+                    "docId": 1364721,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Juristische Encyclopädie",
+                    "docId": 1364719,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Recherches sur la législation belge au moyen - âge",
+                    "docId": 1364718,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die staatsrechtliche Stellung der katholischen Kirche in den katholischen Ländern des deutschen Reichs, besonders im achtzehnten Jahrhundert",
+                    "docId": 1364717,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Rechtsphilosophie als Naturlehre des Rechts",
+                    "docId": 1364716,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 1",
+                    "docId": 1364715,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Vorschule der Institutionen und Pandekten",
+                    "docId": 1364714,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Philosophiae iuris delineatio",
+                    "docId": 1364713,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 2, 1",
+                    "docId": 1364711,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die staatsrechtliche Stellung der katholischen Kirche in den katholischen Ländern des deutschen Reichs, besonders im achtzehnten Jahrhundert",
+                    "docId": 1364710,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 2, 2",
+                    "docId": 1364708,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Von der Wichtigkeit der Kunde des Rechts und der Geschichte der belgischen Provinzen für die deutsche Staats - und Rechtsgeschichte",
+                    "docId": 1364707,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Commentarii Juris Romani Privati, Ad Ememplum Optimorum A Celeberrimis Germaniae Jurisconsulati Compositorum Adornati. 1",
+                    "docId": 1364706,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 3, 2",
+                    "docId": 1364705,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Von der Wichtigkeit der Kunde des Rechts und der Geschichte der belgischen Provinzen für die deutsche Staats - und Rechtsgeschichte",
+                    "docId": 1364703,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Von der Wichtigkeit der Kunde des Rechts und der Geschichte der belgischen Provinzen für die deutsche Staats - und Rechtsgeschichte",
+                    "docId": 1364702,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Umrisse einer kirchlichen Verfassungs - und äußeren Rechtsgeschichte",
+                    "docId": 1364701,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Institutiones juris Romani privati",
+                    "docId": 1364700,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die Kirche Frankreichs und die Unterrichtsfreiheit",
+                    "docId": 1364699,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                }
+            ]
+        }
+    ],
+    "crowdDirectory": [
+        {
+            "index": "Veröffentlichungen",
+            "documents": [
+                {
+                    "title": "Warnkönig, Leopold August: Commentarii Juris Romani Privati, Ad Ememplum Optimorum A Celeberrimis Germaniae Jurisconsulati Compositorum Adornati. 2",
+                    "docId": 1364698,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Ueber den Conflict des Episcopats der oberrheinischen Kirchenprovinz mit den Landesregierungen in derselben",
+                    "docId": 1364697,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats- und Rechtsgeschichte bis zum Jahr 1305. 3, 1",
+                    "docId": 1364696,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Juristische Encyclopädie",
+                    "docId": 1364693,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die katholische Frage im Sommer 1848",
+                    "docId": 1364692,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leop.August: Exposé historique et raisonné du conflit entre l´épiscopat et les gouvernements des territoires composant la province ecclésiastique de Haut - Rhin en Allemagne",
+                    "docId": 1364689,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Die Großherzoglich badischen Gesetze über die Ausübung der Jagd und Fischerei nebst den darauf bezüglichen Verordnungen, Ministerial - Entschließungen und strafgesetzlichen Bestimmungen mit Rücksicht auf die neue Organisation",
+                    "docId": 1364688,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, L.A.: Histoire constitutionelle et administrative de la ville de Gand et de la chatellenie du Vieux - Bourg, jusqu` à l`année 1305; par L.A.Warnkoenig",
+                    "docId": 1364687,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Der geheime Hofrath Leopold August Warnkoenig als Verf.der Schrift: Die kathol.Frage im Sommer 1848, vor den Richterstuhl der Kritik gezogen vom Verf.der kathol.Bedenken über die erzwungene Einsegnung der gemischten Ehen",
+                    "docId": 1364686,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, L.A.: Don Carlos",
+                    "docId": 1364684,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Karl V., Heiliges Römisches Reich, Kaiser: Aufzeichnungen des Kaiser Karl´s des Fünften",
+                    "docId": 1364682,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Karl V., Heiliges Römisches Reich, Kaiser: Aufzeichnungen des Kaiser Karl´s des Fünften",
+                    "docId": 1364681,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Karl V., Heiliges Römisches Reich, Kaiser: Aufzeichnungen des Kaiser Karl´s des Fünften",
+                    "docId": 1364753,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Laboulaye, Édouard René Lefebvre de: Eine Stimme des Auslandes über religiöse Freiheit",
+                    "docId": 1364750,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 5",
+                    "docId": 1364749,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire des Carolingiens. 1",
+                    "docId": 1364747,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 4",
+                    "docId": 1364746,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 3",
+                    "docId": 1364745,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 1",
+                    "docId": 1364744,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 2",
+                    "docId": 1364743,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Französische Staats - und Rechtsgeschichte. 1: Französische Staatsgeschichte",
+                    "docId": 1364742,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 2",
+                    "docId": 1364741,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 1",
+                    "docId": 1364740,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire de la Flandre et de ses institutions civiles et politiques jusqu`à l`année 1305. 3",
+                    "docId": 1364739,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Histoire des Carolingiens. 2",
+                    "docId": 1364737,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, L.A.: Die Actio emti nach Tit.Dig.de act.emti et venditi",
+                    "docId": 1364734,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Michaelis, Adolph: Historische Darstellung des französischen Erbrechts",
+                    "docId": 1364733,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Klimrath, Henri: Travaux sur l´histoire du droit Français. 2",
+                    "docId": 1364732,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Ordo iudiciorum cum glossa sub finem Saeculi XIII e Codice Trevirensi",
+                    "docId": 1364730,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Versuch einer Begründung des Rechts durch eine Vernunftidee",
+                    "docId": 1364729,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Doctrina Iuris Philosophica aphorismis distincta",
+                    "docId": 1364726,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Französische Staats - und Rechtsgeschichte. 2: Geschichte der Rechtsquellen und des Privatrechts",
+                    "docId": 1364725,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Beiträge zur Geschichte und Quellenkunde des Lütticher Gewohnheits - Rechts",
+                    "docId": 1364723,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Beiträge zur Geschichte und Quellenkunde des Lütticher Gewohnheits - Rechts",
+                    "docId": 1364721,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Juristische Encyclopädie",
+                    "docId": 1364719,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Recherches sur la législation belge au moyen - âge",
+                    "docId": 1364718,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die staatsrechtliche Stellung der katholischen Kirche in den katholischen Ländern des deutschen Reichs, besonders im achtzehnten Jahrhundert",
+                    "docId": 1364717,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Rechtsphilosophie als Naturlehre des Rechts",
+                    "docId": 1364716,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 1",
+                    "docId": 1364715,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Vorschule der Institutionen und Pandekten",
+                    "docId": 1364714,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Philosophiae iuris delineatio",
+                    "docId": 1364713,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 2, 1",
+                    "docId": 1364711,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die staatsrechtliche Stellung der katholischen Kirche in den katholischen Ländern des deutschen Reichs, besonders im achtzehnten Jahrhundert",
+                    "docId": 1364710,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 2, 2",
+                    "docId": 1364708,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Von der Wichtigkeit der Kunde des Rechts und der Geschichte der belgischen Provinzen für die deutsche Staats - und Rechtsgeschichte",
+                    "docId": 1364707,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Commentarii Juris Romani Privati, Ad Ememplum Optimorum A Celeberrimis Germaniae Jurisconsulati Compositorum Adornati. 1",
+                    "docId": 1364706,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Flandrische Staats - und Rechtsgeschichte bis zum Jahr 1305. 3, 2",
+                    "docId": 1364705,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Von der Wichtigkeit der Kunde des Rechts und der Geschichte der belgischen Provinzen für die deutsche Staats - und Rechtsgeschichte",
+                    "docId": 1364703,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Von der Wichtigkeit der Kunde des Rechts und der Geschichte der belgischen Provinzen für die deutsche Staats - und Rechtsgeschichte",
+                    "docId": 1364702,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Umrisse einer kirchlichen Verfassungs - und äußeren Rechtsgeschichte",
+                    "docId": 1364701,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Institutiones juris Romani privati",
+                    "docId": 1364700,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                },
+                {
+                    "title": " Warnkönig, Leopold August: Die Kirche Frankreichs und die Unterrichtsfreiheit",
+                    "docId": 1364699,
+                    "metadata": {
+                        "Entstehungsjahr": "",
+                        "Institution": "Bayerische Staatsbibliothek München",
+                        "Signatur": "",
+                        "Link": ""
+                    }
+                }
+            ]
+        }
+    ]
+}

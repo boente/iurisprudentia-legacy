@@ -1,0 +1,438 @@
+/* eslint-disable max-len */
+// Eugen Ehrlich
+const link = 'ehrlich';
+const eugenehrlich = {
+  name: 'Eugen Ehrlich',
+  col_id: 70219,
+  crowd_id: 69009,
+  editionName: 'EditionEugenEhrlich',
+  editionLink: link,
+  background: 'ehrlich.png',
+  logo: 'ehrlich.png',
+  portrait: 'ehrlich.svg',
+  timelineThumbnail: 'ehrlich.png',
+  colors: {
+    primaryColor: '184, 153, 90',
+    primaryColorLight: '200, 176, 128',
+    primaryColorDark: '10, 10, 10',
+    secondaryColor: '208, 188, 147',
+  },
+  footerLogos: [
+    {
+      link: 'https://www.uzh.ch/',
+      src: 'logo-uzh.svg',
+      alt: 'Universität Zürich',
+    },
+    {
+      link: 'https://readcoop.eu/readsearch/',
+      src: 'logo-readcoop.svg',
+      alt: 'Read COOP',
+    },
+  ],
+  staticDirectory: [
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+        {
+          title: 'Ehrlich, Eugen, Die stillschweigende Willenserklärung, Berlin 1893',
+          docId: 1214603,
+          metadata: {
+            Entstehungsjahr: '1893',
+            Institution: 'Harvard University',
+            Signatur: '',
+            Link: 'https://hdl.handle.net/2027/hvd.32044056930423',
+          },
+        },
+        {
+          title: 'Ehrlich, Eugen, Das zwingende und nichtzwingede Recht im bürgerlichen Gesetzbuch für das deutsche Reich, Jena 1899',
+          docId: 1221110,
+          metadata: {
+            Entstehungsjahr: '1899',
+            Institution: 'Cornell University',
+            Signatur: '',
+            Link: 'https://hdl.handle.net/2027/coo.31924070153832',
+          },
+        },
+        {
+            title: 'Ehrlich, Eugen, Eine Hochschule für Gesellschaftswissenschaften: Denkschrift von Eugen Ehrlich, Wien 1900',
+            docId: 1215768,
+            metadata: {
+              Entstehungsjahr: '1900',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: '40.1529*',
+              Link: 'https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10931216-9',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Beiträge zur Theorie der Rechtsquellen, Erster Theil, Das ius civile, ius publicum, ius privatum, Berlin 1902',
+            docId: 1214608,
+            metadata: {
+              Entstehungsjahr: '1902',
+              Institution: 'Princeton University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/njp.32101072863200',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Freie Rechtsfindung und freie Rechtswissenschaft, Vortrag gehalten in der Juristischen Gesellschaft in Wien am 4. März 1903, Leipzig 1903',
+            docId: 1214601,
+            metadata: {
+              Entstehungsjahr: '1903',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044059121343',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Ulpians ΌΎΣΊΑtheorie, Sonderdruck aus: Studi in onore di Vittorio Scialoja, Prato 1904',
+            docId: 1221108,
+            metadata: {
+              Entstehungsjahr: '1904',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044097733638',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Recht und Prätor, Eine Entgegnung, Sonderdruck aus: Zeitschrift für das Privat- und Öffentliche Recht der Gegenwart, XXXI. Band, Wien 1904',
+            docId: 1221107,
+            metadata: {
+              Entstehungsjahr: '1904',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044097733547',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Internationales Privatrecht, Berlin 1906',
+            docId: 1214599,
+            metadata: {
+              Entstehungsjahr: '1906',
+              Institution: 'University of Michigan',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/mdp.35112102586072',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Die Tatsachen des Gewohnheitsrechts, Inaugurationsrede gehalten am 2. Dezember 1906, Czernowitz 1906',
+            docId: 1215768,
+            metadata: {
+              Entstehungsjahr: '1906',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'H.lit.p. 414 vg-1906/07',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11168299-4',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Zur Frage der juristischen Person, Vortrag gehalten in der Juristisch-staatswissenschaftlichen Gesellschaft in Czernowitz, Nach einer stenographischen Aufnahme, Czernowitz 1907',
+            docId: 1221109,
+            metadata: {
+              Entstehungsjahr: '1907',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044056943426',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Les tendances actuelles du droit international privé, Paris 1909',
+            docId: 1214598,
+            metadata: {
+              Entstehungsjahr: '1909',
+              Institution: 'University of Minnesota',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/umn.31951002572981k',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Grundlegung der Soziologie des Rechts, München, Leipzig 1913',
+            docId: 1214600,
+            metadata: {
+              Entstehungsjahr: '1913',
+              Institution: 'University of Michigan',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/mdp.39015028052812',
+            },
+          },
+             {
+            title: 'Ehrlich, Eugen, Les tendances actuelles du droit international privé, Paris 1909',
+            docId: 1214598,
+            metadata: {
+              Entstehungsjahr: '1909',
+              Institution: 'University of Minnesota',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/umn.31951002572981k',
+            },
+          },
+        {
+            title: 'Ehrlich, Eugen, Die Aufgaben der Sozialpolitik im österreichischen Osten (Jude- und Bauernfrage), in: Schriften des Sozialwissenschaftlichen Akademischen Vereins in Czernowitz, Heft I, 4. Auflage, München, Leipzig 1916',
+            docId: 1215769,
+            metadata: {
+              Entstehungsjahr: '1916',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'Austr. 5356 r',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11022631-6',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, The national problems in Austria, in: International congress for the study of the principles of a durable peace, Berne 1916, The Hague 1917',
+            docId: 1214609,
+            metadata: {
+              Entstehungsjahr: '1917',
+              Institution: 'Duke University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/dul1.ark:/13960/t5s79bd2m',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Quelques aspects de la Question Nationale Autrichienne, Avec une lettre de M. Georges Brandès, Genève 1918',
+            docId: 1214597,
+            metadata: {
+              Entstehungsjahr: '1918',
+              Institution: 'University of California',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/uc1.$b582864',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Die juristische Logik, Tübingen 1918',
+            docId: 1214605,
+            metadata: {
+              Entstehungsjahr: '1918',
+              Institution: 'Cornell University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/coo.31924017201306',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Bismark und der Weltkrieg, Zürich 1920',
+            docId: 1215766,
+            metadata: {
+              Entstehungsjahr: '1920',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'H.un.app. 968 y*',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11126094-3',
+            },
+          },
+      ],
+    },
+    {
+        index: 'Korrespondenz, Briefe von Eugen Ehrlich',
+        documents: [
+          {
+            title: 'Brief von Eugen Ehrlich an Karl von Amira',
+            docId: 1215767,
+            metadata: {
+              Entstehungsjahr: '10.01.1916',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'Amiraiana I. Ehrlich, Eugen',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00141174-7',
+            },
+          },
+        ],
+      },
+  ],
+  crowdDirectory: [
+    {
+      index: 'Veröffentlichungen',
+      documents: [
+        {
+          title: 'Ehrlich, Eugen, Die stillschweigende Willenserklärung, Berlin 1893',
+          docId: 1214603,
+          metadata: {
+            Entstehungsjahr: '1893',
+            Institution: 'Harvard University',
+            Signatur: '',
+            Link: 'https://hdl.handle.net/2027/hvd.32044056930423',
+          },
+        },
+        {
+          title: 'Ehrlich, Eugen, Das zwingende und nichtzwingede Recht im bürgerlichen Gesetzbuch für das deutsche Reich, Jena 1899',
+          docId: 1221110,
+          metadata: {
+            Entstehungsjahr: '1899',
+            Institution: 'Cornell University',
+            Signatur: '',
+            Link: 'https://hdl.handle.net/2027/coo.31924070153832',
+          },
+        },
+        {
+            title: 'Ehrlich, Eugen, Eine Hochschule für Gesellschaftswissenschaften: Denkschrift von Eugen Ehrlich, Wien 1900',
+            docId: 1215768,
+            metadata: {
+              Entstehungsjahr: '1900',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: '40.1529*',
+              Link: 'https://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb10931216-9',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Beiträge zur Theorie der Rechtsquellen, Erster Theil, Das ius civile, ius publicum, ius privatum, Berlin 1902',
+            docId: 1214608,
+            metadata: {
+              Entstehungsjahr: '1902',
+              Institution: 'Princeton University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/njp.32101072863200',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Freie Rechtsfindung und freie Rechtswissenschaft, Vortrag gehalten in der Juristischen Gesellschaft in Wien am 4. März 1903, Leipzig 1903',
+            docId: 1214601,
+            metadata: {
+              Entstehungsjahr: '1903',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044059121343',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Ulpians ΌΎΣΊΑtheorie, Sonderdruck aus: Studi in onore di Vittorio Scialoja, Prato 1904',
+            docId: 1221108,
+            metadata: {
+              Entstehungsjahr: '1904',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044097733638',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Recht und Prätor, Eine Entgegnung, Sonderdruck aus: Zeitschrift für das Privat- und Öffentliche Recht der Gegenwart, XXXI. Band, Wien 1904',
+            docId: 1221107,
+            metadata: {
+              Entstehungsjahr: '1904',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044097733547',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Internationales Privatrecht, Berlin 1906',
+            docId: 1214599,
+            metadata: {
+              Entstehungsjahr: '1906',
+              Institution: 'University of Michigan',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/mdp.35112102586072',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Die Tatsachen des Gewohnheitsrechts, Inaugurationsrede gehalten am 2. Dezember 1906, Czernowitz 1906',
+            docId: 1215768,
+            metadata: {
+              Entstehungsjahr: '1906',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'H.lit.p. 414 vg-1906/07',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11168299-4',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Zur Frage der juristischen Person, Vortrag gehalten in der Juristisch-staatswissenschaftlichen Gesellschaft in Czernowitz, Nach einer stenographischen Aufnahme, Czernowitz 1907',
+            docId: 1221109,
+            metadata: {
+              Entstehungsjahr: '1907',
+              Institution: 'Harvard University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/hvd.32044056943426',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Les tendances actuelles du droit international privé, Paris 1909',
+            docId: 1214598,
+            metadata: {
+              Entstehungsjahr: '1909',
+              Institution: 'University of Minnesota',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/umn.31951002572981k',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Grundlegung der Soziologie des Rechts, München, Leipzig 1913',
+            docId: 1214600,
+            metadata: {
+              Entstehungsjahr: '1913',
+              Institution: 'University of Michigan',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/mdp.39015028052812',
+            },
+          },
+             {
+            title: 'Ehrlich, Eugen, Les tendances actuelles du droit international privé, Paris 1909',
+            docId: 1214598,
+            metadata: {
+              Entstehungsjahr: '1909',
+              Institution: 'University of Minnesota',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/umn.31951002572981k',
+            },
+          },
+        {
+            title: 'Ehrlich, Eugen, Die Aufgaben der Sozialpolitik im österreichischen Osten (Jude- und Bauernfrage), in: Schriften des Sozialwissenschaftlichen Akademischen Vereins in Czernowitz, Heft I, 4. Auflage, München, Leipzig 1916',
+            docId: 1215769,
+            metadata: {
+              Entstehungsjahr: '1916',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'Austr. 5356 r',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11022631-6',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, The national problems in Austria, in: International congress for the study of the principles of a durable peace, Berne 1916, The Hague 1917',
+            docId: 1214609,
+            metadata: {
+              Entstehungsjahr: '1917',
+              Institution: 'Duke University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/dul1.ark:/13960/t5s79bd2m',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Quelques aspects de la Question Nationale Autrichienne, Avec une lettre de M. Georges Brandès, Genève 1918',
+            docId: 1214597,
+            metadata: {
+              Entstehungsjahr: '1918',
+              Institution: 'University of California',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/uc1.$b582864',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Die juristische Logik, Tübingen 1918',
+            docId: 1214605,
+            metadata: {
+              Entstehungsjahr: '1918',
+              Institution: 'Cornell University',
+              Signatur: '',
+              Link: 'https://hdl.handle.net/2027/coo.31924017201306',
+            },
+          },
+          {
+            title: 'Ehrlich, Eugen, Bismark und der Weltkrieg, Zürich 1920',
+            docId: 1215766,
+            metadata: {
+              Entstehungsjahr: '1920',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'H.un.app. 968 y*',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb11126094-3',
+            },
+          },
+      ],
+    },
+    {
+        index: 'Korrespondenz, Briefe von Eugen Ehrlich',
+        documents: [
+          {
+            title: 'Brief von Eugen Ehrlich an Karl von Amira',
+            docId: 1215767,
+            metadata: {
+              Entstehungsjahr: '10.01.1916',
+              Institution: 'Bayerische Staatsbibliothek München',
+              Signatur: 'Amiraiana I. Ehrlich, Eugen',
+              Link: 'http://mdz-nbn-resolving.de/urn:nbn:de:bvb:12-bsb00141174-7',
+            },
+          },
+        ],
+      },
+  ],
+};
+
+export default eugenehrlich;
