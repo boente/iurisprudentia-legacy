@@ -18,7 +18,7 @@ module.exports = {
     },
   },
   publicPath: process.env.NODE_ENV === 'production'
-    ? '/iurisprudentia/'
+    ? '/'
     : '/',
   devServer: {
     overlay: {
