@@ -67,7 +67,7 @@ export default {
       });
     },
     isLink(str) {
-      str = str.toString();
+      str = str ? str.toString() : '';
       return str.startsWith('http');
     },
   },
