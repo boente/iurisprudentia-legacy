@@ -30,8 +30,8 @@ Vue.use(Buefy, {
 });
 
 Vue.use(VueMatomo, {
-  host: 'https://matomo.rwi.app',
-  siteId: 4,
+  host: 'https://analytics.iust.online',
+  siteId: 1,
   trackerFileName: 'matomo',
   router,
   enableLinkTracking: true,
