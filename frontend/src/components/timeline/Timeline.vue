@@ -170,7 +170,7 @@ html {
 .notice {
   background-color: rgba(var(--primary-color), 1);
   position: relative;
-  max-width: 700px;
+  max-width: 730px;
   padding: 20px;
   margin: 30px auto 0 auto;
   color: white;
